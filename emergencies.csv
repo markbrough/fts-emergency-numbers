@@ -1,570 +1,1037 @@
 title,type,id,year,country
-Caucasus (Northern) 1999,Complex Emergency,13598,1999,Russian Federation
-Miscellaneous 1999,Miscellaneous,16743,1999,
-West Timor 1999,Complex Emergency,13592,1999,Indonesia
-Algeria 2000,Miscellaneous,14357,2000,Algeria
-Armenia 2000,Miscellaneous,14319,2000,Armenia
-Azerbaijan 2000,Miscellaneous,14307,2000,Azerbaijan
-Burundi 2000,Complex Emergency,13574,2000,Burundi
-Democratic Republic of the Congo 2000,Complex Emergency,13576,2000,"Congo, Democratic Republic of the"
-Djibouti 2000,Miscellaneous,14362,2000,Djibouti
-Ethiopia 2000,Miscellaneous,14300,2000,Ethiopia
-Georgia 2000,Miscellaneous,14308,2000,Georgia
-Jordan 2000,Miscellaneous,14361,2000,Jordan
-Kenya 2000,Miscellaneous,14303,2000,Kenya
-Lao PDR 2000,Miscellaneous,14315,2000,Lao People's Democratic Republic
-Miscellaneous 2000 (funding not earmarked by country or emergency),Miscellaneous,14796,2000,none
-Mozambique  2000,Miscellaneous,14312,2000,Mozambique
-Nepal 2000,Miscellaneous,14316,2000,Nepal
-Palestine 2000,Miscellaneous,13618,2000,"Palestinian territory, occupied"
-Republic of  Congo 2000,Complex Emergency,13583,2000,"Congo, Republic of"
-South Africa 2000,Miscellaneous,14359,2000,South Africa
-Southeastern Europe 2000,Complex Emergency,13591,2000,Region
-Sri Lanka  2000,Miscellaneous,14310,2000,Sri Lanka
-Sudan 2000,Complex Emergency,13581,2000,Sudan
-Syrian Arab Republic 2000,Miscellaneous,14360,2000,Syrian Arab Republic
-Thailand 2000,Miscellaneous,14306,2000,Thailand
-Uganda 2000,Complex Emergency,13585,2000,Uganda
-Ukraine 2002,Miscellaneous,14324,2000,Ukraine
-UNRWA 2000,Miscellaneous,14304,2000,Region
-Venezuela 2000,Miscellaneous,14358,2000,Venezuela
-West Timor 2002,Miscellaneous,14311,2000,Indonesia
-Zambia 2000,Miscellaneous,14320,2000,Zambia
-Africa 2001,Miscellaneous,13634,2001,Region
-Algeria 2001,Complex Emergency,14063,2001,Algeria
-Armenia 2001,Miscellaneous,13628,2001,Armenia
-Australia 2001,Miscellaneous,14188,2001,Australia
-Azerbaijan 2001,Complex Emergency,14061,2001,Azerbaijan
-Baltic States 2001,Miscellaneous,14089,2001,Region
-Bangladesh 2001,Miscellaneous,14146,2001,Bangladesh
-Belarus 2001,Miscellaneous,13633,2001,Belarus
-Benin 2001,Complex Emergency,14065,2001,Benin
-Bielorussia 2001,Miscellaneous,14133,2001,Belarus
-Bolivia 2001,Miscellaneous,13619,2001,Bolivia
-Brazil 2001,Complex Emergency,14084,2001,Brazil
-Bulgaria 2001,Complex Emergency,13572,2001,Bulgaria
-Burkina Faso 2001,Miscellaneous,13611,2001,Burkina Faso
-Burundi 2001,Complex Emergency,13555,2001,Burundi
-Cambodia 2001,Miscellaneous,13608,2001,Cambodia
-Cameroon 2001,Complex Emergency,14066,2001,Cameroon
-Caucasus (Northern) 2001,Complex Emergency,13554,2001,Russian Federation
-Central America 2001,Miscellaneous,14098,2001,Region
-Chad 2001,Miscellaneous,14067,2001,Chad
-Chile 2001,Complex Emergency,14085,2001,Chile
-CHINA - Snowstorm - June 2001,Natural Disaster,14181,2001,China
-China 2001,Miscellaneous,14126,2001,China
-CIS 2001,Miscellaneous,14139,2001,Region
-Cote d'Ivoire 2001,Miscellaneous,14108,2001,Cote d'Ivoire
-Democratic Republic of the Congo 2001,Complex Emergency,13560,2001,"Congo, Democratic Republic of the"
-East Timor 2001,Miscellaneous,14111,2001,Timor-Leste
-Ecuador 2001,Miscellaneous,14200,2001,Ecuador
-Egypt 2001,Miscellaneous,14355,2001,Egypt
-El Salvador 2001,Miscellaneous,14149,2001,El Salvador
-Ethiopia 2001,Complex Emergency,13579,2001,Ethiopia
-Europe 2001,Miscellaneous,13635,2001,Region
-Georgia 2001,Complex Emergency,14058,2001,Georgia
-Ghana 2001,Miscellaneous,13626,2001,Ghana
-Guatemala 2001,Miscellaneous,14104,2001,Guatemala
-Horn of Africa 2001,Complex Emergency,13561,2001,Region
-Hungary Floods 2001,Natural Disaster,13605,2001,Hungary
-ICRC 2001,Miscellaneous,14102,2001,none
-India 2001,Miscellaneous,14352,2001,India
-IOM 2001,Miscellaneous,14096,2001,none
-Iran 2001,Complex Emergency,14064,2001,"Iran, Islamic Republic of"
-Israel 2001,Miscellaneous,14092,2001,Israel
-Jordan 2001,Complex Emergency,14073,2001,Jordan
-Kazakhstan 2001,Miscellaneous,14134,2001,Kazakhstan
-Kuwait 2001,Miscellaneous,14107,2001,Kuwait
-Lao PDR 2001,Miscellaneous,14131,2001,Lao People's Democratic Republic
-Latin America 2001,Miscellaneous,14097,2001,Region
-Lebanon 2001,Miscellaneous,14105,2001,Lebanon
-Madagascar 2001,Complex Emergency,14076,2001,Madagascar
-Malawi 2001,Miscellaneous,14187,2001,Malawi
-Mali 2001,Complex Emergency,14077,2001,Mali
-Mauritania 2001,Complex Emergency,14078,2001,Mauritania
-Middle East  2001,Miscellaneous,13625,2001,Region
-Miscellaneous 2001 (funding not earmarked by country or emergency),Miscellaneous,14795,2001,none
-Moldova 2001,Complex Emergency,14068,2001,"Moldova, Republic of"
-Mongolia 2001,Miscellaneous,14145,2001,Mongolia
-Morocco 2001,Complex Emergency,14079,2001,Morocco
-Mozambique 2001,Miscellaneous,13601,2001,Mozambique
-Myanmar 2001,Complex Emergency,14086,2001,Myanmar
-Namibia 2001,Complex Emergency,14087,2001,Namibia
-Nicaragua 2001,Miscellaneous,13620,2001,Nicaragua
-Niger 2001,Miscellaneous,14114,2001,Niger
-Nigeria 2001,Miscellaneous,14143,2001,Nigeria
-OCHA 2001,Miscellaneous,13607,2001,none
-Pakistan 2001,Miscellaneous,13609,2001,Pakistan
-Palestine 2001,Miscellaneous,13602,2001,"Palestinian territory, occupied"
-Philippines 2001,Complex Emergency,14164,2001,Philippines
-Republic of Congo 2001,Complex Emergency,13562,2001,"Congo, Republic of"
-Romania 2001,Miscellaneous,14351,2001,Romania
-Russian Federation 2001,Miscellaneous,14100,2001,Russian Federation
-Senegal 2001,Complex Emergency,14080,2001,Senegal
-South Africa 2001,Miscellaneous,14144,2001,South Africa
-South Caucasus 2001,Miscellaneous,14110,2001,Region
-Southeastern Europe 2001,Complex Emergency,13568,2001,Region
-Sudan 2001,Complex Emergency,13566,2001,Sudan
-Sweden 2001,Miscellaneous,14140,2001,Sweden
-Syrian Arab Republic 2001,Miscellaneous,14356,2001,Syrian Arab Republic
-Thailand 2001,Complex Emergency,13617,2001,Thailand
-Togo 2001,Complex Emergency,14074,2001,Togo
-Tunisia 2001,Miscellaneous,14106,2001,Tunisia
-Turkey 2001,Miscellaneous,14161,2001,Turkey
-Uganda 2001,Complex Emergency,13564,2001,Uganda
-UNHCR 2001,Miscellaneous,14095,2001,none
-Uzbekistan 2001,Miscellaneous,14109,2001,Uzbekistan
-Venezuela 2001,Miscellaneous,14186,2001,Venezuela
-Viet Nam 2001,Miscellaneous,13569,2001,Viet Nam
-West Bank and Gaza 2001,Complex Emergency,13621,2001,"Palestinian territory, occupied"
-WFP 2001,Miscellaneous,14094,2001,none
-Yemen 2001,Miscellaneous,14141,2001,Yemen
-Zambia 2001,Miscellaneous,13613,2001,Zambia
-Zimbabwe 2001,Miscellaneous,14099,2001,Zimbabwe
-Africa 2002,Miscellaneous,14232,2002,Region
-Algeria 2002,Miscellaneous,14223,2002,Algeria
-Argentina 2002,Miscellaneous,14284,2002,Argentina
-Armenia 2002,Miscellaneous,14208,2002,Armenia
-Asia / Americas 2002,Miscellaneous,14253,2002,Region
-Asia / Pacific 2002,Miscellaneous,14403,2002,Region
-Asia 2002,Miscellaneous,14241,2002,Region
-Australia 2002,Miscellaneous,14426,2002,Australia
-Austria 2002,Miscellaneous,14379,2002,Austria
-Azerbaijan 2002,Miscellaneous,14205,2002,Azerbaijan
-Baltic States 2002,Miscellaneous,14252,2002,Region
-Bangladesh 2002,Miscellaneous,14247,2002,Bangladesh
-Belarus 2002,Miscellaneous,14266,2002,Belarus
-Bolivia 2002,Miscellaneous,14234,2002,Bolivia
-Brazil 2002,Miscellaneous,14202,2002,Brazil
-Bulgaria 2002,Miscellaneous,14248,2002,Bulgaria
-Burkina Faso 2002,Miscellaneous,14237,2002,Burkina Faso
-Burundi 2002,Complex Emergency,14171,2002,Burundi
-Cambodia 2002,Miscellaneous,14217,2002,Cambodia
-Cameroon 2002,Miscellaneous,14323,2002,Cameroon
-Cape Verde 2002,Miscellaneous,14404,2002,Cape Verde
-Central America 2002,Miscellaneous,14354,2002,Region
-Central and South America 2002,Miscellaneous,14242,2002,Region
-Chad 2002,Miscellaneous,14238,2002,Chad
-Chile 2002,Miscellaneous,14233,2002,Chile
-China 2002,Miscellaneous,14427,2002,China
-Costa Rica 2002,Miscellaneous,14348,2002,Costa Rica
-Cuba 2002,Miscellaneous,14269,2002,Cuba
-Czech Republic 2002,Miscellaneous,14413,2002,Czech Republic
-Democratic Republic of the Congo 2002,Complex Emergency,14172,2002,"Congo, Democratic Republic of the"
-Djibouti 2002,Miscellaneous,14428,2002,Djibouti
-East Europe 2002,Miscellaneous,14292,2002,Region
-East Timor 2002,Miscellaneous,14246,2002,Timor-Leste
-Ecuador 2002,Miscellaneous,14325,2002,Ecuador
-El Salvador 2002,Miscellaneous,14327,2002,El Salvador
-Ethiopia 2002,Miscellaneous,14216,2002,Ethiopia
-Europe & CIS 2002,Miscellaneous,14254,2002,Region
-Gabon 2002,Miscellaneous,14214,2002,Gabon
-Georgia 2002,Miscellaneous,14203,2002,Georgia
-Germany 2002,Miscellaneous,14364,2002,Germany
-Ghana 2002,Miscellaneous,14240,2002,Ghana
-Guam 2002,Miscellaneous,14414,2002,Guam (United States)
-Guatemala 2002,Miscellaneous,14349,2002,Guatemala
-Honduras 2002,Miscellaneous,14331,2002,Honduras
-Horn of Africa 2002,Miscellaneous,14286,2002,Region
-Humanitarian Crisis in Southern Africa 2002 - LESOTHO,Complex Emergency,14295,2002,Lesotho
-Humanitarian Crisis in Southern Africa 2002 - MALAWI,Complex Emergency,14288,2002,Malawi
-Humanitarian Crisis in Southern Africa 2002 - REGION,Complex Emergency,14330,2002,Region
-Humanitarian Crisis in Southern Africa 2002 - ZAMBIA,Complex Emergency,14297,2002,Zambia
-Humanitarian Crisis in Southern Africa 2002 - ZIMBABWE,Complex Emergency,14296,2002,Zimbabwe
-ICRC 2002,Miscellaneous,14340,2002,none
-India 2002,Miscellaneous,14279,2002,India
-Iran 2002,Miscellaneous,14341,2002,"Iran, Islamic Republic of"
-Israel 2002,Miscellaneous,14344,2002,Israel
-Joint Appeal - Solutions for East Timorese Refugees,Miscellaneous,14250,2002,Indonesia
-Joint Strategy - Returned IDPs in Sri Lanka 2002,Complex Emergency,14345,2002,Sri Lanka
-Jordan 2002,Miscellaneous,14268,2002,Jordan
-Kuwait 2002,Miscellaneous,14398,2002,Kuwait
-Kyrgyzstan 2002,Miscellaneous,14423,2002,Kyrgyzstan
-Lao PDR 2002,Miscellaneous,14334,2002,Lao People's Democratic Republic
-Latin America 2002,Miscellaneous,14258,2002,Region
-Lebanon 2002,Miscellaneous,14260,2002,Lebanon
-Madagascar 2002,Miscellaneous,14235,2002,Madagascar
-Malawi 2002,Miscellaneous,14218,2002,Malawi
-Mali 2002,Miscellaneous,14335,2002,Mali
-Mauritania 2002,Miscellaneous,14225,2002,Mauritania
-Mauritius 2002,Miscellaneous,14293,2002,Mauritius
-Mexico 2002,Miscellaneous,14350,2002,Mexico
-Middle East  2002,Miscellaneous,14231,2002,Region
-Miscellaneous 2002 (funding not earmarked by country or emergency),Miscellaneous,14798,2002,none
-Moldova 2002,Miscellaneous,14207,2002,"Moldova, Republic of"
-Mongolia 2002,Miscellaneous,14267,2002,Mongolia
-Mozambique 2002,Miscellaneous,14191,2002,Mozambique
-Myanmar 2002,Miscellaneous,14193,2002,Myanmar
-Namibia 2002,Miscellaneous,14287,2002,Namibia
-Nepal 2002,Miscellaneous,14326,2002,Nepal
-Nicaragua 2002,Miscellaneous,14264,2002,Nicaragua
-Niger 2002,Miscellaneous,14227,2002,Niger
-Nigeria 2002,Miscellaneous,14197,2002,Nigeria
-OCHA 2002,Miscellaneous,14215,2002,none
-Pakistan 2002,Miscellaneous,14229,2002,Pakistan
-Palestine 2002,Miscellaneous,14244,2002,"Palestinian territory, occupied"
-Papua New Guinea 2002,Miscellaneous,14462,2002,Papua New Guinea
-Peru 2002,Miscellaneous,14196,2002,Peru
-Philippines 2002,Miscellaneous,14424,2002,Philippines
-Republic of Congo 2002,Miscellaneous,14183,2002,"Congo, Republic of"
-Romania 2002,Miscellaneous,14239,2002,Romania
-Russian Federation 2002,Miscellaneous,14407,2002,Russian Federation
-Senegal 2002,Miscellaneous,14322,2002,Senegal
-Singapore 2002,Miscellaneous,14397,2002,Singapore
-Solomon Islands 2002,Miscellaneous,14417,2002,Solomon Islands
-Southeastern Europe 2002,Complex Emergency,14176,2002,Region
-Sri Lanka 2002,Miscellaneous,14206,2002,Sri Lanka
-Sudan 2002,Complex Emergency,14150,2002,Sudan
-Tanzania (United Republic of) 2002,Miscellaneous,14285,2002,"Tanzania, United Republic of"
-Thailand 2002,Miscellaneous,14222,2002,Thailand
-Tunisia 2002,Miscellaneous,14399,2002,Tunisia
-Turkey 2002,Miscellaneous,14274,2002,Turkey
-Uganda 2002,Complex Emergency,14155,2002,Uganda
-Uzbekistan 2002,Miscellaneous,14336,2002,Uzbekistan
-Venezuela 2002,Miscellaneous,14429,2002,Venezuela
-Viet Nam 2002,Miscellaneous,14277,2002,Viet Nam
-West Bank and Gaza 2002,Miscellaneous,14219,2002,"Palestinian territory, occupied"
-West Bank and Gaza and Lebanon 2002,Miscellaneous,14272,2002,Region
-WFP 2002,Miscellaneous,14298,2002,none
-Yemen 2002,Miscellaneous,14365,2002,Yemen
-Zambia 2002,Miscellaneous,14283,2002,Zambia
-Zimbabwe 2002,Miscellaneous,14209,2002,Zimbabwe
-Africa 2003,Miscellaneous,14489,2003,Region
-Albania 2003,Miscellaneous,14480,2003,Albania
-Algeria 2003,Miscellaneous,14490,2003,Algeria
-Argentina 2003,Miscellaneous,14558,2003,Argentina
-Armenia 2003,Miscellaneous,14546,2003,Armenia
-Aruba 2003,Miscellaneous,14859,2003,Aruba
-Asia / Pacific 2003,Miscellaneous,14476,2003,Region
-Asia 2003,Miscellaneous,14630,2003,Region
-Australia 2003,Miscellaneous,14444,2003,Australia
-Austria 2003,Miscellaneous,14448,2003,Austria
-Azerbaijan 2003,Miscellaneous,14548,2003,Azerbaijan
-Bangladesh 2003,Miscellaneous,14468,2003,Bangladesh
-Belarus 2003,Miscellaneous,14449,2003,Belarus
-Benin 2003,Miscellaneous,14604,2003,Benin
-Bolivia 2003,Miscellaneous,14593,2003,Bolivia
-Bosnia and Herzegovina 2003,Miscellaneous,14469,2003,Bosnia and Herzegovina
-Botswana 2003,Miscellaneous,14565,2003,Botswana
-Brazil 2003,Miscellaneous,14471,2003,Brazil
-Bulgaria 2003,Miscellaneous,14492,2003,Bulgaria
-Burundi 2003,Complex Emergency,14372,2003,Burundi
-Cambodia 2003,Miscellaneous,14529,2003,Cambodia
-Cameroon 2003,Miscellaneous,14611,2003,Cameroon
-Caribbean 2003,Miscellaneous,14860,2003,Region
-Caribbean Sub-Regional 2003,Miscellaneous,14550,2003,Region
-Central Africa Sub-Regional 2003,Miscellaneous,14544,2003,Region
-Central America 2003,Miscellaneous,14610,2003,Region
-Central America Regional 2003,Miscellaneous,14541,2003,Region
-Chad 2003,Miscellaneous,14567,2003,Chad
-Chile 2003,Miscellaneous,14491,2003,Chile
-China 2003,Miscellaneous,14439,2003,China
-Costa Rica 2003 ,Miscellaneous,14777,2003,Costa Rica
-Cote d'Ivoire + 5 2003,Complex Emergency,14496,2003,Cote d'Ivoire
-Cote d'Ivoire and the West Africa Sub-Region 2002-2003 Flash Appeal,Complex Emergency,14400,2003,Cote d'Ivoire
-Croatia 2003,Miscellaneous,14606,2003,Croatia
-Cuba 2003,Miscellaneous,14447,2003,Cuba
-Czech Republic 2003,Miscellaneous,14479,2003,Czech Republic
-Democratic Republic of the Congo 2003,Complex Emergency,14384,2003,"Congo, Democratic Republic of the"
-Djibouti 2003,Miscellaneous,14518,2003,Djibouti
-Dominican Republic 2003,Miscellaneous,14616,2003,Dominican Republic
-East Africa Regional 2003,Miscellaneous,14543,2003,Region
-East Asia and Pacific 2003,Miscellaneous,14475,2003,Region
-East Timor 2003,Miscellaneous,14516,2003,Timor-Leste
-Ecuador 2003,Miscellaneous,14505,2003,Ecuador
-Egypt 2003,Miscellaneous,14553,2003,Egypt
-El Salvador 2003,Miscellaneous,14531,2003,El Salvador
-Ethiopia 2003,Miscellaneous,14461,2003,Ethiopia
-Europe & CIS 2003,Miscellaneous,14454,2003,Region
-Gambia 2003,Miscellaneous,14549,2003,Gambia
-Geneva International Centre for Humanitarian Demining 2003,Miscellaneous,14495,2003,none
-Georgia 2003,Miscellaneous,14450,2003,Georgia
-Germany 2003,Miscellaneous,14499,2003,Germany
-Guatemala 2003,Miscellaneous,14752,2003,Guatemala
-Honduras 2003,Miscellaneous,14628,2003,Honduras
-Horn of Africa 2003,Miscellaneous,14634,2003,Region
-Humanitarian Crisis in Southern Africa - LESOTHO (July 2003 - June 2004),Complex Emergency,14534,2003,Lesotho
-Humanitarian Crisis in Southern Africa - MALAWI (July 2003 - June 2004),Complex Emergency,14535,2003,Malawi
-Humanitarian Crisis in Southern Africa - MOZAMBIQUE (July 2003 - June 2004),Complex Emergency,14537,2003,Mozambique
-Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004),Complex Emergency,14539,2003,Region
-Humanitarian Crisis in Southern Africa - ZAMBIA (July 2003 - June 2004),Complex Emergency,14538,2003,Zambia
-Humanitarian Crisis in Southern Africa - ZIMBABWE (July December 2003) ,Complex Emergency,14545,2003,Zimbabwe
-Hungary 2003,Miscellaneous,14547,2003,Hungary
-India 2003,Miscellaneous,14533,2003,India
-International  Campaign to Ban Landmines 2003,Miscellaneous,14525,2003,none
-"International  Peace Research Institute, Oslo 2003",Miscellaneous,14526,2003,none
-Iran 2003,Miscellaneous,14517,2003,"Iran, Islamic Republic of"
-Ireland 2003,Miscellaneous,14613,2003,Ireland
-Jamaica 2003,Miscellaneous,14627,2003,Jamaica
-Jordan 2003,Miscellaneous,14464,2003,Jordan
-Kazakhstan 2003,Miscellaneous,14435,2003,Kazakhstan
-Kenya 2003,Miscellaneous,14486,2003,Kenya
-Kuwait 2003,Miscellaneous,14569,2003,Kuwait
-Kyrgyzstan 2003,Miscellaneous,14615,2003,Kyrgyzstan
-Lao PDR 2003,Miscellaneous,14528,2003,Lao People's Democratic Republic
-Latin America 2003,Miscellaneous,14555,2003,Region
-Lebanon 2003,Miscellaneous,14485,2003,Lebanon
-Macedonia 2003,Miscellaneous,14498,2003,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2003,Miscellaneous,14515,2003,Madagascar
-Mali 2003,Miscellaneous,14452,2003,Mali
-Mauritania 2003,Miscellaneous,14460,2003,Mauritania
-Mauritius 2003,Miscellaneous,14601,2003,Mauritius
-Middle East 2003,Miscellaneous,14441,2003,Region
-Miscellaneous 2003 (funding not earmarked by country or emergency),Miscellaneous,14797,2003,none
-Moldova 2003,Miscellaneous,14493,2003,"Moldova, Republic of"
-Mongolia 2003,Miscellaneous,14472,2003,Mongolia
-Myanmar 2003,Miscellaneous,14466,2003,Myanmar
-Namibia 2003,Miscellaneous,14564,2003,Namibia
-Nepal 2003,Miscellaneous,14456,2003,Nepal
-Nicaragua 2003,Miscellaneous,14481,2003,Nicaragua
-Nigeria 2003,Miscellaneous,14482,2003,Nigeria
-OCHA 2003,Miscellaneous,14418,2003,none
-Pakistan 2003,Miscellaneous,14437,2003,Pakistan
-Panama 2003,Miscellaneous,14556,2003,Panama
-Papua New Guinea 2003,Miscellaneous,14560,2003,Papua New Guinea
-Peru 2003,Miscellaneous,14592,2003,Peru
-Philippines 2003,Miscellaneous,14530,2003,Philippines
-Republic of Congo 2003,Miscellaneous,14387,2003,"Congo, Republic of"
-Romania 2003,Miscellaneous,14434,2003,Romania
-Russian Federation 2003,Miscellaneous,14455,2003,Russian Federation
-Senegal 2003,Miscellaneous,14514,2003,Senegal
-Serbia and Montenegro 2003,Miscellaneous,14470,2003,Serbia and Montenegro (until 2006-9)
-Slovakia 2003,Miscellaneous,14494,2003,Slovakia
-South Africa 2003,Miscellaneous,14595,2003,South Africa
-South America Regional 2003,Miscellaneous,14596,2003,Region
-South Asia 2003,Miscellaneous,14598,2003,Region
-South Asia Regional 2003,Miscellaneous,14542,2003,Region
-South Caucasus 2003,Miscellaneous,14635,2003,Region
-South East Asia Regional 2003,Miscellaneous,14563,2003,Region
-Southeastern Europe 2003,Miscellaneous,14524,2003,Region
-Sri Lanka 2003,Miscellaneous,14474,2003,Sri Lanka
-Sudan 2003,Complex Emergency,14382,2003,Sudan
-Syrian Arab Republic 2003,Miscellaneous,14451,2003,Syrian Arab Republic
-Taiwan (Province of China) 2003,Miscellaneous,14438,2003,China
-Thailand 2003,Miscellaneous,14497,2003,Thailand
-Turkey 2003,Miscellaneous,14446,2003,Turkey
-Uganda 2003,Complex Emergency,14369,2003,Uganda
-Ukraine 2003,Miscellaneous,14473,2003,Ukraine
-Uruguay 2003,Miscellaneous,14612,2003,Uruguay
-Uzbekistan 2003,Miscellaneous,14605,2003,Uzbekistan
-Venezuela 2003,Miscellaneous,14629,2003,Venezuela
-Viet Nam 2003,Miscellaneous,14483,2003,Viet Nam
-West Sahel Region 2003,Miscellaneous,14506,2003,Region
-Yemen 2003,Miscellaneous,14540,2003,Yemen
-Africa 2004,Miscellaneous,14676,2004,Region
-Albania 2004,Miscellaneous,14717,2004,Albania
-Algeria 2004,Miscellaneous,14636,2004,Algeria
-Argentina 2004,Miscellaneous,14802,2004,Argentina
-Armenia 2004,Miscellaneous,14705,2004,Armenia
-Asia 2004,Miscellaneous,14691,2004,Region
-Azerbaijan 2004,Miscellaneous,14655,2004,Azerbaijan
-Bangladesh 2004,Miscellaneous,14643,2004,Bangladesh
-Belarus 2004,Miscellaneous,14669,2004,Belarus
-Benin 2004,Miscellaneous,14710,2004,Benin
-Bosnia and Herzegovina 2004,Miscellaneous,14654,2004,Bosnia and Herzegovina
-Brazil 2004,Miscellaneous,14622,2004,Brazil
-Burundi 2004,Complex Emergency,14579,2004,Burundi
-Cambodia 2004,Miscellaneous,14678,2004,Cambodia
-Cameroon 2004,Miscellaneous,14708,2004,Cameroon
-Cape Verde 2004,Miscellaneous,14778,2004,Cape Verde
-Caribbean Sub-Regional 2004,Miscellaneous,14715,2004,Region
-Central Africa Sub-Regional 2004,Miscellaneous,14720,2004,Region
-Central America 2004,Miscellaneous,14750,2004,Region
-Central America Regional 2004,Miscellaneous,14789,2004,Region
-Central Asia 2004,Miscellaneous,14741,2004,Region
-Chile 2004,Miscellaneous,14729,2004,Chile
-China 2004,Miscellaneous,14702,2004,China
-Cote d'Ivoire + 3 2004,Complex Emergency,14584,2004,Cote d'Ivoire
-Croatia 2004,Miscellaneous,14668,2004,Croatia
-Cuba 2004,Miscellaneous,14680,2004,Cuba
-Democratic Republic of the Congo 2004,Complex Emergency,14581,2004,"Congo, Democratic Republic of the"
-Djibouti 2004,Miscellaneous,14689,2004,Djibouti
-East Africa Sub-Regional 2004,Miscellaneous,14666,2004,Region
-East Asia Regional Programmes 2004,Miscellaneous,14748,2004,Region
-East Europe 2004,Miscellaneous,14813,2004,Region
-East Timor 2004,Miscellaneous,14706,2004,Timor-Leste
-Ecuador 2004,Miscellaneous,14700,2004,Ecuador
-El Salvador 2004,Miscellaneous,14734,2004,El Salvador
-Ethiopia 2004,Miscellaneous,14663,2004,Ethiopia
-Europe & CIS 2004,Miscellaneous,14664,2004,Region
-Europe 2004,Miscellaneous,14623,2004,Region
-Fiji 2004,Miscellaneous,14701,2004,Fiji
-Gabon 2004,Miscellaneous,14714,2004,Gabon
-Gambia 2004,Miscellaneous,14682,2004,Gambia
-Georgia 2004,Miscellaneous,14618,2004,Georgia
-Guatemala 2004,Miscellaneous,15169,2004,Guatemala
-Honduras 2004,Miscellaneous,14661,2004,Honduras
-Horn of Africa 2004,Miscellaneous,14671,2004,Region
-India 2004,Miscellaneous,14681,2004,India
-Israel 2004,Miscellaneous,15606,2004,Israel
-Jordan 2004,Miscellaneous,14730,2004,Jordan
-Kazakhstan 2004,Miscellaneous,14656,2004,Kazakhstan
-Kenya 2004,Miscellaneous,14660,2004,Kenya
-Kyrgyzstan 2004,Miscellaneous,14698,2004,Kyrgyzstan
-Lao PDR 2004,Miscellaneous,14644,2004,Lao People's Democratic Republic
-Latin America 2004,Miscellaneous,14686,2004,Region
-Lebanon 2004,Miscellaneous,14633,2004,Lebanon
-Macedonia 2004,Miscellaneous,14679,2004,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2004,Miscellaneous,14926,2004,Madagascar
-Malaysia 2004,Miscellaneous,14810,2004,Malaysia
-Mauritania 2004,Miscellaneous,14675,2004,Mauritania
-Middle East 2004,Miscellaneous,14677,2004,Region
-Miscellaneous 2004 (funding not earmarked by country or emergency),Miscellaneous,14799,2004,none
-Moldova 2004,Miscellaneous,14659,2004,"Moldova, Republic of"
-Mongolia 2004,Miscellaneous,14638,2004,Mongolia
-Morocco 2004,Miscellaneous,15023,2004,Morocco
-Myanmar 2004,Miscellaneous,14672,2004,Myanmar
-Namibia 2004,Miscellaneous,14721,2004,Namibia
-Nepal 2004,Miscellaneous,14651,2004,Nepal
-Nicaragua 2004,Miscellaneous,14649,2004,Nicaragua
-Niger 2004,Miscellaneous,14722,2004,Niger
-Nigeria Sub-Regional 2004,Miscellaneous,14712,2004,Nigeria
-OCHA 2004,Miscellaneous,14645,2004,none
-Pacific Regional 2004,Miscellaneous,14716,2004,Region
-Pakistan 2004,Miscellaneous,14696,2004,Pakistan
-Panama 2004,Miscellaneous,14747,2004,Panama
-Papua New Guinea 2004,Miscellaneous,14713,2004,Papua New Guinea
-Paraguay 2004,Miscellaneous,14731,2004,Paraguay
-Peru 2004,Miscellaneous,14637,2004,Peru
-Philippines 2004,Miscellaneous,14704,2004,Philippines
-Republic of Congo 2004,Miscellaneous,15167,2004,"Congo, Republic of"
-Romania 2004,Miscellaneous,14632,2004,Romania
-Senegal 2004,Miscellaneous,14693,2004,Senegal
-Serbia and Montenegro 2004,Miscellaneous,14658,2004,Serbia and Montenegro (until 2006-9)
-Slovakia 2004,Miscellaneous,14639,2004,Slovakia
-South Africa 2004,Miscellaneous,14719,2004,South Africa
-South America Regional 2004,Miscellaneous,14835,2004,Region
-South Asia Regional 2004,Miscellaneous,14709,2004,Region
-South Caucasus 2004,Miscellaneous,14774,2004,Region
-South East Asia Regional 2004,Miscellaneous,14707,2004,Region
-Sri Lanka 2004,Miscellaneous,14619,2004,Sri Lanka
-Sudan 2004,Complex Emergency,14578,2004,Sudan
-Swaziland 2004,Miscellaneous,15174,2004,Swaziland
-Syrian Arab Republic 2004,Miscellaneous,14751,2004,Syrian Arab Republic
-Thailand 2004,Miscellaneous,14648,2004,Thailand
-Tunisia 2004,Miscellaneous,14626,2004,Tunisia
-Turkey 2004,Miscellaneous,14662,2004,Turkey
-Uganda 2004,Complex Emergency,14574,2004,Uganda
-Ukraine 2004,Miscellaneous,14692,2004,Ukraine
-Uruguay 2004,Miscellaneous,14756,2004,Uruguay
-Uzbekistan 2004,Miscellaneous,14697,2004,Uzbekistan
-Viet Nam 2004,Miscellaneous,14642,2004,Viet Nam
-Yemen 2004,Miscellaneous,14624,2004,Yemen
-Zimbabwe 2004,Complex Emergency,14773,2004,Zimbabwe
-Africa 2005,Miscellaneous,14864,2005,Region
-Albania 2005,Miscellaneous,14856,2005,Albania
-Algeria 2005,Miscellaneous,14848,2005,Algeria
-Angola 2005,Miscellaneous,14811,2005,Angola
-Antigua and Barbuda 2005,Miscellaneous,15098,2005,Antigua and Barbuda
-Armenia 2005,Miscellaneous,14823,2005,Armenia
-Azerbaijan 2005,Miscellaneous,14904,2005,Azerbaijan
-Bahamas 2005,Miscellaneous,15241,2005,Bahamas
-Balkan 2005,Miscellaneous,14921,2005,Region
-Bangladesh 2005,Miscellaneous,14845,2005,Bangladesh
-Belarus 2005,Miscellaneous,14824,2005,Belarus
-Benin 2005,Complex Emergency,14891,2005,Benin
-Bolivia 2005,Miscellaneous,14878,2005,Bolivia
-Bosnia and Herzegovina 2005,Miscellaneous,14841,2005,Bosnia and Herzegovina
-Brazil 2005,Miscellaneous,14826,2005,Brazil
-Bulgaria 2005,Miscellaneous,14868,2005,Bulgaria
-Burundi 2005,Complex Emergency,14768,2005,Burundi
-Cambodia 2005,Miscellaneous,14837,2005,Cambodia
-Cameroon 2005,Miscellaneous,14865,2005,Cameroon
-Caribbean 2005,Miscellaneous,14952,2005,Region
-Caribbean Sub-Regional 2005,Miscellaneous,15008,2005,Region
-Central America 2005,Miscellaneous,14964,2005,Region
-Central America Regional 2005,Miscellaneous,15000,2005,Region
-Central Asia 2005,Miscellaneous,14816,2005,Region
-Chad 2005,Complex Emergency,14766,2005,Chad
-Chile 2005,Miscellaneous,14866,2005,Chile
-China 2005,Miscellaneous,14892,2005,China
-Cote d'Ivoire 2005,Complex Emergency,14758,2005,Cote d'Ivoire
-Croatia 2005,Miscellaneous,14852,2005,Croatia
-Cuba 2005,Miscellaneous,14867,2005,Cuba
-Democratic Republic of the Congo 2005,Complex Emergency,14759,2005,"Congo, Democratic Republic of the"
-Dominican Republic 2005,Miscellaneous,14851,2005,Dominican Republic
-East Africa Regional 2005,Miscellaneous,15084,2005,Region
-East Africa Sub-Regional 2005,Miscellaneous,14916,2005,Region
-East Asia Regional 2005,Miscellaneous,14919,2005,Region
-Ecuador 2005,Miscellaneous,14858,2005,Ecuador
-Egypt 2005,Miscellaneous,15045,2005,Egypt
-El Salvador 2005,Miscellaneous,14935,2005,El Salvador
-Ethiopia 2005,Miscellaneous,14815,2005,Ethiopia
-Georgia 2005,Miscellaneous,14822,2005,Georgia
-Grenada 2005,Miscellaneous,14947,2005,Grenada
-Honduras 2005,Miscellaneous,14879,2005,Honduras
-Horn of Africa 2005,Miscellaneous,14897,2005,Region
-Hungary 2005,Miscellaneous,14873,2005,Hungary
-India 2005,Miscellaneous,14880,2005,India
-Indonesia 2005,Miscellaneous,14928,2005,Indonesia
-Iran 2005,Miscellaneous,14882,2005,"Iran, Islamic Republic of"
-Israel 2005,Miscellaneous,14874,2005,Israel
-Italy 2005,Miscellaneous,15046,2005,Italy
-Jamaica 2005,Miscellaneous,14945,2005,Jamaica
-Jordan 2005,Miscellaneous,14827,2005,Jordan
-Kazakhstan 2005,Miscellaneous,15054,2005,Kazakhstan
-Kenya 2005,Miscellaneous,14804,2005,Kenya
-"Korea, DPR 2005",Miscellaneous,14840,2005,"Korea, Democratic People's Republic of"
-Kyrgyzstan 2005,Miscellaneous,14875,2005,Kyrgyzstan
-Lao PDR 2005,Miscellaneous,14807,2005,Lao People's Democratic Republic
-Latin America 2005,Miscellaneous,14871,2005,Region
-Lebanon 2005,Miscellaneous,14902,2005,Lebanon
-Lesotho 2005,Miscellaneous,14901,2005,Lesotho
-Libya 2005,Miscellaneous,14982,2005,Libya
-Madagascar 2005,Miscellaneous,14853,2005,Madagascar
-Malawi 2005 ,Complex Emergency,14895,2005,Malawi
-Mauritania 2005,Miscellaneous,14924,2005,Mauritania
-Mauritius 2005,Miscellaneous,15071,2005,Mauritius
-Middle East 2005,Miscellaneous,14910,2005,Region
-Miscellaneous 2005 (funding not earmarked by country or emergency),Miscellaneous,14817,2005,none
-Moldova 2005,Miscellaneous,14838,2005,"Moldova, Republic of"
-Mongolia 2005,Miscellaneous,14912,2005,Mongolia
-Morocco 2005,Miscellaneous,14844,2005,Morocco
-Mozambique 2005,Miscellaneous,14896,2005,Mozambique
-Myanmar 2005,Miscellaneous,14788,2005,Myanmar
-Namibia 2005,Miscellaneous,14936,2005,Namibia
-Nicaragua 2005,Miscellaneous,14850,2005,Nicaragua
-Nigeria 2005,Miscellaneous,14915,2005,Nigeria
-OCHA 2005,Miscellaneous,14791,2005,none
-Pacific Regional 2005,Miscellaneous,14918,2005,Region
-Pakistan 2005,Miscellaneous,14839,2005,Pakistan
-Panama 2005,Miscellaneous,15072,2005,Panama
-Papua New Guinea 2005,Miscellaneous,14934,2005,Papua New Guinea
-Peru 2005,Miscellaneous,14849,2005,Peru
-Philippines 2005,Miscellaneous,14946,2005,Philippines
-Portugal 2005,Miscellaneous,14986,2005,Portugal
-Republic of Congo 2005 ,Complex Emergency,14771,2005,"Congo, Republic of"
-Romania 2005,Miscellaneous,14869,2005,Romania
-Sahel 2005,Miscellaneous,14933,2005,Region
-Sao Tome and Principe 2005,Miscellaneous,15086,2005,Sao Tome and Principe
-Senegal 2005,Miscellaneous,14959,2005,Senegal
-Serbia and Montenegro 2005,Miscellaneous,14828,2005,Serbia and Montenegro (until 2006-9)
-South Africa 2005,Miscellaneous,14939,2005,South Africa
-South America 2005,Miscellaneous,14872,2005,Region
-South America Regional 2005,Miscellaneous,15007,2005,Region
-South Asia Regional 2005,Miscellaneous,14913,2005,Region
-South Caucasus 2005,Miscellaneous,14876,2005,Region
-South East Asia Regional 2005,Miscellaneous,14917,2005,Region
-Southern Africa Region 2005,Miscellaneous,14855,2005,Region
-Sri Lanka 2005,Miscellaneous,14900,2005,Sri Lanka
-Sudan 2005,Complex Emergency,14738,2005,Sudan
-Swaziland 2005,Miscellaneous,14899,2005,Swaziland
-Sweden 2005,Miscellaneous,14981,2005,Sweden
-Syrian Arab Republic 2005,Miscellaneous,14995,2005,Syrian Arab Republic
-Taiwan (Province of China) 2005,Miscellaneous,14920,2005,China
-Tajikistan 2005,Miscellaneous,14893,2005,Tajikistan
-Thailand 2005,Miscellaneous,14847,2005,Thailand
-Tunisia 2005,Miscellaneous,14923,2005,Tunisia
-Turkey 2005,Miscellaneous,14825,2005,Turkey
-Turkmenistan 2005,Miscellaneous,15055,2005,Turkmenistan
-Uganda 2005,Complex Emergency,14763,2005,Uganda
-Ukraine 2005,Miscellaneous,14870,2005,Ukraine
-Uzbekistan 2005,Miscellaneous,15176,2005,Uzbekistan
-Venezuela 2005,Miscellaneous,14948,2005,Venezuela
-Viet Nam 2005,Miscellaneous,14812,2005,Viet Nam
-Yemen 2005,Miscellaneous,14884,2005,Yemen
-Zambia 2005,Miscellaneous,14806,2005,Zambia
-Zimbabwe 2005 ,Complex Emergency,14843,2005,Zimbabwe
+Afghanistan 2016,Complex Emergency,16612,2016,Afghanistan
+Angola 2016,Complex Emergency,16635,2016,Angola
+Bangladesh 2016,Miscellaneous,17478,2016,Bangladesh
+Burkina Faso 2016,Complex Emergency,16586,2016,Burkina Faso
+Burundi 2016,Complex Emergency,16638,2016,Burundi
+Cameroon 2016,Complex Emergency,16590,2016,Cameroon
+Central African Republic 2016,Complex Emergency,16613,2016,Central African Republic
+Chad 2016,Complex Emergency,16591,2016,Chad
+Colombia 2016,Complex Emergency,16599,2016,Colombia
+Cote d'Ivoire 2016,Miscellaneous,17486,2016,Cote d'Ivoire
+Democratic Republic of the Congo 2016,Complex Emergency,16611,2016,"Congo, Democratic Republic of the"
+Djibouti 2016,Complex Emergency,16603,2016,Djibouti
+Eritrea 2016,Miscellaneous,17480,2016,Eritrea
+Ethiopia 2016,Miscellaneous,16472,2016,Ethiopia
+Gambia 2016,Complex Emergency,16592,2016,Gambia
+Guatemala 2016,Natural Disaster,16609,2016,Guatemala
+Guinea 2016,Miscellaneous,17474,2016,Guinea
+Haiti 2016,Complex Emergency,16605,2016,Haiti
+Honduras 2016,Natural Disaster,16610,2016,Honduras
+Iraq 2016,Complex Emergency,16600,2016,Iraq
+Kenya 2016,Miscellaneous,16641,2016,Kenya
+"Korea, DPR 2016",Miscellaneous,16636,2016,"Korea, Democratic People's Republic of"
+Lao PDR 2016,Miscellaneous,16637,2016,Lao People's Democratic Republic
+Lebanon 2016,Miscellaneous,16614,2016,Lebanon
+Lesotho 2016,Miscellaneous,16645,2016,Lesotho
+Libya 2016,Complex Emergency,16583,2016,Libya
+Madagascar 2016,Miscellaneous,17469,2016,Madagascar
+Malawi 2016,Miscellaneous,17477,2016,Malawi
+Mali 2016,Complex Emergency,16593,2016,Mali
+Mauritania 2016,Complex Emergency,16594,2016,Mauritania
+Miscellaneous 2016,Miscellaneous,16576,2016,none
+Mongolia 2016,Miscellaneous,16640,2016,Mongolia
+Mozambique 2016,Miscellaneous,16648,2016,Mozambique
+Myanmar 2016,Miscellaneous,16624,2016,Myanmar
+Nepal 2016,Miscellaneous,16632,2016,Nepal
+Niger 2016,Complex Emergency,16595,2016,Niger
+Nigeria 2016,Complex Emergency,16596,2016,Nigeria
+occupied Palestinian territory 2016,Complex Emergency,16604,2016,"Palestinian territory, occupied"
+Pakistan 2016,Complex Emergency,16174,2016,Pakistan
+Papua New Guinea 2016,Miscellaneous,16649,2016,Papua New Guinea
+Republic of South Sudan 2016,Complex Emergency,16601,2016,South Sudan
+Rwanda 2016,Miscellaneous,17479,2016,Rwanda
+Sahel 2016,Complex Emergency,16597,2016,Region
+Senegal 2016,Complex Emergency,16598,2016,Senegal
+Somalia 2016,Complex Emergency,16539,2016,Somalia
+"South Sudan refugee crisis 2016 (Kenya, Uganda, Ethiopia)",Complex Emergency,16630,2016,Region
+Sri Lanka 2016,Miscellaneous,17476,2016,Sri Lanka
+Sudan 2016,Complex Emergency,16629,2016,Sudan
+Swaziland 2016,Miscellaneous,16647,2016,Swaziland
+Syrian Arab Republic - Civil Unrest 2016,Complex Emergency,16589,2016,Syrian Arab Republic
+Tanzania (United Republic of) 2016,Miscellaneous,16639,2016,"Tanzania, United Republic of"
+Timor-Leste 2016,Miscellaneous,17481,2016,Timor-Leste
+Uganda 2016,Miscellaneous,16631,2016,Uganda
+Ukraine 2016,Complex Emergency,16606,2016,Ukraine
+Viet Nam 2016,Miscellaneous,17475,2016,Viet Nam
+Yemen 2016,Complex Emergency,16585,2016,Yemen
+Zimbabwe 2016,Complex Emergency,16642,2016,Zimbabwe
+Afghanistan 2015,Complex Emergency,16525,2015,Afghanistan
+Algeria 2015,Miscellaneous,16553,2015,Algeria
+Bangladesh 2015,Miscellaneous,16578,2015,Bangladesh
+Bolivia 2015,Miscellaneous,16571,2015,Bolivia
+Burkina Faso 2015,Complex Emergency,16529,2015,Burkina Faso
+Burundi 2015,Miscellaneous,16557,2015,Burundi
+Cameroon 2015,Complex Emergency,16530,2015,Cameroon
+Central African Republic 2015,Complex Emergency,16526,2015,Central African Republic
+Chad 2015,Complex Emergency,16531,2015,Chad
+Chile 2015,Miscellaneous,16587,2015,Chile
+Colombia 2015,Miscellaneous,16555,2015,Colombia
+Democratic Republic of the Congo 2015,Complex Emergency,16522,2015,"Congo, Democratic Republic of the"
+Djibouti 2015,Complex Emergency,16556,2015,Djibouti
+Ebola - WEST AFRICA - July 2015,Complex Emergency,16602,2015,Region
+El Salvador 2015,Natural Disaster,16623,2015,El Salvador
+Eritrea 2015,Miscellaneous,16579,2015,Eritrea
+Ethiopia 2015,Miscellaneous,16471,2015,Ethiopia
+Gambia 2015,Complex Emergency,16532,2015,Gambia
+Guinea 2015,Miscellaneous,16550,2015,Guinea
+Haiti 2015,Complex Emergency,16554,2015,Haiti
+Honduras 2015,Natural Disaster,16543,2015,Honduras
+India 2015,Miscellaneous,16560,2015,India
+Iraq 2015,Complex Emergency,16548,2015,Iraq
+Kenya 2015,Miscellaneous,16547,2015,Kenya
+"Korea, DPR 2015",Miscellaneous,16558,2015,"Korea, Democratic People's Republic of"
+Lebanon 2015,Miscellaneous,16563,2015,Lebanon
+Liberia 2015,Miscellaneous,16562,2015,Liberia
+Libya 2015,Miscellaneous,16544,2015,Libya
+Madagascar 2015,Miscellaneous,16566,2015,Madagascar
+Malawi 2015,Natural Disaster,16627,2015,Malawi
+Mali 2015,Complex Emergency,16533,2015,Mali
+Mauritania 2015,Complex Emergency,16534,2015,Mauritania
+Miscellaneous 2015,Miscellaneous,16527,2015,none
+Mozambique Floods 2015,Natural Disaster,16552,2015,Mozambique
+Myanmar 2015,Miscellaneous,16516,2015,Myanmar
+Nepal 2015,Miscellaneous,16564,2015,Nepal
+Niger 2015,Complex Emergency,16535,2015,Niger
+Nigeria 2015,Complex Emergency,16536,2015,Nigeria
+occupied Palestinian territory 2015,Complex Emergency,16523,2015,"Palestinian territory, occupied"
+Pakistan 2015,Complex Emergency,16540,2015,Pakistan
+Peru 2015,Miscellaneous,16626,2015,Peru
+Philippines 2015,Miscellaneous,16568,2015,Philippines
+Republic of Congo 2015,Miscellaneous,16574,2015,"Congo, Republic of"
+Republic of South Sudan 2015,Complex Emergency,16521,2015,South Sudan
+Rwanda 2015,Miscellaneous,16628,2015,Rwanda
+Sahel 2015,Complex Emergency,16538,2015,Region
+Senegal 2015,Complex Emergency,16537,2015,Senegal
+Somalia 2015,Complex Emergency,16518,2015,Somalia
+"South Sudan refugee crisis 2015 (Kenya, Uganda, Ethiopia)",Complex Emergency,16546,2015,Region
+Sri Lanka 2015,Miscellaneous,16561,2015,Sri Lanka
+Sudan 2015,Complex Emergency,16524,2015,Sudan
+Syrian Arab Republic - Civil Unrest 2015,Complex Emergency,16520,2015,Syrian Arab Republic
+Tanzania (United Republic of) 2015,Miscellaneous,16588,2015,"Tanzania, United Republic of"
+Thailand 2015,Miscellaneous,16559,2015,Thailand
+Uganda 2015,Miscellaneous,16573,2015,Uganda
+Ukraine 2015,Complex Emergency,16528,2015,Ukraine
+Venezuela 2015,Miscellaneous,16572,2015,Venezuela
+Yemen 2015,Complex Emergency,16519,2015,Yemen
+Zimbabwe 2015,Miscellaneous,16565,2015,Zimbabwe
+Afghanistan 2014,Complex Emergency,16422,2014,Afghanistan
+Algeria 2014,Miscellaneous,16441,2014,Algeria
+Bangladesh 2014,Miscellaneous,16442,2014,Bangladesh
+Bolivia 2014,Miscellaneous,16489,2014,Bolivia
+Burkina Faso 2014,Complex Emergency,16423,2014,Burkina Faso
+Burundi 2014,Miscellaneous,16478,2014,Burundi
+Cambodia 2014,Miscellaneous,16486,2014,Cambodia
+Cameroon 2014,Miscellaneous,16443,2014,Cameroon
+Central African Republic 2014,Complex Emergency,16437,2014,Central African Republic
+Chad 2014,Complex Emergency,16424,2014,Chad
+Colombia 2014,Miscellaneous,16444,2014,Colombia
+Cote d'Ivoire 2014,Miscellaneous,16445,2014,Cote d'Ivoire
+Democratic Republic of the Congo 2014,Complex Emergency,16425,2014,"Congo, Democratic Republic of the"
+Djibouti 2014,Complex Emergency,16426,2014,Djibouti
+Ebola Virus Outbreak - WEST AFRICA - April 2014,Natural Disaster,16506,2014,Region
+Ecuador 2014,Miscellaneous,16490,2014,Ecuador
+Egypt 2014,Miscellaneous,16484,2014,Egypt
+Eritrea 2014,Miscellaneous,16476,2014,Eritrea
+Ethiopia 2014,Miscellaneous,16453,2014,Ethiopia
+Gambia 2014,Miscellaneous,16456,2014,Gambia
+Guatemala 2014,Miscellaneous,16513,2014,Guatemala
+Guinea 2014,Miscellaneous,16485,2014,Guinea
+Haiti 2014,Complex Emergency,16427,2014,Haiti
+Honduras 2014,Natural Disaster,16549,2014,Honduras
+India 2014,Miscellaneous,16446,2014,India
+Indonesia 2014,Miscellaneous,16473,2014,Indonesia
+Iran 2014,Miscellaneous,16470,2014,"Iran, Islamic Republic of"
+Iraq 2014,Miscellaneous,16447,2014,Iraq
+Jordan 2014,Miscellaneous,16515,2014,Jordan
+Kenya 2014,Complex Emergency,16428,2014,Kenya
+"Korea, DPR 2014",Miscellaneous,16482,2014,"Korea, Democratic People's Republic of"
+Lebanon 2014,Miscellaneous,16510,2014,Lebanon
+Liberia 2014,Miscellaneous,16479,2014,Liberia
+Libya 2014,Miscellaneous,16488,2014,Libya
+Madagascar 2014,Miscellaneous,16481,2014,Madagascar
+Mali 2014,Complex Emergency,16429,2014,Mali
+Mauritania 2014,Complex Emergency,16430,2014,Mauritania
+Miscellaneous 2014,Miscellaneous,16421,2014,none
+Myanmar 2014,Miscellaneous,16448,2014,Myanmar
+Nepal 2014,Miscellaneous,16449,2014,Nepal
+Niger 2014,Complex Emergency,16431,2014,Niger
+Nigeria 2014,Miscellaneous,16450,2014,Nigeria
+occupied Palestinian territory 2014,Complex Emergency,16432,2014,"Palestinian territory, occupied"
+Pakistan 2014,Miscellaneous,16452,2014,Pakistan
+Papua New Guinea 2014,Miscellaneous,16451,2014,Papua New Guinea
+Philippines 2014,Complex Emergency,16433,2014,Philippines
+PHILIPPINES: Typhoon Hagupit - December 2014,Natural Disaster,16541,2014,Philippines
+Republic of Congo 2014,Miscellaneous,16492,2014,"Congo, Republic of"
+Republic of South Sudan 2014,Complex Emergency,16419,2014,South Sudan
+Rwanda 2014,Miscellaneous,16483,2014,Rwanda
+Sahel 2014,Complex Emergency,16474,2014,Region
+Senegal 2014,Miscellaneous,16457,2014,Senegal
+Sierra Leone 2014,Miscellaneous,16480,2014,Sierra Leone
+Somalia 2014,Complex Emergency,16434,2014,Somalia
+South Sudan Refugee Crisis 2014,Complex Emergency,16507,2014,Region
+Sri Lanka 2014,Miscellaneous,16477,2014,Sri Lanka
+Sudan 2014,Complex Emergency,16435,2014,Sudan
+Syrian Arab Republic - Civil Unrest 2014,Complex Emergency,16440,2014,Syrian Arab Republic
+Thailand 2014,Complex Emergency,16487,2014,Thailand
+Uganda 2014,Miscellaneous,16469,2014,Uganda
+Ukraine-Civil Unrest-2014,Complex Emergency,16514,2014,Ukraine
+Venezuela 2014,Miscellaneous,16491,2014,Venezuela
+Yemen 2014,Complex Emergency,16436,2014,Yemen
+Zambia 2014,Miscellaneous,16475,2014,Zambia
+Zimbabwe 2014,Complex Emergency,16438,2014,Zimbabwe
+Afghanistan 2013,Complex Emergency,16271,2013,Afghanistan
+Algeria 2013,Miscellaneous,16304,2013,Algeria
+Angola 2013,Miscellaneous,16334,2013,Angola
+Antigua and Barbuda 2013,Miscellaneous,16398,2013,Antigua and Barbuda
+Argentina 2013,Miscellaneous,16375,2013,Argentina
+Armenia 2013,Miscellaneous,16342,2013,Armenia
+Azerbaijan 2013,Miscellaneous,16400,2013,Azerbaijan
+Bangladesh 2013,Miscellaneous,16308,2013,Bangladesh
+Belarus 2013,Miscellaneous,16357,2013,Belarus
+Benin 2013,Miscellaneous,16367,2013,Benin
+Bhutan 2013,Miscellaneous,16348,2013,Bhutan
+Bolivia 2013,Miscellaneous,16371,2013,Bolivia
+Bosnia and Herzegovina 2013,Miscellaneous,16360,2013,Bosnia and Herzegovina
+Brazil 2013,Miscellaneous,16401,2013,Brazil
+Burkina Faso 2013,Complex Emergency,16265,2013,Burkina Faso
+Burundi 2013,Miscellaneous,16301,2013,Burundi
+Cambodia 2013,Miscellaneous,16327,2013,Cambodia
+Cameroon 2013,Miscellaneous,16365,2013,Cameroon
+Central African Republic 2013,Complex Emergency,16268,2013,Central African Republic
+Chad 2013,Complex Emergency,16266,2013,Chad
+Chile 2013,Miscellaneous,16381,2013,Chile
+China 2013,Miscellaneous,16404,2013,China
+Colombia 2013,Miscellaneous,16319,2013,Colombia
+Cook Islands (New Zealand) 2013,Miscellaneous,16395,2013,Cook Islands (New Zealand)
+Costa Rica 2013,Miscellaneous,16410,2013,Costa Rica
+Cote d'Ivoire 2013,Miscellaneous,16323,2013,Cote d'Ivoire
+Cuba 2013,Miscellaneous,16382,2013,Cuba
+Cyprus 2012,Miscellaneous,16358,2013,Cyprus
+Democratic Republic of the Congo 2013,Complex Emergency,16280,2013,"Congo, Democratic Republic of the"
+Djibouti 2013,Complex Emergency,16274,2013,Djibouti
+Dominica 2013,Miscellaneous,16397,2013,Dominica
+Dominican Republic 2013,Miscellaneous,16369,2013,Dominican Republic
+East Timor 2013,Miscellaneous,16392,2013,Timor-Leste
+Ecuador 2013,Miscellaneous,16374,2013,Ecuador
+Egypt 2013,Miscellaneous,16344,2013,Egypt
+El Salvador 2013,Miscellaneous,16455,2013,El Salvador
+Eritrea 2013,Miscellaneous,16306,2013,Eritrea
+Ethiopia 2013,Miscellaneous,16302,2013,Ethiopia
+Fiji 2013,Miscellaneous,16370,2013,Fiji
+Gambia 2013,Miscellaneous,16399,2013,Gambia
+Georgia 2013,Miscellaneous,16402,2013,Georgia
+Ghana 2013,Miscellaneous,16352,2013,Ghana
+Guatemala 2013,Miscellaneous,16393,2013,Guatemala
+Guinea 2013,Miscellaneous,16353,2013,Guinea
+Guinea-Bissau 2013,Miscellaneous,16380,2013,Guinea-Bissau
+Haiti 2013,Complex Emergency,16299,2013,Haiti
+Honduras 2013,Miscellaneous,16379,2013,Honduras
+India 2013,Miscellaneous,16324,2013,India
+Indonesia 2013,Miscellaneous,16321,2013,Indonesia
+Iran 2013,Miscellaneous,16338,2013,"Iran, Islamic Republic of"
+Iraq 2013,Miscellaneous,16272,2013,Iraq
+Jamaica 2013,Miscellaneous,16373,2013,Jamaica
+Jordan 2013,Miscellaneous,16390,2013,Jordan
+Kazakhstan 2013,Miscellaneous,16330,2013,Kazakhstan
+Kenya 2013,Complex Emergency,16263,2013,Kenya
+"Korea, DPR 2013",Complex Emergency,16305,2013,"Korea, Democratic People's Republic of"
+"Korea, Republic of 2013",Miscellaneous,16405,2013,"Korea, Republic of"
+Kyrgyzstan 2013,Miscellaneous,16325,2013,Kyrgyzstan
+Lao PDR 2013,Miscellaneous,16351,2013,Lao People's Democratic Republic
+Lebanon 2013,Miscellaneous,16339,2013,Lebanon
+Lesotho 2013,Miscellaneous,16388,2013,Lesotho
+Liberia 2013,Complex Emergency,16285,2013,Liberia
+Libya 2013,Miscellaneous,16336,2013,Libya
+Madagascar 2013,Miscellaneous,16350,2013,Madagascar
+Malawi 2013,Miscellaneous,16316,2013,Malawi
+Mali 2013,Complex Emergency,16276,2013,Mali
+Marshall Islands 2013,Miscellaneous,16394,2013,Marshall Islands
+Mauritania 2013,Miscellaneous,16264,2013,Mauritania
+Mexico 2013,Miscellaneous,16409,2013,Mexico
+Miscellaneous 2013 (funding not earmarked by country or emergency),Miscellaneous,15451,2013,none
+Moldova 2013,Miscellaneous,16454,2013,"Moldova, Republic of"
+Mongolia 2013,Miscellaneous,16406,2013,Mongolia
+Montenegro 2013,Miscellaneous,16346,2013,Montenegro
+Morocco 2013,Miscellaneous,16343,2013,Morocco
+Mozambique 2013,Miscellaneous,16326,2013,Mozambique
+Myanmar 2013,Miscellaneous,16320,2013,Myanmar
+Namibia 2013,Miscellaneous,16368,2013,Namibia
+Nepal 2013,Miscellaneous,16309,2013,Nepal
+Nicaragua 2013,Miscellaneous,16383,2013,Nicaragua
+Niger 2013,Complex Emergency,16278,2013,Niger
+Nigeria 2013,Miscellaneous,16322,2013,Nigeria
+occupied Palestinian territory 2013,Complex Emergency,16262,2013,"Palestinian territory, occupied"
+Pakistan 2013,Complex Emergency,16317,2013,Pakistan
+Papua New Guinea 2013,Miscellaneous,16389,2013,Papua New Guinea
+Paraguay 2013,Miscellaneous,16376,2013,Paraguay
+Peru 2013,Miscellaneous,16347,2013,Peru
+Philippines 2013,Miscellaneous,16277,2013,Philippines
+Republic of Congo 2013,Miscellaneous,16361,2013,"Congo, Republic of"
+Republic of South Sudan 2013,Complex Emergency,16279,2013,South Sudan
+Rwanda 2013,Miscellaneous,16356,2013,Rwanda
+SAHEL- Food insecurity 2013,Natural Disaster,16408,2013,Region
+Saint Vincent and the Grenadines 2013,Miscellaneous,16391,2013,Saint Vincent and the Grenadines
+Samoa 2013,Miscellaneous,16372,2013,Samoa
+Senegal 2013,Miscellaneous,16366,2013,Senegal
+Serbia 2013,Miscellaneous,16384,2013,Serbia
+Seychelles 2013,Miscellaneous,16335,2013,Seychelles
+Sierra Leone 2013,Miscellaneous,16331,2013,Sierra Leone
+Solomon Islands 2013,Miscellaneous,16341,2013,Solomon Islands
+Somalia 2013,Complex Emergency,16269,2013,Somalia
+South Africa 2013,Miscellaneous,16417,2013,South Africa
+Sri Lanka 2013,Miscellaneous,16270,2013,Sri Lanka
+Sudan 2013,Complex Emergency,16267,2013,Sudan
+Swaziland 2013,Miscellaneous,16411,2013,Swaziland
+Syrian Arab Republic - Civil Unrest 2013,Complex Emergency,16303,2013,Syrian Arab Republic
+Tajikistan 2013,Miscellaneous,16396,2013,Tajikistan
+Tanzania (United Republic of) 2013,Miscellaneous,16354,2013,"Tanzania, United Republic of"
+Thailand 2013,Miscellaneous,16340,2013,Thailand
+Togo 2013,Miscellaneous,16318,2013,Togo
+Tunisia 2013,Miscellaneous,16345,2013,Tunisia
+Turkey 2013,Miscellaneous,16378,2013,Turkey
+Uganda 2013,Miscellaneous,16307,2013,Uganda
+Ukraine 2013,Miscellaneous,16386,2013,Ukraine
+Uzbekistan 2013,Miscellaneous,16403,2013,Uzbekistan
+Vanuatu 2013,Miscellaneous,16387,2013,Vanuatu
+Venezuela 2013,Miscellaneous,16377,2013,Venezuela
+Viet Nam 2013,Miscellaneous,16337,2013,Viet Nam
+Yemen 2013,Complex Emergency,16273,2013,Yemen
+Zambia 2013,Miscellaneous,16355,2013,Zambia
+Zimbabwe 2013,Complex Emergency,16275,2013,Zimbabwe
+Afghanistan 2012,Complex Emergency,16098,2012,Afghanistan
+Albania 2012,Miscellaneous,16196,2012,Albania
+Algeria 2012,Miscellaneous,16151,2012,Algeria
+Angola 2012,Miscellaneous,16183,2012,Angola
+Argentina 2012,Miscellaneous,16314,2012,Argentina
+Armenia 2012,Miscellaneous,16218,2012,Armenia
+Azerbaijan 2012,Miscellaneous,16219,2012,Azerbaijan
+Bahamas 2012,Miscellaneous,16249,2012,Bahamas
+Bangladesh 2012,Miscellaneous,16153,2012,Bangladesh
+Belarus 2012,Miscellaneous,16359,2012,Belarus
+Benin 2012,Miscellaneous,16250,2012,Benin
+Bhutan 2012,Miscellaneous,16286,2012,Bhutan
+Bolivia 2012,Miscellaneous,16216,2012,Bolivia
+Bosnia and Herzegovina 2012,Miscellaneous,16198,2012,Bosnia and Herzegovina
+Brazil 2012,Miscellaneous,16235,2012,Brazil
+Bulgaria 2012,Miscellaneous,16251,2012,Bulgaria
+Burkina Faso 2012,Miscellaneous,16188,2012,Burkina Faso
+Burundi 2012,Miscellaneous,16166,2012,Burundi
+Cambodia 2012,Miscellaneous,16176,2012,Cambodia
+Cameroon 2012,Miscellaneous,16169,2012,Cameroon
+Cape Verde 2012,Miscellaneous,16243,2012,Cape Verde
+Central African Republic 2012,Complex Emergency,16100,2012,Central African Republic
+Chad 2012,Complex Emergency,16099,2012,Chad
+Chile 2012,Miscellaneous,16228,2012,Chile
+China 2012,Miscellaneous,16209,2012,China
+Colombia 2012,Miscellaneous,16156,2012,Colombia
+Comoros 2012,Miscellaneous,16258,2012,Comoros
+Cote d'Ivoire 2012,Complex Emergency,16108,2012,Cote d'Ivoire
+Croatia 2012,Miscellaneous,16222,2012,Croatia
+Cuba 2012,Miscellaneous,16253,2012,Cuba
+Democratic Republic of the Congo 2012,Complex Emergency,16109,2012,"Congo, Democratic Republic of the"
+Djibouti 2012,Complex Emergency,16114,2012,Djibouti
+Dominican Republic 2012,Miscellaneous,16281,2012,Dominican Republic
+East Timor 2012,Miscellaneous,16287,2012,Timor-Leste
+Ecuador 2012,Miscellaneous,16194,2012,Ecuador
+Egypt 2012,Miscellaneous,16208,2012,Egypt
+El Salvador 2012,Miscellaneous,16241,2012,El Salvador
+Equatorial Guinea 2012,Miscellaneous,16349,2012,Equatorial Guinea
+Eritrea 2012,Miscellaneous,16160,2012,Eritrea
+Ethiopia 2012,Miscellaneous,16148,2012,Ethiopia
+Gabon 2012,Miscellaneous,16312,2012,Gabon
+Gambia 2012,Miscellaneous,16224,2012,Gambia
+Georgia 2012,Miscellaneous,16220,2012,Georgia
+Ghana 2012,Miscellaneous,16211,2012,Ghana
+Guatemala 2012,Miscellaneous,16244,2012,Guatemala
+Guinea 2012,Miscellaneous,16201,2012,Guinea
+Guinea-Bissau 2012,Miscellaneous,16207,2012,Guinea-Bissau
+Haiti 2012,Complex Emergency,16113,2012,Haiti
+Honduras 2012,Miscellaneous,16240,2012,Honduras
+India 2012,Miscellaneous,16154,2012,India
+Indonesia 2012,Miscellaneous,16170,2012,Indonesia
+Iran 2012,Miscellaneous,16195,2012,"Iran, Islamic Republic of"
+Iraq 2012,Miscellaneous,16150,2012,Iraq
+Iraqi Refugees in Neighbouring Countries 2012,Complex Emergency,16181,2012,Region
+Jordan 2012,Miscellaneous,16177,2012,Jordan
+Kazakhstan 2012,Miscellaneous,16230,2012,Kazakhstan
+Kenya 2012,Complex Emergency,16101,2012,Kenya
+"Korea, DPR 2012",Miscellaneous,16162,2012,"Korea, Democratic People's Republic of"
+Kyrgyzstan 2012,Miscellaneous,16221,2012,Kyrgyzstan
+Lao PDR 2012,Miscellaneous,16167,2012,Lao People's Democratic Republic
+Lebanon 2012,Miscellaneous,16149,2012,Lebanon
+Liberia 2012,Complex Emergency,16112,2012,Liberia
+Libya 2012,Miscellaneous,16163,2012,Libya
+Macedonia 2012,Miscellaneous,16215,2012,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2012,Miscellaneous,16191,2012,Madagascar
+Malawi 2012,Miscellaneous,16193,2012,Malawi
+Malaysia 2012,Miscellaneous,16246,2012,Malaysia
+Maldives 2012,Miscellaneous,16333,2012,Maldives
+Mali 2012,Miscellaneous,16164,2012,Mali
+Mauritania 2012,Miscellaneous,16168,2012,Mauritania
+Mauritius 2012,Miscellaneous,16315,2012,Mauritius
+Micronesia 2012,Miscellaneous,16297,2012,"Micronesia, Federated States of"
+Miscellaneous 2012 (funding not earmarked by country or emergency),Miscellaneous,15450,2012,none
+Moldova 2012,Miscellaneous,16213,2012,"Moldova, Republic of"
+Mongolia 2012,Miscellaneous,16226,2012,Mongolia
+Montenegro 2012,Miscellaneous,16202,2012,Montenegro
+Morocco 2012,Miscellaneous,16184,2012,Morocco
+Mozambique 2012,Miscellaneous,16239,2012,Mozambique
+Myanmar 2012,Miscellaneous,16157,2012,Myanmar
+Namibia 2012,Miscellaneous,16259,2012,Namibia
+Nepal 2012,Miscellaneous,16155,2012,Nepal
+Nicaragua 2012,Miscellaneous,16242,2012,Nicaragua
+Niger 2012,Complex Emergency,16107,2012,Niger
+Nigeria 2012,Miscellaneous,16238,2012,Nigeria
+occupied Palestinian territory 2012,Complex Emergency,16102,2012,"Palestinian territory, occupied"
+Oman 2012,Miscellaneous,16313,2012,Oman
+Pakistan 2012,Miscellaneous,16152,2012,Pakistan
+Pakistan Post-Floods Early Recovery 2012,Natural Disaster,16185,2012,Pakistan
+Palau 2012,Miscellaneous,16252,2012,Palau
+Panama 2012,Miscellaneous,16254,2012,Panama
+Papua New Guinea 2012,Miscellaneous,16210,2012,Papua New Guinea
+Paraguay 2012,Miscellaneous,16229,2012,Paraguay
+Peru 2012,Miscellaneous,16206,2012,Peru
+Philippines 2012,Miscellaneous,16110,2012,Philippines
+Republic of Congo 2012,Miscellaneous,16159,2012,"Congo, Republic of"
+Republic of South Sudan 2012,Complex Emergency,16104,2012,South Sudan
+Romania 2012,Miscellaneous,16214,2012,Romania
+Russian Federation 2012,Miscellaneous,16247,2012,Russian Federation
+Rwanda 2012,Miscellaneous,16192,2012,Rwanda
+SAHEL - Food Insecurity 2012,Natural Disaster,16187,2012,Region
+Senegal 2012,Miscellaneous,16223,2012,Senegal
+Serbia 2012,Miscellaneous,16197,2012,Serbia
+Sierra Leone 2012,Miscellaneous,16189,2012,Sierra Leone
+Solomon Islands 2012,Miscellaneous,16294,2012,Solomon Islands
+Somalia 2012,Complex Emergency,16103,2012,Somalia
+South Africa 2012,Miscellaneous,16245,2012,South Africa
+Sri Lanka 2012,Complex Emergency,16136,2012,Sri Lanka
+Sudan 2012,Complex Emergency,16105,2012,Sudan
+Syrian Arab Republic - Civil Unrest 2012,Complex Emergency,16205,2012,Syrian Arab Republic
+Tajikistan 2012,Miscellaneous,16179,2012,Tajikistan
+Tanzania (United Republic of) 2012,Miscellaneous,16171,2012,"Tanzania, United Republic of"
+Thailand 2012,Miscellaneous,16180,2012,Thailand
+Togo 2012,Miscellaneous,16261,2012,Togo
+Tunisia 2012,Miscellaneous,16217,2012,Tunisia
+Turkey 2012,Miscellaneous,16233,2012,Turkey
+Turkmenistan 2012,Miscellaneous,16231,2012,Turkmenistan
+Uganda 2012,Miscellaneous,16173,2012,Uganda
+Ukraine 2012,Miscellaneous,16182,2012,Ukraine
+Uzbekistan 2012,Miscellaneous,16248,2012,Uzbekistan
+Vanuatu 2012,Miscellaneous,16295,2012,Vanuatu
+Venezuela 2012,Miscellaneous,16237,2012,Venezuela
+Viet Nam 2012,Miscellaneous,16212,2012,Viet Nam
+Yemen 2012,Complex Emergency,16106,2012,Yemen
+Zambia 2012,Miscellaneous,16310,2012,Zambia
+Zimbabwe 2012,Complex Emergency,16111,2012,Zimbabwe
+Afghanistan 2011,Complex Emergency,15931,2011,Afghanistan
+Albania 2011,Miscellaneous,16064,2011,Albania
+Algeria 2011,Miscellaneous,15993,2011,Algeria
+Angola 2011,Miscellaneous,16008,2011,Angola
+Antigua and Barbuda 2011,Miscellaneous,16092,2011,Antigua and Barbuda
+Argentina 2011,Miscellaneous,16073,2011,Argentina
+Armenia 2011,Miscellaneous,16039,2011,Armenia
+Azerbaijan 2011,Miscellaneous,16040,2011,Azerbaijan
+Bangladesh 2011,Miscellaneous,15994,2011,Bangladesh
+Belarus 2011,Miscellaneous,16093,2011,Belarus
+Benin 2011,Miscellaneous,16282,2011,Benin
+Bhutan 2011,Miscellaneous,16079,2011,Bhutan
+Bolivia 2011,Miscellaneous,16074,2011,Bolivia
+Bosnia and Herzegovina 2011,Miscellaneous,16047,2011,Bosnia and Herzegovina
+Brazil 2011,Miscellaneous,16055,2011,Brazil
+Bulgaria 2011,Miscellaneous,16130,2011,Bulgaria
+Burundi 2011,Miscellaneous,15992,2011,Burundi
+Cambodia 2011,Miscellaneous,16028,2011,Cambodia
+Cameroon 2011,Miscellaneous,15995,2011,Cameroon
+Central African Republic 2011,Complex Emergency,15938,2011,Central African Republic
+Chad 2011,Complex Emergency,15934,2011,Chad
+Chile 2011,Miscellaneous,16075,2011,Chile
+China 2011,Miscellaneous,16080,2011,China
+Colombia 2011,Miscellaneous,16015,2011,Colombia
+Cook Islands 2011,Miscellaneous,16144,2011,Cook Islands (New Zealand)
+Croatia 2011,Miscellaneous,16048,2011,Croatia
+Cuba 2011,Miscellaneous,16082,2011,Cuba
+Cyprus 2011,Miscellaneous,16142,2011,Cyprus
+Democratic Republic of the Congo 2011,Complex Emergency,15935,2011,"Congo, Democratic Republic of the"
+Djibouti 2011,Complex Emergency,15974,2011,Djibouti
+Dominica 2011,Miscellaneous,16137,2011,Dominica
+Dominican Republic 2011,Miscellaneous,16089,2011,Dominican Republic
+Ecuador 2011,Miscellaneous,16044,2011,Ecuador
+Egypt 2011,Miscellaneous,16022,2011,Egypt
+El Salvador 2011,Miscellaneous,16088,2011,El Salvador
+Eritrea 2011,Miscellaneous,15991,2011,Eritrea
+Ethiopia 2011,Miscellaneous,15990,2011,Ethiopia
+Fiji 2011,Miscellaneous,16165,2011,Fiji
+Gambia 2011,Miscellaneous,16054,2011,Gambia
+Georgia 2011,Miscellaneous,16041,2011,Georgia
+Ghana 2011,Miscellaneous,16288,2011,Ghana
+Guatemala 2011,Miscellaneous,16061,2011,Guatemala
+Guinea 2011,Miscellaneous,16291,2011,Guinea
+Haiti 2011,Complex Emergency,15939,2011,Haiti
+India 2011,Miscellaneous,16014,2011,India
+Indonesia 2011,Miscellaneous,16019,2011,Indonesia
+Iran 2011,Miscellaneous,15999,2011,"Iran, Islamic Republic of"
+Iraq 2011,Complex Emergency,15963,2011,Iraq
+Iraqi Refugees in Neighbouring Countries 2011,Complex Emergency,15984,2011,Region
+Jamaica 2011,Miscellaneous,16066,2011,Jamaica
+Jordan 2011,Miscellaneous,16023,2011,Jordan
+Kazakhstan 2011,Miscellaneous,16024,2011,Kazakhstan
+Kenya 2011,Complex Emergency,15930,2011,Kenya
+"Korea, DPR 2011",Miscellaneous,15998,2011,"Korea, Democratic People's Republic of"
+Kyrgyzstan 2011,Miscellaneous,16096,2011,Kyrgyzstan
+Lao PDR 2011,Miscellaneous,16036,2011,Lao People's Democratic Republic
+Lebanon 2011,Miscellaneous,16025,2011,Lebanon
+Lesotho 2011,Miscellaneous,16052,2011,Lesotho
+Libya 2011,Miscellaneous,16034,2011,Libya
+Macedonia 2011,Miscellaneous,16094,2011,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2011,Miscellaneous,16000,2011,Madagascar
+Malawi 2011,Miscellaneous,16097,2011,Malawi
+Malaysia 2011,Miscellaneous,16081,2011,Malaysia
+Mali 2011,Miscellaneous,16059,2011,Mali
+Mauritania 2011,Miscellaneous,16017,2011,Mauritania
+Mexico 2011,Miscellaneous,16086,2011,Mexico
+Micronesia 2011,Miscellaneous,16145,2011,"Micronesia, Federated States of"
+Miscellaneous 2011 (funding not earmarked by country or emergency),Miscellaneous,15449,2011,none
+Moldova 2011,Miscellaneous,16049,2011,"Moldova, Republic of"
+Mongolia 2011,Miscellaneous,16084,2011,Mongolia
+Montenegro 2011,Miscellaneous,16051,2011,Montenegro
+Morocco 2011,Miscellaneous,16009,2011,Morocco
+Mozambique 2011,Miscellaneous,15996,2011,Mozambique
+Myanmar 2011,Miscellaneous,16001,2011,Myanmar
+Namibia 2011,Miscellaneous,16085,2011,Namibia
+Nepal 2011,Complex Emergency,15964,2011,Nepal
+Nicaragua 2011,Miscellaneous,16057,2011,Nicaragua
+Niger 2011,Complex Emergency,15937,2011,Niger
+Nigeria 2011,Miscellaneous,16292,2011,Nigeria
+occupied Palestinian territory 2011,Complex Emergency,15965,2011,"Palestinian territory, occupied"
+Pakistan 2011,Miscellaneous,15971,2011,Pakistan
+Palau 2011,Miscellaneous,16132,2011,Palau
+Papua New Guinea 2011,Miscellaneous,16129,2011,Papua New Guinea
+Paraguay 2011,Miscellaneous,16077,2011,Paraguay
+Peru 2011,Miscellaneous,16072,2011,Peru
+Philippines 2011,Miscellaneous,16058,2011,Philippines
+Republic of Congo 2011,Miscellaneous,15988,2011,"Congo, Republic of"
+Republic of South Sudan 2011,Complex Emergency,16062,2011,South Sudan
+Russian Federation 2011,Miscellaneous,16060,2011,Russian Federation
+Rwanda 2011,Miscellaneous,15989,2011,Rwanda
+Saint Lucia 2011,Miscellaneous,16013,2011,Saint Lucia
+Samoa 2011,Miscellaneous,16232,2011,Samoa
+Senegal 2011,Miscellaneous,16293,2011,Senegal
+Serbia 2011,Miscellaneous,16046,2011,Serbia
+Sierra Leone 2011,Miscellaneous,16012,2011,Sierra Leone
+Solomon Islands 2011,Miscellaneous,16123,2011,Solomon Islands
+Somalia 2011,Complex Emergency,15940,2011,Somalia
+South Africa 2011,Miscellaneous,16158,2011,South Africa
+Sri Lanka 2011,Complex Emergency,15936,2011,Sri Lanka
+Sudan 2011,Complex Emergency,15921,2011,Sudan
+Swaziland 2011,Miscellaneous,16091,2011,Swaziland
+Syrian Arab Republic 2011,Miscellaneous,16026,2011,Syrian Arab Republic
+Tajikistan 2011,Miscellaneous,16011,2011,Tajikistan
+Tanzania (United Republic of) 2011,Miscellaneous,16010,2011,"Tanzania, United Republic of"
+Thailand 2011,Miscellaneous,16078,2011,Thailand
+Tunisia 2011,Miscellaneous,16016,2011,Tunisia
+Turkey 2011,Miscellaneous,16083,2011,Turkey
+Turkmenistan 2011,Miscellaneous,16032,2011,Turkmenistan
+Tuvalu 2011,Miscellaneous,16133,2011,Tuvalu
+Uganda 2011,Miscellaneous,15987,2011,Uganda
+Ukraine 2011,Miscellaneous,16042,2011,Ukraine
+Uzbekistan 2011,Miscellaneous,16031,2011,Uzbekistan
+Vanuatu 2011,Miscellaneous,16128,2011,Vanuatu
+Venezuela 2011,Miscellaneous,16076,2011,Venezuela
+Viet Nam 2011,Miscellaneous,16050,2011,Viet Nam
+West Africa 2011,Complex Emergency,15924,2011,Region
+Western Sahara 2011,Miscellaneous,16045,2011,Western Sahara
+Yemen 2011,Complex Emergency,15932,2011,Yemen
+Zimbabwe 2011,Complex Emergency,15933,2011,Zimbabwe
+Afghanistan 2010,Complex Emergency,15746,2010,Afghanistan
+Albania 2010,Miscellaneous,15791,2010,Albania
+Algeria 2010,Miscellaneous,15851,2010,Algeria
+Angola 2010,Miscellaneous,15857,2010,Angola
+Argentina 2010,Miscellaneous,15968,2010,Argentina
+Armenia 2010,Miscellaneous,15854,2010,Armenia
+Bangladesh 2010,Miscellaneous,15824,2010,Bangladesh
+Belarus 2010,Miscellaneous,15852,2010,Belarus
+Bhutan 2010,Miscellaneous,15872,2010,Bhutan
+Bolivia 2010,Miscellaneous,15834,2010,Bolivia
+Bosnia and Herzegovina 2010,Miscellaneous,15883,2010,Bosnia and Herzegovina
+Brazil 2010,Miscellaneous,15982,2010,Brazil
+Bulgaria 2010,Miscellaneous,15943,2010,Bulgaria
+BURKINA FASO - Floods - August 2010,Natural Disaster,15922,2010,Burkina Faso
+Burkina Faso 2010,Miscellaneous,15814,2010,Burkina Faso
+Burundi 2010,Miscellaneous,15818,2010,Burundi
+Cambodia 2010,Miscellaneous,15803,2010,Cambodia
+Cameroon 2010,Miscellaneous,15884,2010,Cameroon
+Cape Verde 2010,Miscellaneous,15845,2010,Cape Verde
+Central African Republic 2010,Complex Emergency,15739,2010,Central African Republic
+Chad 2010,Complex Emergency,15734,2010,Chad
+Chile 2010,Miscellaneous,15875,2010,Chile
+China 2010,Miscellaneous,15849,2010,China
+Colombia 2010,Miscellaneous,15806,2010,Colombia
+Comoros 2010,Miscellaneous,15925,2010,Comoros
+Cook Islands 2010,Miscellaneous,15917,2010,Cook Islands (New Zealand)
+Costa Rica 2010,Miscellaneous,15864,2010,Costa Rica
+Cote d'Ivoire 2010,Complex Emergency,15848,2010,Cote d'Ivoire
+Croatia 2010,Miscellaneous,15890,2010,Croatia
+Cuba 2010,Miscellaneous,15927,2010,Cuba
+Democratic Republic of the Congo 2010,Complex Emergency,15745,2010,"Congo, Democratic Republic of the"
+Djibouti 2010,Miscellaneous,15839,2010,Djibouti
+Dominican Republic 2010,Miscellaneous,15928,2010,Dominican Republic
+Ecuador 2010,Miscellaneous,15860,2010,Ecuador
+Egypt 2010,Miscellaneous,15915,2010,Egypt
+El Salvador 2010,Miscellaneous,15902,2010,El Salvador
+Eritrea 2010,Miscellaneous,15808,2010,Eritrea
+Ethiopia 2010,Miscellaneous,15799,2010,Ethiopia
+French Polynesia 2010,Miscellaneous,15916,2010,French Polynesia (France)
+Gambia 2010,Miscellaneous,16002,2010,Gambia
+Georgia 2010,Miscellaneous,15879,2010,Georgia
+Ghana 2010,Miscellaneous,15865,2010,Ghana
+Guinea 2010,Miscellaneous,15804,2010,Guinea
+Guinea-Bissau 2010,Miscellaneous,15841,2010,Guinea-Bissau
+Haiti 2010,Miscellaneous,15811,2010,Haiti
+Honduras 2010,Miscellaneous,15798,2010,Honduras
+Hungary 2010,Miscellaneous,15887,2010,Hungary
+India 2010,Miscellaneous,15831,2010,India
+Indonesia 2010,Miscellaneous,15847,2010,Indonesia
+Iran 2010,Miscellaneous,15863,2010,"Iran, Islamic Republic of"
+Iraq 2010,Complex Emergency,15750,2010,Iraq
+Iraqi Refugees in Neighbouring Countries 2010,Complex Emergency,15786,2010,Region
+Jamaica 2010,Miscellaneous,15866,2010,Jamaica
+Jordan 2010,Miscellaneous,15793,2010,Jordan
+Kazakhstan 2010,Miscellaneous,15929,2010,Kazakhstan
+Kenya 2010,Complex Emergency,15747,2010,Kenya
+"Korea, DPR 2010",Miscellaneous,15807,2010,"Korea, Democratic People's Republic of"
+KYRGYZSTAN - Civil unrest- June 2010,Complex Emergency,15893,2010,Kyrgyzstan
+Kyrgyzstan 2010,Miscellaneous,15858,2010,Kyrgyzstan
+Lao PDR 2010,Miscellaneous,15833,2010,Lao People's Democratic Republic
+Lebanon 2010,Miscellaneous,15835,2010,Lebanon
+Lesotho 2010,Miscellaneous,15881,2010,Lesotho
+Liberia 2010,Miscellaneous,15821,2010,Liberia
+Libya 2010,Miscellaneous,15976,2010,Libya
+Macedonia 2010,Miscellaneous,15941,2010,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2010,Miscellaneous,15844,2010,Madagascar
+Malawi 2010,Miscellaneous,15850,2010,Malawi
+Malaysia 2010,Miscellaneous,15840,2010,Malaysia
+Maldives 2010,Miscellaneous,16146,2010,Maldives
+Mali 2010,Miscellaneous,15855,2010,Mali
+Mauritania 2010,Miscellaneous,15801,2010,Mauritania
+Mexico 2010,Miscellaneous,15979,2010,Mexico
+Miscellaneous 2010 (funding not earmarked by country or emergency),Miscellaneous,15778,2010,none
+Moldova 2010,Miscellaneous,15829,2010,"Moldova, Republic of"
+Mongolia 2010,Miscellaneous,15819,2010,Mongolia
+Montenegro 2010,Miscellaneous,15977,2010,Montenegro
+Morocco 2010,Miscellaneous,15827,2010,Morocco
+Mozambique 2010,Miscellaneous,15802,2010,Mozambique
+Myanmar 2010,Miscellaneous,15809,2010,Myanmar
+Namibia 2010,Miscellaneous,15830,2010,Namibia
+Nepal 2010,Complex Emergency,15748,2010,Nepal
+Nicaragua 2010,Miscellaneous,15828,2010,Nicaragua
+Niger 2010,Miscellaneous,15805,2010,Niger
+Nigeria 2010,Miscellaneous,15838,2010,Nigeria
+occupied Palestinian territory 2010,Complex Emergency,15737,2010,"Palestinian territory, occupied"
+Pakistan 2010,Complex Emergency,15751,2010,Pakistan
+Palau 2010,Miscellaneous,15954,2010,Palau
+Panama 2010,Miscellaneous,15870,2010,Panama
+Papua New Guinea 2010,Miscellaneous,15856,2010,Papua New Guinea
+Peru 2010,Miscellaneous,15820,2010,Peru
+Philippines 2010,Miscellaneous,15810,2010,Philippines
+Poland 2010,Miscellaneous,15886,2010,Poland
+Republic of Congo 2010,Complex Emergency,15822,2010,"Congo, Republic of"
+Russian Federation 2010,Miscellaneous,15853,2010,Russian Federation
+Rwanda 2010,Miscellaneous,15842,2010,Rwanda
+Samoa 2010,Miscellaneous,15836,2010,Samoa
+Senegal 2010,Miscellaneous,15823,2010,Senegal
+Serbia 2010,Miscellaneous,15792,2010,Serbia
+Sierra Leone 2010,Miscellaneous,15926,2010,Sierra Leone
+Somalia 2010,Complex Emergency,15741,2010,Somalia
+South Africa 2010,Miscellaneous,16147,2010,South Africa
+Sri Lanka 2010,Complex Emergency,15749,2010,Sri Lanka
+Sudan 2010,Complex Emergency,15742,2010,Sudan
+Swaziland 2010,Miscellaneous,15837,2010,Swaziland
+Syrian Arab Republic 2010,Miscellaneous,15800,2010,Syrian Arab Republic
+Tajikistan 2010,Miscellaneous,15846,2010,Tajikistan
+Tanzania (United Republic of) 2010,Miscellaneous,15813,2010,"Tanzania, United Republic of"
+Thailand 2010,Miscellaneous,15826,2010,Thailand
+Timor-Leste 2010,Miscellaneous,15899,2010,Timor-Leste
+Togo 2010,Miscellaneous,15909,2010,Togo
+Turkey 2010,Miscellaneous,15885,2010,Turkey
+Uganda 2010,Complex Emergency,15740,2010,Uganda
+Ukraine 2010,Miscellaneous,15942,2010,Ukraine
+Uzbekistan 2010,Miscellaneous,15894,2010,Uzbekistan
+Vanuatu 2010,Miscellaneous,15859,2010,Vanuatu
+Venezuela 2010,Miscellaneous,15861,2010,Venezuela
+Viet Nam 2010,Miscellaneous,15815,2010,Viet Nam
+West Africa 2010,Complex Emergency,15744,2010,Region
+Western Sahara 2010,Miscellaneous,16027,2010,Western Sahara
+Yemen 2010,Complex Emergency,15733,2010,Yemen
+Zambia 2010,Miscellaneous,15923,2010,Zambia
+Zimbabwe 2010,Complex Emergency,15743,2010,Zimbabwe
+Afghanistan 2009,Complex Emergency,15609,2009,Afghanistan
+Albania 2009,Miscellaneous,15683,2009,Albania
+Algeria 2009,Miscellaneous,15671,2009,Algeria
+Angola - Angolans Expelled from the DRC - October 2009,Miscellaneous,15782,2009,Angola
+Angola 2009,Miscellaneous,15650,2009,Angola
+Argentina 2009,Miscellaneous,15691,2009,Argentina
+Armenia 2009,Miscellaneous,15721,2009,Armenia
+Azerbaijan 2009,Miscellaneous,15756,2009,Azerbaijan
+Bangladesh 2009,Miscellaneous,15658,2009,Bangladesh
+Belarus 2009,Miscellaneous,15655,2009,Belarus
+Belize 2009,Miscellaneous,15969,2009,Belize
+Benin 2009,Miscellaneous,15784,2009,Benin
+Bhutan 2009,Miscellaneous,15692,2009,Bhutan
+Bolivia 2009,Miscellaneous,15663,2009,Bolivia
+Bosnia and Herzegovina 2009,Miscellaneous,15636,2009,Bosnia and Herzegovina
+Brazil 2009,Miscellaneous,15693,2009,Brazil
+Burkina Faso 2009,Miscellaneous,15694,2009,Burkina Faso
+Burundi 2009,Miscellaneous,15656,2009,Burundi
+Cambodia 2009,Miscellaneous,15642,2009,Cambodia
+Cameroon 2009,Miscellaneous,15772,2009,Cameroon
+Cape Verde 2009,Miscellaneous,15705,2009,Cape Verde
+Central African Republic 2009,Complex Emergency,15588,2009,Central African Republic
+Chad 2009,Complex Emergency,15594,2009,Chad
+Chile 2009,Miscellaneous,15719,2009,Chile
+China 2009,Miscellaneous,15673,2009,China
+Colombia 2009,Miscellaneous,15638,2009,Colombia
+Comoros 2009,Miscellaneous,15771,2009,Comoros
+Cote d'Ivoire 2009,Complex Emergency,15602,2009,Cote d'Ivoire
+Croatia 2009,Miscellaneous,15676,2009,Croatia
+Cuba 2009,Miscellaneous,15680,2009,Cuba
+Cyprus 2009,Miscellaneous,15783,2009,Cyprus
+Democratic Republic of the Congo 2009,Complex Emergency,15592,2009,"Congo, Democratic Republic of the"
+Djibouti 2009,Miscellaneous,15662,2009,Djibouti
+Dominican Republic 2009,Miscellaneous,15780,2009,Dominican Republic
+Ecuador 2009,Miscellaneous,15652,2009,Ecuador
+Egypt 2009,Miscellaneous,15695,2009,Egypt
+El Salvador 2009,Miscellaneous,15689,2009,El Salvador
+Eritrea 2009,Miscellaneous,15661,2009,Eritrea
+Ethiopia 2009,Miscellaneous,15628,2009,Ethiopia
+Fiji 2009,Miscellaneous,15696,2009,Fiji
+Gambia 2009,Miscellaneous,15722,2009,Gambia
+Georgia 2009,Miscellaneous,15697,2009,Georgia
+Ghana 2009,Miscellaneous,15687,2009,Ghana
+Guatemala 2009,Miscellaneous,15724,2009,Guatemala
+Guinea 2009,Miscellaneous,15715,2009,Guinea
+Guinea-Bissau 2009,Miscellaneous,15710,2009,Guinea-Bissau
+Haiti 2009,Miscellaneous,15624,2009,Haiti
+Honduras 2009,Miscellaneous,15720,2009,Honduras
+India 2009,Miscellaneous,15672,2009,India
+Indonesia 2009,Miscellaneous,15675,2009,Indonesia
+Iran 2009,Miscellaneous,15684,2009,"Iran, Islamic Republic of"
+Iraq 2009 (incl. Iraqi refugees in neighbouring countries) ,Complex Emergency,15590,2009,Iraq
+Israel 2009,Miscellaneous,15770,2009,Israel
+Jamaica 2009,Miscellaneous,15714,2009,Jamaica
+Jordan 2009,Miscellaneous,15674,2009,Jordan
+Kazakhstan 2009,Miscellaneous,15645,2009,Kazakhstan
+Kenya 2009,Complex Emergency,15600,2009,Kenya
+"Korea, DPR 2009",Miscellaneous,15631,2009,"Korea, Democratic People's Republic of"
+Kyrgyzstan 2009,Miscellaneous,15732,2009,Kyrgyzstan
+Lao PDR 2009,Miscellaneous,15723,2009,Lao People's Democratic Republic
+Lebanon 2009,Miscellaneous,15648,2009,Lebanon
+Lesotho 2009,Miscellaneous,15664,2009,Lesotho
+Liberia 2009,Miscellaneous,15649,2009,Liberia
+Macedonia 2009,Miscellaneous,15769,2009,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2009,Miscellaneous,15668,2009,Madagascar
+Malawi 2009,Miscellaneous,15707,2009,Malawi
+Malaysia 2009,Miscellaneous,15666,2009,Malaysia
+Maldives 2009,Miscellaneous,15948,2009,Maldives
+Mali 2009,Miscellaneous,15698,2009,Mali
+Marshall Islands  2009,Miscellaneous,15718,2009,Marshall Islands
+Mauritania 2009,Miscellaneous,15699,2009,Mauritania
+Mexico 2009,Miscellaneous,15735,2009,Mexico
+Miscellaneous 2009 (funding not earmarked by country or emergency),Miscellaneous,15622,2009,none
+Moldova 2009,Miscellaneous,15644,2009,"Moldova, Republic of"
+Montenegro 2009,Miscellaneous,15706,2009,Montenegro
+Morocco 2009,Miscellaneous,15654,2009,Morocco
+Mozambique 2009,Miscellaneous,15670,2009,Mozambique
+Myanmar 2009,Miscellaneous,15660,2009,Myanmar
+Namibia 2009,Miscellaneous,15777,2009,Namibia
+Nepal 2009,Complex Emergency,15591,2009,Nepal
+Nicaragua 2009,Miscellaneous,15704,2009,Nicaragua
+Niger 2009,Miscellaneous,15679,2009,Niger
+Nigeria 2009,Miscellaneous,15708,2009,Nigeria
+occupied Palestinian territory 2009,Complex Emergency,15589,2009,"Palestinian territory, occupied"
+Pakistan 2009,Complex Emergency,15688,2009,Pakistan
+Panama 2009,Miscellaneous,15667,2009,Panama
+Papua New Guinea 2009,Miscellaneous,15700,2009,Papua New Guinea
+Paraguay  2009,Miscellaneous,15701,2009,Paraguay
+Peru 2009,Miscellaneous,15702,2009,Peru
+Philippines 2009,Miscellaneous,15685,2009,Philippines
+Poland 2009,Miscellaneous,15787,2009,Poland
+Republic of Congo 2009,Complex Emergency,15779,2009,"Congo, Republic of"
+Romania 2009,Miscellaneous,15736,2009,Romania
+Russian Federation 2009,Miscellaneous,15623,2009,Russian Federation
+Rwanda 2009,Miscellaneous,15764,2009,Rwanda
+Saint Vincent and the Grenadines 2009,Miscellaneous,15862,2009,Saint Vincent and the Grenadines
+Senegal 2009,Miscellaneous,15712,2009,Senegal
+Serbia 2009,Miscellaneous,15709,2009,Serbia
+Sierra Leone 2009,Miscellaneous,15690,2009,Sierra Leone
+Somalia 2009,Complex Emergency,15596,2009,Somalia
+South Africa 2009,Miscellaneous,15726,2009,South Africa
+Sri Lanka 2009,Complex Emergency,15597,2009,Sri Lanka
+Sudan 2009,Complex Emergency,15587,2009,Sudan
+Suriname 2009,Miscellaneous,15912,2009,Suriname
+Swaziland 2009,Miscellaneous,15738,2009,Swaziland
+Syrian Arab Republic - Drought 2009,Natural Disaster,15768,2009,Syrian Arab Republic
+Syrian Arab Republic 2009,Miscellaneous,15686,2009,Syrian Arab Republic
+Taiwan (Province of China) 2009,Miscellaneous,15877,2009,China
+Tajikistan 2009,Miscellaneous,15598,2009,Tajikistan
+Tanzania (United Republic of) 2009,Miscellaneous,15657,2009,"Tanzania, United Republic of"
+Thailand 2009,Miscellaneous,15651,2009,Thailand
+Timor-Leste 2009,Miscellaneous,15716,2009,Timor-Leste
+Togo 2009,Miscellaneous,15774,2009,Togo
+Tunisia 2009,Miscellaneous,15949,2009,Tunisia
+Turkey 2009,Miscellaneous,15713,2009,Turkey
+Turkmenistan 2009,Miscellaneous,15646,2009,Turkmenistan
+Uganda 2009,Complex Emergency,15586,2009,Uganda
+Ukraine 2009,Miscellaneous,15717,2009,Ukraine
+Uruguay 2009,Miscellaneous,15703,2009,Uruguay
+Uzbekistan 2009,Miscellaneous,15647,2009,Uzbekistan
+Venezuela 2009,Miscellaneous,15653,2009,Venezuela
+Viet Nam 2009,Miscellaneous,15643,2009,Viet Nam
+West Africa 2009,Complex Emergency,15593,2009,Region
+Western Sahara 2009,Miscellaneous,16033,2009,Western Sahara
+Yemen 2009,Complex Emergency,15621,2009,Yemen
+Zambia 2009,Miscellaneous,15669,2009,Zambia
+Zimbabwe 2009,Complex Emergency,15595,2009,Zimbabwe
+Albania 2008,Miscellaneous,15530,2008,Albania
+Algeria 2008,Miscellaneous,15475,2008,Algeria
+Angola 2008,Miscellaneous,15479,2008,Angola
+Argentina 2008,Miscellaneous,15640,2008,Argentina
+Armenia 2008,Miscellaneous,15570,2008,Armenia
+Azerbaijan 2008,Miscellaneous,15553,2008,Azerbaijan
+Bangladesh 2008,Miscellaneous,15505,2008,Bangladesh
+Belarus 2008,Miscellaneous,15560,2008,Belarus
+Belize 2008,Miscellaneous,15558,2008,Belize
+Benin 2008,Miscellaneous,15546,2008,Benin
+Bolivia 2008,Miscellaneous,15576,2008,Bolivia
+Bosnia and Herzegovina 2008,Miscellaneous,15480,2008,Bosnia and Herzegovina
+Botswana 2008,Miscellaneous,15567,2008,Botswana
+Brazil 2008,Miscellaneous,15641,2008,Brazil
+Burkina Faso 2008,Miscellaneous,15534,2008,Burkina Faso
+Burundi 2008,Miscellaneous,15502,2008,Burundi
+Cambodia 2008,Miscellaneous,15525,2008,Cambodia
+Cameroon 2008,Miscellaneous,15457,2008,Cameroon
+Cape Verde 2008,Miscellaneous,15557,2008,Cape Verde
+Central African Republic 2008,Complex Emergency,15379,2008,Central African Republic
+Chad 2008,Complex Emergency,15380,2008,Chad
+Chile 2008,Miscellaneous,15533,2008,Chile
+China 2008,Miscellaneous,15459,2008,China
+Colombia 2008,Miscellaneous,15422,2008,Colombia
+Comoros 2008,Miscellaneous,15545,2008,Comoros
+Costa Rica 2008,Miscellaneous,15460,2008,Costa Rica
+Cote d'Ivoire 2008,Complex Emergency,15376,2008,Cote d'Ivoire
+Croatia 2008,Miscellaneous,15492,2008,Croatia
+Cuba 2008,Miscellaneous,15559,2008,Cuba
+Democratic Republic of the Congo 2008,Complex Emergency,15386,2008,"Congo, Democratic Republic of the"
+Djibouti 2008,Miscellaneous,15461,2008,Djibouti
+Dominican Republic 2008,Miscellaneous,15540,2008,Dominican Republic
+Ecuador 2008,Miscellaneous,15462,2008,Ecuador
+Egypt 2008,Miscellaneous,15578,2008,Egypt
+El Salvador 2008,Miscellaneous,15516,2008,El Salvador
+Eritrea 2008,Miscellaneous,15463,2008,Eritrea
+Ethiopia 2008,Miscellaneous,15458,2008,Ethiopia
+Gambia 2008,Miscellaneous,15556,2008,Gambia
+Georgia 2008,Miscellaneous,15465,2008,Georgia
+Ghana 2008,Miscellaneous,15515,2008,Ghana
+Greece 2008,Miscellaneous,15613,2008,Greece
+Guatemala 2008,Miscellaneous,15477,2008,Guatemala
+Guinea 2008,Miscellaneous,15547,2008,Guinea
+Guinea-Bissau 2008,Miscellaneous,15427,2008,Guinea-Bissau
+Haiti 2008,Miscellaneous,15464,2008,Haiti
+Honduras 2008,Miscellaneous,15517,2008,Honduras
+India 2008,Miscellaneous,15554,2008,India
+Indonesia 2008,Miscellaneous,15526,2008,Indonesia
+Iran 2008,Miscellaneous,15494,2008,"Iran, Islamic Republic of"
+Iraq 2008 (incl. Iraqi refugees in neighbouring countries) ,Complex Emergency,15435,2008,Iraq
+Israel 2008,Miscellaneous,15535,2008,Israel
+Jordan 2008,Miscellaneous,15506,2008,Jordan
+Kazakhstan 2008,Miscellaneous,15521,2008,Kazakhstan
+KENYA - Post-Election Emergency - January 2008,Complex Emergency,15434,2008,Kenya
+Kenya 2008,Miscellaneous,15428,2008,Kenya
+"Korea, DPR 2008",Miscellaneous,15495,2008,"Korea, Democratic People's Republic of"
+Kyrgyzstan 2008,Miscellaneous,15520,2008,Kyrgyzstan
+Lao PDR 2008,Miscellaneous,15527,2008,Lao People's Democratic Republic
+Lebanon 2008,Miscellaneous,15455,2008,Lebanon
+Lesotho 2008,Miscellaneous,15531,2008,Lesotho
+Liberia 2008,Complex Emergency,15466,2008,Liberia
+Madagascar 2008,Miscellaneous,15474,2008,Madagascar
+Malawi 2008,Miscellaneous,15491,2008,Malawi
+Malaysia 2008,Miscellaneous,15542,2008,Malaysia
+Maldives 2008,Miscellaneous,15603,2008,Maldives
+Mali 2008,Miscellaneous,15467,2008,Mali
+Mauritania 2008,Miscellaneous,15468,2008,Mauritania
+Mexico 2008,Miscellaneous,15611,2008,Mexico
+Miscellaneous 2008 (funding not earmarked by country or emergency),Miscellaneous,15384,2008,none
+Moldova 2008,Miscellaneous,15508,2008,"Moldova, Republic of"
+Mongolia 2008,Miscellaneous,15551,2008,Mongolia
+Montenegro 2008,Miscellaneous,15509,2008,Montenegro
+Morocco 2008,Miscellaneous,15473,2008,Morocco
+Mozambique 2008,Miscellaneous,15513,2008,Mozambique
+Myanmar 2008,Miscellaneous,15442,2008,Myanmar
+Namibia 2008,Miscellaneous,15528,2008,Namibia
+Nepal 2008,Complex Emergency,15394,2008,Nepal
+Nicaragua 2008,Miscellaneous,15518,2008,Nicaragua
+Niger 2008,Miscellaneous,15529,2008,Niger
+Nigeria 2008,Miscellaneous,15539,2008,Nigeria
+occupied Palestinian territory 2008,Complex Emergency,15373,2008,"Palestinian territory, occupied"
+Pakistan 2008,Miscellaneous,15443,2008,Pakistan
+Panama 2008,Miscellaneous,15519,2008,Panama
+Papua New Guinea 2008,Miscellaneous,15566,2008,Papua New Guinea
+Paraguay  2008,Miscellaneous,15512,2008,Paraguay
+Peru 2008,Miscellaneous,15470,2008,Peru
+Philippines 2008,Miscellaneous,15500,2008,Philippines
+Republic of Congo 2008,Miscellaneous,15429,2008,"Congo, Republic of"
+Romania 2008,Miscellaneous,15579,2008,Romania
+Russian Federation 2008,Miscellaneous,15478,2008,Russian Federation
+Rwanda 2008,Miscellaneous,15562,2008,Rwanda
+Sao Tome and Principe 2008,Miscellaneous,15561,2008,Sao Tome and Principe
+Senegal 2008,Miscellaneous,15469,2008,Senegal
+Serbia 2008,Miscellaneous,15496,2008,Serbia
+Sierra Leone 2008,Miscellaneous,15544,2008,Sierra Leone
+Somalia 2008,Complex Emergency,15377,2008,Somalia
+South Africa 2008,Miscellaneous,15569,2008,South Africa
+Sri Lanka 2008,Complex Emergency,15426,2008,Sri Lanka
+Sudan 2008,Complex Emergency,15391,2008,Sudan
+Swaziland 2008,Miscellaneous,15555,2008,Swaziland
+Syrian Arab Republic 2008,Miscellaneous,15472,2008,Syrian Arab Republic
+Tajikistan 2008,Miscellaneous,15522,2008,Tajikistan
+Tanzania (United Republic of) 2008,Miscellaneous,15453,2008,"Tanzania, United Republic of"
+Thailand 2008,Miscellaneous,15507,2008,Thailand
+Timor-Leste 2008,Complex Emergency,15425,2008,Timor-Leste
+Togo 2008,Miscellaneous,15548,2008,Togo
+Turkey 2008,Miscellaneous,15568,2008,Turkey
+Turkmenistan 2008,Miscellaneous,15523,2008,Turkmenistan
+Uganda 2008,Complex Emergency,15378,2008,Uganda
+Ukraine 2008,Miscellaneous,15532,2008,Ukraine
+Uzbekistan 2008,Miscellaneous,15524,2008,Uzbekistan
+Venezuela 2008,Miscellaneous,15501,2008,Venezuela
+Viet Nam 2008,Miscellaneous,15490,2008,Viet Nam
+West Africa 2008,Complex Emergency,15375,2008,Region
+Yemen 2008,Miscellaneous,15481,2008,Yemen
+Zambia 2008,Miscellaneous,15537,2008,Zambia
+Zimbabwe 2008,Complex Emergency,15370,2008,Zimbabwe
+Albania 2007,Miscellaneous,15348,2007,Albania
+Algeria 2007,Miscellaneous,15238,2007,Algeria
+Angola 2007,Miscellaneous,15258,2007,Angola
+Appeal for Building Global Humanitarian Response Capacity 2007,Miscellaneous,15308,2007,none
+Argentina 2007,Miscellaneous,15302,2007,Argentina
+Armenia 2007,Miscellaneous,15253,2007,Armenia
+Azerbaijan 2007,Miscellaneous,15254,2007,Azerbaijan
+Bangladesh 2007,Miscellaneous,15231,2007,Bangladesh
+Belarus 2007,Miscellaneous,15285,2007,Belarus
+Belize 2007,Miscellaneous,15503,2007,Belize
+Benin 2007,Miscellaneous,15221,2007,Benin
+Bhutan 2007,Miscellaneous,15339,2007,Bhutan
+Bolivia 2007,Miscellaneous,15338,2007,Bolivia
+Bosnia and Herzegovina 2007,Miscellaneous,15226,2007,Bosnia and Herzegovina
+Brazil 2007,Miscellaneous,15307,2007,Brazil
+Bulgaria 2007,Miscellaneous,15354,2007,Bulgaria
+Burundi 2007,Complex Emergency,15187,2007,Burundi
+Cambodia 2007,Miscellaneous,15274,2007,Cambodia
+Cameroon 2007,Miscellaneous,15326,2007,Cameroon
+Cape Verde 2007,Miscellaneous,15327,2007,Cape Verde
+CENTRAL AMERICA - Floods - October 2007,Natural Disaster,15367,2007,Region
+Chad 2007,Complex Emergency,15189,2007,Chad
+Chile 2007,Miscellaneous,15305,2007,Chile
+China 2007,Miscellaneous,15286,2007,China
+COLOMBIA - Floods - Dec 2007 ,Natural Disaster,15433,2007,Colombia
+Colombia 2007,Miscellaneous,15270,2007,Colombia
+Comoros 2007,Miscellaneous,15301,2007,Comoros
+Costa Rica 2007,Miscellaneous,15318,2007,Costa Rica
+Cote d'Ivoire 2007,Complex Emergency,15185,2007,Cote d'Ivoire
+Croatia 2007,Miscellaneous,15311,2007,Croatia
+Cuba 2007,Miscellaneous,15320,2007,Cuba
+Cyprus 2007,Miscellaneous,15388,2007,Cyprus
+Democratic Republic of the Congo 2007,Complex Emergency,15195,2007,"Congo, Democratic Republic of the"
+Djibouti 2007,Miscellaneous,15259,2007,Djibouti
+Dominica 2007,Miscellaneous,15504,2007,Dominica
+Dominican Republic 2007,Miscellaneous,15268,2007,Dominican Republic
+Ecuador 2007,Miscellaneous,15296,2007,Ecuador
+Egypt 2007,Miscellaneous,15499,2007,Egypt
+El Salvador 2007,Miscellaneous,15290,2007,El Salvador
+Eritrea 2007,Miscellaneous,15261,2007,Eritrea
+Ethiopia 2007,Miscellaneous,15264,2007,Ethiopia
+Gambia 2007,Miscellaneous,15330,2007,Gambia
+Georgia 2007,Miscellaneous,15252,2007,Georgia
+Ghana 2007,Miscellaneous,15303,2007,Ghana
+Greece 2007,Miscellaneous,15357,2007,Greece
+Grenada 2007,Miscellaneous,15572,2007,Grenada
+Guatemala 2007,Miscellaneous,15317,2007,Guatemala
+Guinea 2007,Miscellaneous,15313,2007,Guinea
+Guinea-Bissau 2007,Miscellaneous,15322,2007,Guinea-Bissau
+Guyana  2007,Miscellaneous,15511,2007,Guyana
+Haiti 2007,Miscellaneous,15215,2007,Haiti
+Honduras 2007,Miscellaneous,15316,2007,Honduras
+Horn of Africa 2007,Miscellaneous,15249,2007,Region
+India 2007,Miscellaneous,15314,2007,India
+Indonesia 2007,Miscellaneous,15228,2007,Indonesia
+Iran 2007,Miscellaneous,15271,2007,"Iran, Islamic Republic of"
+Iraq 2007 (incl. Iraqi refugees in neighbouring countries) ,Complex Emergency,15257,2007,Iraq
+Israel 2007,Miscellaneous,15607,2007,Israel
+Jamaica 2007,Miscellaneous,15430,2007,Jamaica
+Japan 2007,Miscellaneous,15349,2007,Japan
+Jordan 2007,Miscellaneous,15273,2007,Jordan
+Kenya 2007,Miscellaneous,15237,2007,Kenya
+"Korea, DPR 2007",Miscellaneous,15280,2007,"Korea, Democratic People's Republic of"
+Kyrgyzstan 2007,Miscellaneous,15236,2007,Kyrgyzstan
+Lao PDR 2007,Miscellaneous,15324,2007,Lao People's Democratic Republic
+Lebanon - Refugee Camp Crisis - May 2007,Complex Emergency,15323,2007,Lebanon
+Lebanon 2007,Miscellaneous,15239,2007,Lebanon
+LESOTHO - Drought - 2007,Natural Disaster,15341,2007,Lesotho
+Liberia 2007,Complex Emergency,15240,2007,Liberia
+Libya 2007,Miscellaneous,15294,2007,Libya
+Macedonia 2007,Miscellaneous,15340,2007,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2007,Miscellaneous,15291,2007,Madagascar
+Malawi 2007,Miscellaneous,15263,2007,Malawi
+Mali 2007,Miscellaneous,15310,2007,Mali
+Mauritania 2007,Miscellaneous,15233,2007,Mauritania
+Miscellaneous 2007 (funding not earmarked by country or emergency),Miscellaneous,15219,2007,none
+Moldova 2007,Miscellaneous,15244,2007,"Moldova, Republic of"
+Mongolia 2007,Miscellaneous,15329,2007,Mongolia
+Montenegro 2007,Miscellaneous,15365,2007,Montenegro
+Morocco 2007,Miscellaneous,15245,2007,Morocco
+Mozambique 2007,Miscellaneous,15272,2007,Mozambique
+Myanmar 2007,Miscellaneous,15250,2007,Myanmar
+Namibia 2007,Miscellaneous,15277,2007,Namibia
+Nepal 2007,Complex Emergency,15246,2007,Nepal
+Nicaragua 2007,Miscellaneous,15282,2007,Nicaragua
+Niger 2007,Miscellaneous,15309,2007,Niger
+Nigeria 2007,Miscellaneous,15440,2007,Nigeria
+occupied Palestinian territory 2007,Complex Emergency,15190,2007,"Palestinian territory, occupied"
+Pakistan 2007,Miscellaneous,15269,2007,Pakistan
+Panama 2007,Miscellaneous,15293,2007,Panama
+Papua New Guinea 2007,Miscellaneous,15358,2007,Papua New Guinea
+Paraguay 2007,Miscellaneous,15283,2007,Paraguay
+Peru 2007,Miscellaneous,15262,2007,Peru
+Philippines 2007,Miscellaneous,15288,2007,Philippines
+Romania 2007,Miscellaneous,15304,2007,Romania
+Russian Federation 2007,Miscellaneous,15356,2007,Russian Federation
+Rwanda 2007,Complex Emergency,15235,2007,Rwanda
+Sao Tome and Principe 2007,Miscellaneous,15300,2007,Sao Tome and Principe
+Senegal 2007,Miscellaneous,15315,2007,Senegal
+Serbia 2007,Miscellaneous,15325,2007,Serbia
+Sierra Leone 2007,Miscellaneous,15284,2007,Sierra Leone
+Slovenia 2007,Miscellaneous,15431,2007,Slovenia
+South Africa 2007,Miscellaneous,15359,2007,South Africa
+SOUTH ASIA - Regional Floods - August 2007,Natural Disaster,15342,2007,Region
+Sri Lanka 2007,Complex Emergency,15220,2007,Sri Lanka
+Sudan 2007,Complex Emergency,15191,2007,Sudan
+SWAZILAND - Drought - 2007,Natural Disaster,15332,2007,Swaziland
+Syrian Arab Republic 2007,Miscellaneous,15222,2007,Syrian Arab Republic
+Tajikistan 2007,Miscellaneous,15227,2007,Tajikistan
+Tanzania (United Republic of) 2007,Miscellaneous,15267,2007,"Tanzania, United Republic of"
+Thailand 2007,Miscellaneous,15251,2007,Thailand
+Timor-Leste 2007,Complex Emergency,15224,2007,Timor-Leste
+Togo 2007,Miscellaneous,15438,2007,Togo
+Trinidad and Tobago 2007,Miscellaneous,15424,2007,Trinidad and Tobago
+Tunisia 2007,Miscellaneous,15389,2007,Tunisia
+Turkey 2007,Miscellaneous,15328,2007,Turkey
+Uganda 2007,Complex Emergency,15192,2007,Uganda
+Ukraine 2007,Miscellaneous,15306,2007,Ukraine
+Uruguay 2007,Miscellaneous,15337,2007,Uruguay
+Venezuela 2007,Miscellaneous,15297,2007,Venezuela
+Viet Nam 2007,Miscellaneous,15352,2007,Viet Nam
+Yemen 2007,Miscellaneous,15229,2007,Yemen
+Zambia 2007,Miscellaneous,15343,2007,Zambia
 Afghanistan Drought 2006,Natural Disaster,15145,2006,Afghanistan
 Albania 2006,Miscellaneous,15073,2006,Albania
 Algeria 2006,Miscellaneous,15050,2006,Algeria
@@ -712,1036 +1179,569 @@ Viet Nam 2006,Miscellaneous,15028,2006,Viet Nam
 Western Sahara 2006,Miscellaneous,15151,2006,Western Sahara
 Yemen 2006,Miscellaneous,15014,2006,Yemen
 Zambia 2006,Miscellaneous,15047,2006,Zambia
-Albania 2007,Miscellaneous,15348,2007,Albania
-Algeria 2007,Miscellaneous,15238,2007,Algeria
-Angola 2007,Miscellaneous,15258,2007,Angola
-Appeal for Building Global Humanitarian Response Capacity 2007,Miscellaneous,15308,2007,none
-Argentina 2007,Miscellaneous,15302,2007,Argentina
-Armenia 2007,Miscellaneous,15253,2007,Armenia
-Azerbaijan 2007,Miscellaneous,15254,2007,Azerbaijan
-Bangladesh 2007,Miscellaneous,15231,2007,Bangladesh
-Belarus 2007,Miscellaneous,15285,2007,Belarus
-Belize 2007,Miscellaneous,15503,2007,Belize
-Benin 2007,Miscellaneous,15221,2007,Benin
-Bhutan 2007,Miscellaneous,15339,2007,Bhutan
-Bolivia 2007,Miscellaneous,15338,2007,Bolivia
-Bosnia and Herzegovina 2007,Miscellaneous,15226,2007,Bosnia and Herzegovina
-Brazil 2007,Miscellaneous,15307,2007,Brazil
-Bulgaria 2007,Miscellaneous,15354,2007,Bulgaria
-Burundi 2007,Complex Emergency,15187,2007,Burundi
-Cambodia 2007,Miscellaneous,15274,2007,Cambodia
-Cameroon 2007,Miscellaneous,15326,2007,Cameroon
-Cape Verde 2007,Miscellaneous,15327,2007,Cape Verde
-CENTRAL AMERICA - Floods - October 2007,Natural Disaster,15367,2007,Region
-Chad 2007,Complex Emergency,15189,2007,Chad
-Chile 2007,Miscellaneous,15305,2007,Chile
-China 2007,Miscellaneous,15286,2007,China
-COLOMBIA - Floods - Dec 2007 ,Natural Disaster,15433,2007,Colombia
-Colombia 2007,Miscellaneous,15270,2007,Colombia
-Comoros 2007,Miscellaneous,15301,2007,Comoros
-Costa Rica 2007,Miscellaneous,15318,2007,Costa Rica
-Cote d'Ivoire 2007,Complex Emergency,15185,2007,Cote d'Ivoire
-Croatia 2007,Miscellaneous,15311,2007,Croatia
-Cuba 2007,Miscellaneous,15320,2007,Cuba
-Cyprus 2007,Miscellaneous,15388,2007,Cyprus
-Democratic Republic of the Congo 2007,Complex Emergency,15195,2007,"Congo, Democratic Republic of the"
-Djibouti 2007,Miscellaneous,15259,2007,Djibouti
-Dominica 2007,Miscellaneous,15504,2007,Dominica
-Dominican Republic 2007,Miscellaneous,15268,2007,Dominican Republic
-Ecuador 2007,Miscellaneous,15296,2007,Ecuador
-Egypt 2007,Miscellaneous,15499,2007,Egypt
-El Salvador 2007,Miscellaneous,15290,2007,El Salvador
-Eritrea 2007,Miscellaneous,15261,2007,Eritrea
-Ethiopia 2007,Miscellaneous,15264,2007,Ethiopia
-Gambia 2007,Miscellaneous,15330,2007,Gambia
-Georgia 2007,Miscellaneous,15252,2007,Georgia
-Ghana 2007,Miscellaneous,15303,2007,Ghana
-Greece 2007,Miscellaneous,15357,2007,Greece
-Grenada 2007,Miscellaneous,15572,2007,Grenada
-Guatemala 2007,Miscellaneous,15317,2007,Guatemala
-Guinea 2007,Miscellaneous,15313,2007,Guinea
-Guinea-Bissau 2007,Miscellaneous,15322,2007,Guinea-Bissau
-Guyana  2007,Miscellaneous,15511,2007,Guyana
-Haiti 2007,Miscellaneous,15215,2007,Haiti
-Honduras 2007,Miscellaneous,15316,2007,Honduras
-Horn of Africa 2007,Miscellaneous,15249,2007,Region
-India 2007,Miscellaneous,15314,2007,India
-Indonesia 2007,Miscellaneous,15228,2007,Indonesia
-Iran 2007,Miscellaneous,15271,2007,"Iran, Islamic Republic of"
-Iraq 2007 (incl. Iraqi refugees in neighbouring countries) ,Complex Emergency,15257,2007,Iraq
-Israel 2007,Miscellaneous,15607,2007,Israel
-Jamaica 2007,Miscellaneous,15430,2007,Jamaica
-Japan 2007,Miscellaneous,15349,2007,Japan
-Jordan 2007,Miscellaneous,15273,2007,Jordan
-Kenya 2007,Miscellaneous,15237,2007,Kenya
-"Korea, DPR 2007",Miscellaneous,15280,2007,"Korea, Democratic People's Republic of"
-Kyrgyzstan 2007,Miscellaneous,15236,2007,Kyrgyzstan
-Lao PDR 2007,Miscellaneous,15324,2007,Lao People's Democratic Republic
-Lebanon - Refugee Camp Crisis - May 2007,Complex Emergency,15323,2007,Lebanon
-Lebanon 2007,Miscellaneous,15239,2007,Lebanon
-LESOTHO - Drought - 2007,Natural Disaster,15341,2007,Lesotho
-Liberia 2007,Complex Emergency,15240,2007,Liberia
-Libya 2007,Miscellaneous,15294,2007,Libya
-Macedonia 2007,Miscellaneous,15340,2007,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2007,Miscellaneous,15291,2007,Madagascar
-Malawi 2007,Miscellaneous,15263,2007,Malawi
-Mali 2007,Miscellaneous,15310,2007,Mali
-Mauritania 2007,Miscellaneous,15233,2007,Mauritania
-Miscellaneous 2007 (funding not earmarked by country or emergency),Miscellaneous,15219,2007,none
-Moldova 2007,Miscellaneous,15244,2007,"Moldova, Republic of"
-Mongolia 2007,Miscellaneous,15329,2007,Mongolia
-Montenegro 2007,Miscellaneous,15365,2007,Montenegro
-Morocco 2007,Miscellaneous,15245,2007,Morocco
-Mozambique 2007,Miscellaneous,15272,2007,Mozambique
-Myanmar 2007,Miscellaneous,15250,2007,Myanmar
-Namibia 2007,Miscellaneous,15277,2007,Namibia
-Nepal 2007,Complex Emergency,15246,2007,Nepal
-Nicaragua 2007,Miscellaneous,15282,2007,Nicaragua
-Niger 2007,Miscellaneous,15309,2007,Niger
-Nigeria 2007,Miscellaneous,15440,2007,Nigeria
-occupied Palestinian territory 2007,Complex Emergency,15190,2007,"Palestinian territory, occupied"
-Pakistan 2007,Miscellaneous,15269,2007,Pakistan
-Panama 2007,Miscellaneous,15293,2007,Panama
-Papua New Guinea 2007,Miscellaneous,15358,2007,Papua New Guinea
-Paraguay 2007,Miscellaneous,15283,2007,Paraguay
-Peru 2007,Miscellaneous,15262,2007,Peru
-Philippines 2007,Miscellaneous,15288,2007,Philippines
-Romania 2007,Miscellaneous,15304,2007,Romania
-Russian Federation 2007,Miscellaneous,15356,2007,Russian Federation
-Rwanda 2007,Complex Emergency,15235,2007,Rwanda
-Sao Tome and Principe 2007,Miscellaneous,15300,2007,Sao Tome and Principe
-Senegal 2007,Miscellaneous,15315,2007,Senegal
-Serbia 2007,Miscellaneous,15325,2007,Serbia
-Sierra Leone 2007,Miscellaneous,15284,2007,Sierra Leone
-Slovenia 2007,Miscellaneous,15431,2007,Slovenia
-South Africa 2007,Miscellaneous,15359,2007,South Africa
-SOUTH ASIA - Regional Floods - August 2007,Natural Disaster,15342,2007,Region
-Sri Lanka 2007,Complex Emergency,15220,2007,Sri Lanka
-Sudan 2007,Complex Emergency,15191,2007,Sudan
-SWAZILAND - Drought - 2007,Natural Disaster,15332,2007,Swaziland
-Syrian Arab Republic 2007,Miscellaneous,15222,2007,Syrian Arab Republic
-Tajikistan 2007,Miscellaneous,15227,2007,Tajikistan
-Tanzania (United Republic of) 2007,Miscellaneous,15267,2007,"Tanzania, United Republic of"
-Thailand 2007,Miscellaneous,15251,2007,Thailand
-Timor-Leste 2007,Complex Emergency,15224,2007,Timor-Leste
-Togo 2007,Miscellaneous,15438,2007,Togo
-Trinidad and Tobago 2007,Miscellaneous,15424,2007,Trinidad and Tobago
-Tunisia 2007,Miscellaneous,15389,2007,Tunisia
-Turkey 2007,Miscellaneous,15328,2007,Turkey
-Uganda 2007,Complex Emergency,15192,2007,Uganda
-Ukraine 2007,Miscellaneous,15306,2007,Ukraine
-Uruguay 2007,Miscellaneous,15337,2007,Uruguay
-Venezuela 2007,Miscellaneous,15297,2007,Venezuela
-Viet Nam 2007,Miscellaneous,15352,2007,Viet Nam
-Yemen 2007,Miscellaneous,15229,2007,Yemen
-Zambia 2007,Miscellaneous,15343,2007,Zambia
-Albania 2008,Miscellaneous,15530,2008,Albania
-Algeria 2008,Miscellaneous,15475,2008,Algeria
-Angola 2008,Miscellaneous,15479,2008,Angola
-Argentina 2008,Miscellaneous,15640,2008,Argentina
-Armenia 2008,Miscellaneous,15570,2008,Armenia
-Azerbaijan 2008,Miscellaneous,15553,2008,Azerbaijan
-Bangladesh 2008,Miscellaneous,15505,2008,Bangladesh
-Belarus 2008,Miscellaneous,15560,2008,Belarus
-Belize 2008,Miscellaneous,15558,2008,Belize
-Benin 2008,Miscellaneous,15546,2008,Benin
-Bolivia 2008,Miscellaneous,15576,2008,Bolivia
-Bosnia and Herzegovina 2008,Miscellaneous,15480,2008,Bosnia and Herzegovina
-Botswana 2008,Miscellaneous,15567,2008,Botswana
-Brazil 2008,Miscellaneous,15641,2008,Brazil
-Burkina Faso 2008,Miscellaneous,15534,2008,Burkina Faso
-Burundi 2008,Miscellaneous,15502,2008,Burundi
-Cambodia 2008,Miscellaneous,15525,2008,Cambodia
-Cameroon 2008,Miscellaneous,15457,2008,Cameroon
-Cape Verde 2008,Miscellaneous,15557,2008,Cape Verde
-Central African Republic 2008,Complex Emergency,15379,2008,Central African Republic
-Chad 2008,Complex Emergency,15380,2008,Chad
-Chile 2008,Miscellaneous,15533,2008,Chile
-China 2008,Miscellaneous,15459,2008,China
-Colombia 2008,Miscellaneous,15422,2008,Colombia
-Comoros 2008,Miscellaneous,15545,2008,Comoros
-Costa Rica 2008,Miscellaneous,15460,2008,Costa Rica
-Cote d'Ivoire 2008,Complex Emergency,15376,2008,Cote d'Ivoire
-Croatia 2008,Miscellaneous,15492,2008,Croatia
-Cuba 2008,Miscellaneous,15559,2008,Cuba
-Democratic Republic of the Congo 2008,Complex Emergency,15386,2008,"Congo, Democratic Republic of the"
-Djibouti 2008,Miscellaneous,15461,2008,Djibouti
-Dominican Republic 2008,Miscellaneous,15540,2008,Dominican Republic
-Ecuador 2008,Miscellaneous,15462,2008,Ecuador
-Egypt 2008,Miscellaneous,15578,2008,Egypt
-El Salvador 2008,Miscellaneous,15516,2008,El Salvador
-Eritrea 2008,Miscellaneous,15463,2008,Eritrea
-Ethiopia 2008,Miscellaneous,15458,2008,Ethiopia
-Gambia 2008,Miscellaneous,15556,2008,Gambia
-Georgia 2008,Miscellaneous,15465,2008,Georgia
-Ghana 2008,Miscellaneous,15515,2008,Ghana
-Greece 2008,Miscellaneous,15613,2008,Greece
-Guatemala 2008,Miscellaneous,15477,2008,Guatemala
-Guinea 2008,Miscellaneous,15547,2008,Guinea
-Guinea-Bissau 2008,Miscellaneous,15427,2008,Guinea-Bissau
-Haiti 2008,Miscellaneous,15464,2008,Haiti
-Honduras 2008,Miscellaneous,15517,2008,Honduras
-India 2008,Miscellaneous,15554,2008,India
-Indonesia 2008,Miscellaneous,15526,2008,Indonesia
-Iran 2008,Miscellaneous,15494,2008,"Iran, Islamic Republic of"
-Iraq 2008 (incl. Iraqi refugees in neighbouring countries) ,Complex Emergency,15435,2008,Iraq
-Israel 2008,Miscellaneous,15535,2008,Israel
-Jordan 2008,Miscellaneous,15506,2008,Jordan
-Kazakhstan 2008,Miscellaneous,15521,2008,Kazakhstan
-KENYA - Post-Election Emergency - January 2008,Complex Emergency,15434,2008,Kenya
-Kenya 2008,Miscellaneous,15428,2008,Kenya
-"Korea, DPR 2008",Miscellaneous,15495,2008,"Korea, Democratic People's Republic of"
-Kyrgyzstan 2008,Miscellaneous,15520,2008,Kyrgyzstan
-Lao PDR 2008,Miscellaneous,15527,2008,Lao People's Democratic Republic
-Lebanon 2008,Miscellaneous,15455,2008,Lebanon
-Lesotho 2008,Miscellaneous,15531,2008,Lesotho
-Liberia 2008,Complex Emergency,15466,2008,Liberia
-Madagascar 2008,Miscellaneous,15474,2008,Madagascar
-Malawi 2008,Miscellaneous,15491,2008,Malawi
-Malaysia 2008,Miscellaneous,15542,2008,Malaysia
-Maldives 2008,Miscellaneous,15603,2008,Maldives
-Mali 2008,Miscellaneous,15467,2008,Mali
-Mauritania 2008,Miscellaneous,15468,2008,Mauritania
-Mexico 2008,Miscellaneous,15611,2008,Mexico
-Miscellaneous 2008 (funding not earmarked by country or emergency),Miscellaneous,15384,2008,none
-Moldova 2008,Miscellaneous,15508,2008,"Moldova, Republic of"
-Mongolia 2008,Miscellaneous,15551,2008,Mongolia
-Montenegro 2008,Miscellaneous,15509,2008,Montenegro
-Morocco 2008,Miscellaneous,15473,2008,Morocco
-Mozambique 2008,Miscellaneous,15513,2008,Mozambique
-Myanmar 2008,Miscellaneous,15442,2008,Myanmar
-Namibia 2008,Miscellaneous,15528,2008,Namibia
-Nepal 2008,Complex Emergency,15394,2008,Nepal
-Nicaragua 2008,Miscellaneous,15518,2008,Nicaragua
-Niger 2008,Miscellaneous,15529,2008,Niger
-Nigeria 2008,Miscellaneous,15539,2008,Nigeria
-occupied Palestinian territory 2008,Complex Emergency,15373,2008,"Palestinian territory, occupied"
-Pakistan 2008,Miscellaneous,15443,2008,Pakistan
-Panama 2008,Miscellaneous,15519,2008,Panama
-Papua New Guinea 2008,Miscellaneous,15566,2008,Papua New Guinea
-Paraguay  2008,Miscellaneous,15512,2008,Paraguay
-Peru 2008,Miscellaneous,15470,2008,Peru
-Philippines 2008,Miscellaneous,15500,2008,Philippines
-Republic of Congo 2008,Miscellaneous,15429,2008,"Congo, Republic of"
-Romania 2008,Miscellaneous,15579,2008,Romania
-Russian Federation 2008,Miscellaneous,15478,2008,Russian Federation
-Rwanda 2008,Miscellaneous,15562,2008,Rwanda
-Sao Tome and Principe 2008,Miscellaneous,15561,2008,Sao Tome and Principe
-Senegal 2008,Miscellaneous,15469,2008,Senegal
-Serbia 2008,Miscellaneous,15496,2008,Serbia
-Sierra Leone 2008,Miscellaneous,15544,2008,Sierra Leone
-Somalia 2008,Complex Emergency,15377,2008,Somalia
-South Africa 2008,Miscellaneous,15569,2008,South Africa
-Sri Lanka 2008,Complex Emergency,15426,2008,Sri Lanka
-Sudan 2008,Complex Emergency,15391,2008,Sudan
-Swaziland 2008,Miscellaneous,15555,2008,Swaziland
-Syrian Arab Republic 2008,Miscellaneous,15472,2008,Syrian Arab Republic
-Tajikistan 2008,Miscellaneous,15522,2008,Tajikistan
-Tanzania (United Republic of) 2008,Miscellaneous,15453,2008,"Tanzania, United Republic of"
-Thailand 2008,Miscellaneous,15507,2008,Thailand
-Timor-Leste 2008,Complex Emergency,15425,2008,Timor-Leste
-Togo 2008,Miscellaneous,15548,2008,Togo
-Turkey 2008,Miscellaneous,15568,2008,Turkey
-Turkmenistan 2008,Miscellaneous,15523,2008,Turkmenistan
-Uganda 2008,Complex Emergency,15378,2008,Uganda
-Ukraine 2008,Miscellaneous,15532,2008,Ukraine
-Uzbekistan 2008,Miscellaneous,15524,2008,Uzbekistan
-Venezuela 2008,Miscellaneous,15501,2008,Venezuela
-Viet Nam 2008,Miscellaneous,15490,2008,Viet Nam
-West Africa 2008,Complex Emergency,15375,2008,Region
-Yemen 2008,Miscellaneous,15481,2008,Yemen
-Zambia 2008,Miscellaneous,15537,2008,Zambia
-Zimbabwe 2008,Complex Emergency,15370,2008,Zimbabwe
-Afghanistan 2009,Complex Emergency,15609,2009,Afghanistan
-Albania 2009,Miscellaneous,15683,2009,Albania
-Algeria 2009,Miscellaneous,15671,2009,Algeria
-Angola - Angolans Expelled from the DRC - October 2009,Miscellaneous,15782,2009,Angola
-Angola 2009,Miscellaneous,15650,2009,Angola
-Argentina 2009,Miscellaneous,15691,2009,Argentina
-Armenia 2009,Miscellaneous,15721,2009,Armenia
-Azerbaijan 2009,Miscellaneous,15756,2009,Azerbaijan
-Bangladesh 2009,Miscellaneous,15658,2009,Bangladesh
-Belarus 2009,Miscellaneous,15655,2009,Belarus
-Belize 2009,Miscellaneous,15969,2009,Belize
-Benin 2009,Miscellaneous,15784,2009,Benin
-Bhutan 2009,Miscellaneous,15692,2009,Bhutan
-Bolivia 2009,Miscellaneous,15663,2009,Bolivia
-Bosnia and Herzegovina 2009,Miscellaneous,15636,2009,Bosnia and Herzegovina
-Brazil 2009,Miscellaneous,15693,2009,Brazil
-Burkina Faso 2009,Miscellaneous,15694,2009,Burkina Faso
-Burundi 2009,Miscellaneous,15656,2009,Burundi
-Cambodia 2009,Miscellaneous,15642,2009,Cambodia
-Cameroon 2009,Miscellaneous,15772,2009,Cameroon
-Cape Verde 2009,Miscellaneous,15705,2009,Cape Verde
-Central African Republic 2009,Complex Emergency,15588,2009,Central African Republic
-Chad 2009,Complex Emergency,15594,2009,Chad
-Chile 2009,Miscellaneous,15719,2009,Chile
-China 2009,Miscellaneous,15673,2009,China
-Colombia 2009,Miscellaneous,15638,2009,Colombia
-Comoros 2009,Miscellaneous,15771,2009,Comoros
-Cote d'Ivoire 2009,Complex Emergency,15602,2009,Cote d'Ivoire
-Croatia 2009,Miscellaneous,15676,2009,Croatia
-Cuba 2009,Miscellaneous,15680,2009,Cuba
-Cyprus 2009,Miscellaneous,15783,2009,Cyprus
-Democratic Republic of the Congo 2009,Complex Emergency,15592,2009,"Congo, Democratic Republic of the"
-Djibouti 2009,Miscellaneous,15662,2009,Djibouti
-Dominican Republic 2009,Miscellaneous,15780,2009,Dominican Republic
-Ecuador 2009,Miscellaneous,15652,2009,Ecuador
-Egypt 2009,Miscellaneous,15695,2009,Egypt
-El Salvador 2009,Miscellaneous,15689,2009,El Salvador
-Eritrea 2009,Miscellaneous,15661,2009,Eritrea
-Ethiopia 2009,Miscellaneous,15628,2009,Ethiopia
-Fiji 2009,Miscellaneous,15696,2009,Fiji
-Gambia 2009,Miscellaneous,15722,2009,Gambia
-Georgia 2009,Miscellaneous,15697,2009,Georgia
-Ghana 2009,Miscellaneous,15687,2009,Ghana
-Guatemala 2009,Miscellaneous,15724,2009,Guatemala
-Guinea 2009,Miscellaneous,15715,2009,Guinea
-Guinea-Bissau 2009,Miscellaneous,15710,2009,Guinea-Bissau
-Haiti 2009,Miscellaneous,15624,2009,Haiti
-Honduras 2009,Miscellaneous,15720,2009,Honduras
-India 2009,Miscellaneous,15672,2009,India
-Indonesia 2009,Miscellaneous,15675,2009,Indonesia
-Iran 2009,Miscellaneous,15684,2009,"Iran, Islamic Republic of"
-Iraq 2009 (incl. Iraqi refugees in neighbouring countries) ,Complex Emergency,15590,2009,Iraq
-Israel 2009,Miscellaneous,15770,2009,Israel
-Jamaica 2009,Miscellaneous,15714,2009,Jamaica
-Jordan 2009,Miscellaneous,15674,2009,Jordan
-Kazakhstan 2009,Miscellaneous,15645,2009,Kazakhstan
-Kenya 2009,Complex Emergency,15600,2009,Kenya
-"Korea, DPR 2009",Miscellaneous,15631,2009,"Korea, Democratic People's Republic of"
-Kyrgyzstan 2009,Miscellaneous,15732,2009,Kyrgyzstan
-Lao PDR 2009,Miscellaneous,15723,2009,Lao People's Democratic Republic
-Lebanon 2009,Miscellaneous,15648,2009,Lebanon
-Lesotho 2009,Miscellaneous,15664,2009,Lesotho
-Liberia 2009,Miscellaneous,15649,2009,Liberia
-Macedonia 2009,Miscellaneous,15769,2009,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2009,Miscellaneous,15668,2009,Madagascar
-Malawi 2009,Miscellaneous,15707,2009,Malawi
-Malaysia 2009,Miscellaneous,15666,2009,Malaysia
-Maldives 2009,Miscellaneous,15948,2009,Maldives
-Mali 2009,Miscellaneous,15698,2009,Mali
-Marshall Islands  2009,Miscellaneous,15718,2009,Marshall Islands
-Mauritania 2009,Miscellaneous,15699,2009,Mauritania
-Mexico 2009,Miscellaneous,15735,2009,Mexico
-Miscellaneous 2009 (funding not earmarked by country or emergency),Miscellaneous,15622,2009,none
-Moldova 2009,Miscellaneous,15644,2009,"Moldova, Republic of"
-Montenegro 2009,Miscellaneous,15706,2009,Montenegro
-Morocco 2009,Miscellaneous,15654,2009,Morocco
-Mozambique 2009,Miscellaneous,15670,2009,Mozambique
-Myanmar 2009,Miscellaneous,15660,2009,Myanmar
-Namibia 2009,Miscellaneous,15777,2009,Namibia
-Nepal 2009,Complex Emergency,15591,2009,Nepal
-Nicaragua 2009,Miscellaneous,15704,2009,Nicaragua
-Niger 2009,Miscellaneous,15679,2009,Niger
-Nigeria 2009,Miscellaneous,15708,2009,Nigeria
-occupied Palestinian territory 2009,Complex Emergency,15589,2009,"Palestinian territory, occupied"
-Pakistan 2009,Complex Emergency,15688,2009,Pakistan
-Panama 2009,Miscellaneous,15667,2009,Panama
-Papua New Guinea 2009,Miscellaneous,15700,2009,Papua New Guinea
-Paraguay  2009,Miscellaneous,15701,2009,Paraguay
-Peru 2009,Miscellaneous,15702,2009,Peru
-Philippines 2009,Miscellaneous,15685,2009,Philippines
-Poland 2009,Miscellaneous,15787,2009,Poland
-Republic of Congo 2009,Complex Emergency,15779,2009,"Congo, Republic of"
-Romania 2009,Miscellaneous,15736,2009,Romania
-Russian Federation 2009,Miscellaneous,15623,2009,Russian Federation
-Rwanda 2009,Miscellaneous,15764,2009,Rwanda
-Saint Vincent and the Grenadines 2009,Miscellaneous,15862,2009,Saint Vincent and the Grenadines
-Senegal 2009,Miscellaneous,15712,2009,Senegal
-Serbia 2009,Miscellaneous,15709,2009,Serbia
-Sierra Leone 2009,Miscellaneous,15690,2009,Sierra Leone
-Somalia 2009,Complex Emergency,15596,2009,Somalia
-South Africa 2009,Miscellaneous,15726,2009,South Africa
-Sri Lanka 2009,Complex Emergency,15597,2009,Sri Lanka
-Sudan 2009,Complex Emergency,15587,2009,Sudan
-Suriname 2009,Miscellaneous,15912,2009,Suriname
-Swaziland 2009,Miscellaneous,15738,2009,Swaziland
-Syrian Arab Republic - Drought 2009,Natural Disaster,15768,2009,Syrian Arab Republic
-Syrian Arab Republic 2009,Miscellaneous,15686,2009,Syrian Arab Republic
-Taiwan (Province of China) 2009,Miscellaneous,15877,2009,China
-Tajikistan 2009,Miscellaneous,15598,2009,Tajikistan
-Tanzania (United Republic of) 2009,Miscellaneous,15657,2009,"Tanzania, United Republic of"
-Thailand 2009,Miscellaneous,15651,2009,Thailand
-Timor-Leste 2009,Miscellaneous,15716,2009,Timor-Leste
-Togo 2009,Miscellaneous,15774,2009,Togo
-Tunisia 2009,Miscellaneous,15949,2009,Tunisia
-Turkey 2009,Miscellaneous,15713,2009,Turkey
-Turkmenistan 2009,Miscellaneous,15646,2009,Turkmenistan
-Uganda 2009,Complex Emergency,15586,2009,Uganda
-Ukraine 2009,Miscellaneous,15717,2009,Ukraine
-Uruguay 2009,Miscellaneous,15703,2009,Uruguay
-Uzbekistan 2009,Miscellaneous,15647,2009,Uzbekistan
-Venezuela 2009,Miscellaneous,15653,2009,Venezuela
-Viet Nam 2009,Miscellaneous,15643,2009,Viet Nam
-West Africa 2009,Complex Emergency,15593,2009,Region
-Western Sahara 2009,Miscellaneous,16033,2009,Western Sahara
-Yemen 2009,Complex Emergency,15621,2009,Yemen
-Zambia 2009,Miscellaneous,15669,2009,Zambia
-Zimbabwe 2009,Complex Emergency,15595,2009,Zimbabwe
-Afghanistan 2010,Complex Emergency,15746,2010,Afghanistan
-Albania 2010,Miscellaneous,15791,2010,Albania
-Algeria 2010,Miscellaneous,15851,2010,Algeria
-Angola 2010,Miscellaneous,15857,2010,Angola
-Argentina 2010,Miscellaneous,15968,2010,Argentina
-Armenia 2010,Miscellaneous,15854,2010,Armenia
-Bangladesh 2010,Miscellaneous,15824,2010,Bangladesh
-Belarus 2010,Miscellaneous,15852,2010,Belarus
-Bhutan 2010,Miscellaneous,15872,2010,Bhutan
-Bolivia 2010,Miscellaneous,15834,2010,Bolivia
-Bosnia and Herzegovina 2010,Miscellaneous,15883,2010,Bosnia and Herzegovina
-Brazil 2010,Miscellaneous,15982,2010,Brazil
-Bulgaria 2010,Miscellaneous,15943,2010,Bulgaria
-BURKINA FASO - Floods - August 2010,Natural Disaster,15922,2010,Burkina Faso
-Burkina Faso 2010,Miscellaneous,15814,2010,Burkina Faso
-Burundi 2010,Miscellaneous,15818,2010,Burundi
-Cambodia 2010,Miscellaneous,15803,2010,Cambodia
-Cameroon 2010,Miscellaneous,15884,2010,Cameroon
-Cape Verde 2010,Miscellaneous,15845,2010,Cape Verde
-Central African Republic 2010,Complex Emergency,15739,2010,Central African Republic
-Chad 2010,Complex Emergency,15734,2010,Chad
-Chile 2010,Miscellaneous,15875,2010,Chile
-China 2010,Miscellaneous,15849,2010,China
-Colombia 2010,Miscellaneous,15806,2010,Colombia
-Comoros 2010,Miscellaneous,15925,2010,Comoros
-Cook Islands 2010,Miscellaneous,15917,2010,Cook Islands (New Zealand)
-Costa Rica 2010,Miscellaneous,15864,2010,Costa Rica
-Cote d'Ivoire 2010,Complex Emergency,15848,2010,Cote d'Ivoire
-Croatia 2010,Miscellaneous,15890,2010,Croatia
-Cuba 2010,Miscellaneous,15927,2010,Cuba
-Democratic Republic of the Congo 2010,Complex Emergency,15745,2010,"Congo, Democratic Republic of the"
-Djibouti 2010,Miscellaneous,15839,2010,Djibouti
-Dominican Republic 2010,Miscellaneous,15928,2010,Dominican Republic
-Ecuador 2010,Miscellaneous,15860,2010,Ecuador
-Egypt 2010,Miscellaneous,15915,2010,Egypt
-El Salvador 2010,Miscellaneous,15902,2010,El Salvador
-Eritrea 2010,Miscellaneous,15808,2010,Eritrea
-Ethiopia 2010,Miscellaneous,15799,2010,Ethiopia
-French Polynesia 2010,Miscellaneous,15916,2010,French Polynesia (France)
-Gambia 2010,Miscellaneous,16002,2010,Gambia
-Georgia 2010,Miscellaneous,15879,2010,Georgia
-Ghana 2010,Miscellaneous,15865,2010,Ghana
-Guinea 2010,Miscellaneous,15804,2010,Guinea
-Guinea-Bissau 2010,Miscellaneous,15841,2010,Guinea-Bissau
-Haiti 2010,Miscellaneous,15811,2010,Haiti
-Honduras 2010,Miscellaneous,15798,2010,Honduras
-Hungary 2010,Miscellaneous,15887,2010,Hungary
-India 2010,Miscellaneous,15831,2010,India
-Indonesia 2010,Miscellaneous,15847,2010,Indonesia
-Iran 2010,Miscellaneous,15863,2010,"Iran, Islamic Republic of"
-Iraq 2010,Complex Emergency,15750,2010,Iraq
-Iraqi Refugees in Neighbouring Countries 2010,Complex Emergency,15786,2010,Region
-Jamaica 2010,Miscellaneous,15866,2010,Jamaica
-Jordan 2010,Miscellaneous,15793,2010,Jordan
-Kazakhstan 2010,Miscellaneous,15929,2010,Kazakhstan
-Kenya 2010,Complex Emergency,15747,2010,Kenya
-"Korea, DPR 2010",Miscellaneous,15807,2010,"Korea, Democratic People's Republic of"
-KYRGYZSTAN - Civil unrest- June 2010,Complex Emergency,15893,2010,Kyrgyzstan
-Kyrgyzstan 2010,Miscellaneous,15858,2010,Kyrgyzstan
-Lao PDR 2010,Miscellaneous,15833,2010,Lao People's Democratic Republic
-Lebanon 2010,Miscellaneous,15835,2010,Lebanon
-Lesotho 2010,Miscellaneous,15881,2010,Lesotho
-Liberia 2010,Miscellaneous,15821,2010,Liberia
-Libya 2010,Miscellaneous,15976,2010,Libya
-Macedonia 2010,Miscellaneous,15941,2010,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2010,Miscellaneous,15844,2010,Madagascar
-Malawi 2010,Miscellaneous,15850,2010,Malawi
-Malaysia 2010,Miscellaneous,15840,2010,Malaysia
-Maldives 2010,Miscellaneous,16146,2010,Maldives
-Mali 2010,Miscellaneous,15855,2010,Mali
-Mauritania 2010,Miscellaneous,15801,2010,Mauritania
-Mexico 2010,Miscellaneous,15979,2010,Mexico
-Miscellaneous 2010 (funding not earmarked by country or emergency),Miscellaneous,15778,2010,none
-Moldova 2010,Miscellaneous,15829,2010,"Moldova, Republic of"
-Mongolia 2010,Miscellaneous,15819,2010,Mongolia
-Montenegro 2010,Miscellaneous,15977,2010,Montenegro
-Morocco 2010,Miscellaneous,15827,2010,Morocco
-Mozambique 2010,Miscellaneous,15802,2010,Mozambique
-Myanmar 2010,Miscellaneous,15809,2010,Myanmar
-Namibia 2010,Miscellaneous,15830,2010,Namibia
-Nepal 2010,Complex Emergency,15748,2010,Nepal
-Nicaragua 2010,Miscellaneous,15828,2010,Nicaragua
-Niger 2010,Miscellaneous,15805,2010,Niger
-Nigeria 2010,Miscellaneous,15838,2010,Nigeria
-occupied Palestinian territory 2010,Complex Emergency,15737,2010,"Palestinian territory, occupied"
-Pakistan 2010,Complex Emergency,15751,2010,Pakistan
-Palau 2010,Miscellaneous,15954,2010,Palau
-Panama 2010,Miscellaneous,15870,2010,Panama
-Papua New Guinea 2010,Miscellaneous,15856,2010,Papua New Guinea
-Peru 2010,Miscellaneous,15820,2010,Peru
-Philippines 2010,Miscellaneous,15810,2010,Philippines
-Poland 2010,Miscellaneous,15886,2010,Poland
-Republic of Congo 2010,Complex Emergency,15822,2010,"Congo, Republic of"
-Russian Federation 2010,Miscellaneous,15853,2010,Russian Federation
-Rwanda 2010,Miscellaneous,15842,2010,Rwanda
-Samoa 2010,Miscellaneous,15836,2010,Samoa
-Senegal 2010,Miscellaneous,15823,2010,Senegal
-Serbia 2010,Miscellaneous,15792,2010,Serbia
-Sierra Leone 2010,Miscellaneous,15926,2010,Sierra Leone
-Somalia 2010,Complex Emergency,15741,2010,Somalia
-South Africa 2010,Miscellaneous,16147,2010,South Africa
-Sri Lanka 2010,Complex Emergency,15749,2010,Sri Lanka
-Sudan 2010,Complex Emergency,15742,2010,Sudan
-Swaziland 2010,Miscellaneous,15837,2010,Swaziland
-Syrian Arab Republic 2010,Miscellaneous,15800,2010,Syrian Arab Republic
-Tajikistan 2010,Miscellaneous,15846,2010,Tajikistan
-Tanzania (United Republic of) 2010,Miscellaneous,15813,2010,"Tanzania, United Republic of"
-Thailand 2010,Miscellaneous,15826,2010,Thailand
-Timor-Leste 2010,Miscellaneous,15899,2010,Timor-Leste
-Togo 2010,Miscellaneous,15909,2010,Togo
-Turkey 2010,Miscellaneous,15885,2010,Turkey
-Uganda 2010,Complex Emergency,15740,2010,Uganda
-Ukraine 2010,Miscellaneous,15942,2010,Ukraine
-Uzbekistan 2010,Miscellaneous,15894,2010,Uzbekistan
-Vanuatu 2010,Miscellaneous,15859,2010,Vanuatu
-Venezuela 2010,Miscellaneous,15861,2010,Venezuela
-Viet Nam 2010,Miscellaneous,15815,2010,Viet Nam
-West Africa 2010,Complex Emergency,15744,2010,Region
-Western Sahara 2010,Miscellaneous,16027,2010,Western Sahara
-Yemen 2010,Complex Emergency,15733,2010,Yemen
-Zambia 2010,Miscellaneous,15923,2010,Zambia
-Zimbabwe 2010,Complex Emergency,15743,2010,Zimbabwe
-Afghanistan 2011,Complex Emergency,15931,2011,Afghanistan
-Albania 2011,Miscellaneous,16064,2011,Albania
-Algeria 2011,Miscellaneous,15993,2011,Algeria
-Angola 2011,Miscellaneous,16008,2011,Angola
-Antigua and Barbuda 2011,Miscellaneous,16092,2011,Antigua and Barbuda
-Argentina 2011,Miscellaneous,16073,2011,Argentina
-Armenia 2011,Miscellaneous,16039,2011,Armenia
-Azerbaijan 2011,Miscellaneous,16040,2011,Azerbaijan
-Bangladesh 2011,Miscellaneous,15994,2011,Bangladesh
-Belarus 2011,Miscellaneous,16093,2011,Belarus
-Benin 2011,Miscellaneous,16282,2011,Benin
-Bhutan 2011,Miscellaneous,16079,2011,Bhutan
-Bolivia 2011,Miscellaneous,16074,2011,Bolivia
-Bosnia and Herzegovina 2011,Miscellaneous,16047,2011,Bosnia and Herzegovina
-Brazil 2011,Miscellaneous,16055,2011,Brazil
-Bulgaria 2011,Miscellaneous,16130,2011,Bulgaria
-Burundi 2011,Miscellaneous,15992,2011,Burundi
-Cambodia 2011,Miscellaneous,16028,2011,Cambodia
-Cameroon 2011,Miscellaneous,15995,2011,Cameroon
-Central African Republic 2011,Complex Emergency,15938,2011,Central African Republic
-Chad 2011,Complex Emergency,15934,2011,Chad
-Chile 2011,Miscellaneous,16075,2011,Chile
-China 2011,Miscellaneous,16080,2011,China
-Colombia 2011,Miscellaneous,16015,2011,Colombia
-Cook Islands 2011,Miscellaneous,16144,2011,Cook Islands (New Zealand)
-Croatia 2011,Miscellaneous,16048,2011,Croatia
-Cuba 2011,Miscellaneous,16082,2011,Cuba
-Cyprus 2011,Miscellaneous,16142,2011,Cyprus
-Democratic Republic of the Congo 2011,Complex Emergency,15935,2011,"Congo, Democratic Republic of the"
-Djibouti 2011,Complex Emergency,15974,2011,Djibouti
-Dominica 2011,Miscellaneous,16137,2011,Dominica
-Dominican Republic 2011,Miscellaneous,16089,2011,Dominican Republic
-Ecuador 2011,Miscellaneous,16044,2011,Ecuador
-Egypt 2011,Miscellaneous,16022,2011,Egypt
-El Salvador 2011,Miscellaneous,16088,2011,El Salvador
-Eritrea 2011,Miscellaneous,15991,2011,Eritrea
-Ethiopia 2011,Miscellaneous,15990,2011,Ethiopia
-Fiji 2011,Miscellaneous,16165,2011,Fiji
-Gambia 2011,Miscellaneous,16054,2011,Gambia
-Georgia 2011,Miscellaneous,16041,2011,Georgia
-Ghana 2011,Miscellaneous,16288,2011,Ghana
-Guatemala 2011,Miscellaneous,16061,2011,Guatemala
-Guinea 2011,Miscellaneous,16291,2011,Guinea
-Haiti 2011,Complex Emergency,15939,2011,Haiti
-India 2011,Miscellaneous,16014,2011,India
-Indonesia 2011,Miscellaneous,16019,2011,Indonesia
-Iran 2011,Miscellaneous,15999,2011,"Iran, Islamic Republic of"
-Iraq 2011,Complex Emergency,15963,2011,Iraq
-Iraqi Refugees in Neighbouring Countries 2011,Complex Emergency,15984,2011,Region
-Jamaica 2011,Miscellaneous,16066,2011,Jamaica
-Jordan 2011,Miscellaneous,16023,2011,Jordan
-Kazakhstan 2011,Miscellaneous,16024,2011,Kazakhstan
-Kenya 2011,Complex Emergency,15930,2011,Kenya
-"Korea, DPR 2011",Miscellaneous,15998,2011,"Korea, Democratic People's Republic of"
-Kyrgyzstan 2011,Miscellaneous,16096,2011,Kyrgyzstan
-Lao PDR 2011,Miscellaneous,16036,2011,Lao People's Democratic Republic
-Lebanon 2011,Miscellaneous,16025,2011,Lebanon
-Lesotho 2011,Miscellaneous,16052,2011,Lesotho
-Libya 2011,Miscellaneous,16034,2011,Libya
-Macedonia 2011,Miscellaneous,16094,2011,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2011,Miscellaneous,16000,2011,Madagascar
-Malawi 2011,Miscellaneous,16097,2011,Malawi
-Malaysia 2011,Miscellaneous,16081,2011,Malaysia
-Mali 2011,Miscellaneous,16059,2011,Mali
-Mauritania 2011,Miscellaneous,16017,2011,Mauritania
-Mexico 2011,Miscellaneous,16086,2011,Mexico
-Micronesia 2011,Miscellaneous,16145,2011,"Micronesia, Federated States of"
-Miscellaneous 2011 (funding not earmarked by country or emergency),Miscellaneous,15449,2011,none
-Moldova 2011,Miscellaneous,16049,2011,"Moldova, Republic of"
-Mongolia 2011,Miscellaneous,16084,2011,Mongolia
-Montenegro 2011,Miscellaneous,16051,2011,Montenegro
-Morocco 2011,Miscellaneous,16009,2011,Morocco
-Mozambique 2011,Miscellaneous,15996,2011,Mozambique
-Myanmar 2011,Miscellaneous,16001,2011,Myanmar
-Namibia 2011,Miscellaneous,16085,2011,Namibia
-Nepal 2011,Complex Emergency,15964,2011,Nepal
-Nicaragua 2011,Miscellaneous,16057,2011,Nicaragua
-Niger 2011,Complex Emergency,15937,2011,Niger
-Nigeria 2011,Miscellaneous,16292,2011,Nigeria
-occupied Palestinian territory 2011,Complex Emergency,15965,2011,"Palestinian territory, occupied"
-Pakistan 2011,Miscellaneous,15971,2011,Pakistan
-Palau 2011,Miscellaneous,16132,2011,Palau
-Papua New Guinea 2011,Miscellaneous,16129,2011,Papua New Guinea
-Paraguay 2011,Miscellaneous,16077,2011,Paraguay
-Peru 2011,Miscellaneous,16072,2011,Peru
-Philippines 2011,Miscellaneous,16058,2011,Philippines
-Republic of Congo 2011,Miscellaneous,15988,2011,"Congo, Republic of"
-Republic of South Sudan 2011,Complex Emergency,16062,2011,South Sudan
-Russian Federation 2011,Miscellaneous,16060,2011,Russian Federation
-Rwanda 2011,Miscellaneous,15989,2011,Rwanda
-Saint Lucia 2011,Miscellaneous,16013,2011,Saint Lucia
-Samoa 2011,Miscellaneous,16232,2011,Samoa
-Senegal 2011,Miscellaneous,16293,2011,Senegal
-Serbia 2011,Miscellaneous,16046,2011,Serbia
-Sierra Leone 2011,Miscellaneous,16012,2011,Sierra Leone
-Solomon Islands 2011,Miscellaneous,16123,2011,Solomon Islands
-Somalia 2011,Complex Emergency,15940,2011,Somalia
-South Africa 2011,Miscellaneous,16158,2011,South Africa
-Sri Lanka 2011,Complex Emergency,15936,2011,Sri Lanka
-Sudan 2011,Complex Emergency,15921,2011,Sudan
-Swaziland 2011,Miscellaneous,16091,2011,Swaziland
-Syrian Arab Republic 2011,Miscellaneous,16026,2011,Syrian Arab Republic
-Tajikistan 2011,Miscellaneous,16011,2011,Tajikistan
-Tanzania (United Republic of) 2011,Miscellaneous,16010,2011,"Tanzania, United Republic of"
-Thailand 2011,Miscellaneous,16078,2011,Thailand
-Tunisia 2011,Miscellaneous,16016,2011,Tunisia
-Turkey 2011,Miscellaneous,16083,2011,Turkey
-Turkmenistan 2011,Miscellaneous,16032,2011,Turkmenistan
-Tuvalu 2011,Miscellaneous,16133,2011,Tuvalu
-Uganda 2011,Miscellaneous,15987,2011,Uganda
-Ukraine 2011,Miscellaneous,16042,2011,Ukraine
-Uzbekistan 2011,Miscellaneous,16031,2011,Uzbekistan
-Vanuatu 2011,Miscellaneous,16128,2011,Vanuatu
-Venezuela 2011,Miscellaneous,16076,2011,Venezuela
-Viet Nam 2011,Miscellaneous,16050,2011,Viet Nam
-West Africa 2011,Complex Emergency,15924,2011,Region
-Western Sahara 2011,Miscellaneous,16045,2011,Western Sahara
-Yemen 2011,Complex Emergency,15932,2011,Yemen
-Zimbabwe 2011,Complex Emergency,15933,2011,Zimbabwe
-Afghanistan 2012,Complex Emergency,16098,2012,Afghanistan
-Albania 2012,Miscellaneous,16196,2012,Albania
-Algeria 2012,Miscellaneous,16151,2012,Algeria
-Angola 2012,Miscellaneous,16183,2012,Angola
-Argentina 2012,Miscellaneous,16314,2012,Argentina
-Armenia 2012,Miscellaneous,16218,2012,Armenia
-Azerbaijan 2012,Miscellaneous,16219,2012,Azerbaijan
-Bahamas 2012,Miscellaneous,16249,2012,Bahamas
-Bangladesh 2012,Miscellaneous,16153,2012,Bangladesh
-Belarus 2012,Miscellaneous,16359,2012,Belarus
-Benin 2012,Miscellaneous,16250,2012,Benin
-Bhutan 2012,Miscellaneous,16286,2012,Bhutan
-Bolivia 2012,Miscellaneous,16216,2012,Bolivia
-Bosnia and Herzegovina 2012,Miscellaneous,16198,2012,Bosnia and Herzegovina
-Brazil 2012,Miscellaneous,16235,2012,Brazil
-Bulgaria 2012,Miscellaneous,16251,2012,Bulgaria
-Burkina Faso 2012,Miscellaneous,16188,2012,Burkina Faso
-Burundi 2012,Miscellaneous,16166,2012,Burundi
-Cambodia 2012,Miscellaneous,16176,2012,Cambodia
-Cameroon 2012,Miscellaneous,16169,2012,Cameroon
-Cape Verde 2012,Miscellaneous,16243,2012,Cape Verde
-Central African Republic 2012,Complex Emergency,16100,2012,Central African Republic
-Chad 2012,Complex Emergency,16099,2012,Chad
-Chile 2012,Miscellaneous,16228,2012,Chile
-China 2012,Miscellaneous,16209,2012,China
-Colombia 2012,Miscellaneous,16156,2012,Colombia
-Comoros 2012,Miscellaneous,16258,2012,Comoros
-Cote d'Ivoire 2012,Complex Emergency,16108,2012,Cote d'Ivoire
-Croatia 2012,Miscellaneous,16222,2012,Croatia
-Cuba 2012,Miscellaneous,16253,2012,Cuba
-Democratic Republic of the Congo 2012,Complex Emergency,16109,2012,"Congo, Democratic Republic of the"
-Djibouti 2012,Complex Emergency,16114,2012,Djibouti
-Dominican Republic 2012,Miscellaneous,16281,2012,Dominican Republic
-East Timor 2012,Miscellaneous,16287,2012,Timor-Leste
-Ecuador 2012,Miscellaneous,16194,2012,Ecuador
-Egypt 2012,Miscellaneous,16208,2012,Egypt
-El Salvador 2012,Miscellaneous,16241,2012,El Salvador
-Equatorial Guinea 2012,Miscellaneous,16349,2012,Equatorial Guinea
-Eritrea 2012,Miscellaneous,16160,2012,Eritrea
-Ethiopia 2012,Miscellaneous,16148,2012,Ethiopia
-Gabon 2012,Miscellaneous,16312,2012,Gabon
-Gambia 2012,Miscellaneous,16224,2012,Gambia
-Georgia 2012,Miscellaneous,16220,2012,Georgia
-Ghana 2012,Miscellaneous,16211,2012,Ghana
-Guatemala 2012,Miscellaneous,16244,2012,Guatemala
-Guinea 2012,Miscellaneous,16201,2012,Guinea
-Guinea-Bissau 2012,Miscellaneous,16207,2012,Guinea-Bissau
-Haiti 2012,Complex Emergency,16113,2012,Haiti
-Honduras 2012,Miscellaneous,16240,2012,Honduras
-India 2012,Miscellaneous,16154,2012,India
-Indonesia 2012,Miscellaneous,16170,2012,Indonesia
-Iran 2012,Miscellaneous,16195,2012,"Iran, Islamic Republic of"
-Iraq 2012,Miscellaneous,16150,2012,Iraq
-Iraqi Refugees in Neighbouring Countries 2012,Complex Emergency,16181,2012,Region
-Jordan 2012,Miscellaneous,16177,2012,Jordan
-Kazakhstan 2012,Miscellaneous,16230,2012,Kazakhstan
-Kenya 2012,Complex Emergency,16101,2012,Kenya
-"Korea, DPR 2012",Miscellaneous,16162,2012,"Korea, Democratic People's Republic of"
-Kyrgyzstan 2012,Miscellaneous,16221,2012,Kyrgyzstan
-Lao PDR 2012,Miscellaneous,16167,2012,Lao People's Democratic Republic
-Lebanon 2012,Miscellaneous,16149,2012,Lebanon
-Liberia 2012,Complex Emergency,16112,2012,Liberia
-Libya 2012,Miscellaneous,16163,2012,Libya
-Macedonia 2012,Miscellaneous,16215,2012,"Macedonia, The former Yugoslav Republic of"
-Madagascar 2012,Miscellaneous,16191,2012,Madagascar
-Malawi 2012,Miscellaneous,16193,2012,Malawi
-Malaysia 2012,Miscellaneous,16246,2012,Malaysia
-Maldives 2012,Miscellaneous,16333,2012,Maldives
-Mali 2012,Miscellaneous,16164,2012,Mali
-Mauritania 2012,Miscellaneous,16168,2012,Mauritania
-Mauritius 2012,Miscellaneous,16315,2012,Mauritius
-Micronesia 2012,Miscellaneous,16297,2012,"Micronesia, Federated States of"
-Miscellaneous 2012 (funding not earmarked by country or emergency),Miscellaneous,15450,2012,none
-Moldova 2012,Miscellaneous,16213,2012,"Moldova, Republic of"
-Mongolia 2012,Miscellaneous,16226,2012,Mongolia
-Montenegro 2012,Miscellaneous,16202,2012,Montenegro
-Morocco 2012,Miscellaneous,16184,2012,Morocco
-Mozambique 2012,Miscellaneous,16239,2012,Mozambique
-Myanmar 2012,Miscellaneous,16157,2012,Myanmar
-Namibia 2012,Miscellaneous,16259,2012,Namibia
-Nepal 2012,Miscellaneous,16155,2012,Nepal
-Nicaragua 2012,Miscellaneous,16242,2012,Nicaragua
-Niger 2012,Complex Emergency,16107,2012,Niger
-Nigeria 2012,Miscellaneous,16238,2012,Nigeria
-occupied Palestinian territory 2012,Complex Emergency,16102,2012,"Palestinian territory, occupied"
-Oman 2012,Miscellaneous,16313,2012,Oman
-Pakistan 2012,Miscellaneous,16152,2012,Pakistan
-Pakistan Post-Floods Early Recovery 2012,Natural Disaster,16185,2012,Pakistan
-Palau 2012,Miscellaneous,16252,2012,Palau
-Panama 2012,Miscellaneous,16254,2012,Panama
-Papua New Guinea 2012,Miscellaneous,16210,2012,Papua New Guinea
-Paraguay 2012,Miscellaneous,16229,2012,Paraguay
-Peru 2012,Miscellaneous,16206,2012,Peru
-Philippines 2012,Miscellaneous,16110,2012,Philippines
-Republic of Congo 2012,Miscellaneous,16159,2012,"Congo, Republic of"
-Republic of South Sudan 2012,Complex Emergency,16104,2012,South Sudan
-Romania 2012,Miscellaneous,16214,2012,Romania
-Russian Federation 2012,Miscellaneous,16247,2012,Russian Federation
-Rwanda 2012,Miscellaneous,16192,2012,Rwanda
-SAHEL - Food Insecurity 2012,Natural Disaster,16187,2012,Region
-Senegal 2012,Miscellaneous,16223,2012,Senegal
-Serbia 2012,Miscellaneous,16197,2012,Serbia
-Sierra Leone 2012,Miscellaneous,16189,2012,Sierra Leone
-Solomon Islands 2012,Miscellaneous,16294,2012,Solomon Islands
-Somalia 2012,Complex Emergency,16103,2012,Somalia
-South Africa 2012,Miscellaneous,16245,2012,South Africa
-Sri Lanka 2012,Complex Emergency,16136,2012,Sri Lanka
-Sudan 2012,Complex Emergency,16105,2012,Sudan
-Syrian Arab Republic - Civil Unrest 2012,Complex Emergency,16205,2012,Syrian Arab Republic
-Tajikistan 2012,Miscellaneous,16179,2012,Tajikistan
-Tanzania (United Republic of) 2012,Miscellaneous,16171,2012,"Tanzania, United Republic of"
-Thailand 2012,Miscellaneous,16180,2012,Thailand
-Togo 2012,Miscellaneous,16261,2012,Togo
-Tunisia 2012,Miscellaneous,16217,2012,Tunisia
-Turkey 2012,Miscellaneous,16233,2012,Turkey
-Turkmenistan 2012,Miscellaneous,16231,2012,Turkmenistan
-Uganda 2012,Miscellaneous,16173,2012,Uganda
-Ukraine 2012,Miscellaneous,16182,2012,Ukraine
-Uzbekistan 2012,Miscellaneous,16248,2012,Uzbekistan
-Vanuatu 2012,Miscellaneous,16295,2012,Vanuatu
-Venezuela 2012,Miscellaneous,16237,2012,Venezuela
-Viet Nam 2012,Miscellaneous,16212,2012,Viet Nam
-Yemen 2012,Complex Emergency,16106,2012,Yemen
-Zambia 2012,Miscellaneous,16310,2012,Zambia
-Zimbabwe 2012,Complex Emergency,16111,2012,Zimbabwe
-Afghanistan 2013,Complex Emergency,16271,2013,Afghanistan
-Algeria 2013,Miscellaneous,16304,2013,Algeria
-Angola 2013,Miscellaneous,16334,2013,Angola
-Antigua and Barbuda 2013,Miscellaneous,16398,2013,Antigua and Barbuda
-Argentina 2013,Miscellaneous,16375,2013,Argentina
-Armenia 2013,Miscellaneous,16342,2013,Armenia
-Azerbaijan 2013,Miscellaneous,16400,2013,Azerbaijan
-Bangladesh 2013,Miscellaneous,16308,2013,Bangladesh
-Belarus 2013,Miscellaneous,16357,2013,Belarus
-Benin 2013,Miscellaneous,16367,2013,Benin
-Bhutan 2013,Miscellaneous,16348,2013,Bhutan
-Bolivia 2013,Miscellaneous,16371,2013,Bolivia
-Bosnia and Herzegovina 2013,Miscellaneous,16360,2013,Bosnia and Herzegovina
-Brazil 2013,Miscellaneous,16401,2013,Brazil
-Burkina Faso 2013,Complex Emergency,16265,2013,Burkina Faso
-Burundi 2013,Miscellaneous,16301,2013,Burundi
-Cambodia 2013,Miscellaneous,16327,2013,Cambodia
-Cameroon 2013,Miscellaneous,16365,2013,Cameroon
-Central African Republic 2013,Complex Emergency,16268,2013,Central African Republic
-Chad 2013,Complex Emergency,16266,2013,Chad
-Chile 2013,Miscellaneous,16381,2013,Chile
-China 2013,Miscellaneous,16404,2013,China
-Colombia 2013,Miscellaneous,16319,2013,Colombia
-Cook Islands (New Zealand) 2013,Miscellaneous,16395,2013,Cook Islands (New Zealand)
-Costa Rica 2013,Miscellaneous,16410,2013,Costa Rica
-Cote d'Ivoire 2013,Miscellaneous,16323,2013,Cote d'Ivoire
-Cuba 2013,Miscellaneous,16382,2013,Cuba
-Cyprus 2012,Miscellaneous,16358,2013,Cyprus
-Democratic Republic of the Congo 2013,Complex Emergency,16280,2013,"Congo, Democratic Republic of the"
-Djibouti 2013,Complex Emergency,16274,2013,Djibouti
-Dominica 2013,Miscellaneous,16397,2013,Dominica
-Dominican Republic 2013,Miscellaneous,16369,2013,Dominican Republic
-East Timor 2013,Miscellaneous,16392,2013,Timor-Leste
-Ecuador 2013,Miscellaneous,16374,2013,Ecuador
-Egypt 2013,Miscellaneous,16344,2013,Egypt
-El Salvador 2013,Miscellaneous,16455,2013,El Salvador
-Eritrea 2013,Miscellaneous,16306,2013,Eritrea
-Ethiopia 2013,Miscellaneous,16302,2013,Ethiopia
-Fiji 2013,Miscellaneous,16370,2013,Fiji
-Gambia 2013,Miscellaneous,16399,2013,Gambia
-Georgia 2013,Miscellaneous,16402,2013,Georgia
-Ghana 2013,Miscellaneous,16352,2013,Ghana
-Guatemala 2013,Miscellaneous,16393,2013,Guatemala
-Guinea 2013,Miscellaneous,16353,2013,Guinea
-Guinea-Bissau 2013,Miscellaneous,16380,2013,Guinea-Bissau
-Haiti 2013,Complex Emergency,16299,2013,Haiti
-Honduras 2013,Miscellaneous,16379,2013,Honduras
-India 2013,Miscellaneous,16324,2013,India
-Indonesia 2013,Miscellaneous,16321,2013,Indonesia
-Iran 2013,Miscellaneous,16338,2013,"Iran, Islamic Republic of"
-Iraq 2013,Miscellaneous,16272,2013,Iraq
-Jamaica 2013,Miscellaneous,16373,2013,Jamaica
-Jordan 2013,Miscellaneous,16390,2013,Jordan
-Kazakhstan 2013,Miscellaneous,16330,2013,Kazakhstan
-Kenya 2013,Complex Emergency,16263,2013,Kenya
-"Korea, DPR 2013",Complex Emergency,16305,2013,"Korea, Democratic People's Republic of"
-"Korea, Republic of 2013",Miscellaneous,16405,2013,"Korea, Republic of"
-Kyrgyzstan 2013,Miscellaneous,16325,2013,Kyrgyzstan
-Lao PDR 2013,Miscellaneous,16351,2013,Lao People's Democratic Republic
-Lebanon 2013,Miscellaneous,16339,2013,Lebanon
-Lesotho 2013,Miscellaneous,16388,2013,Lesotho
-Liberia 2013,Complex Emergency,16285,2013,Liberia
-Libya 2013,Miscellaneous,16336,2013,Libya
-Madagascar 2013,Miscellaneous,16350,2013,Madagascar
-Malawi 2013,Miscellaneous,16316,2013,Malawi
-Mali 2013,Complex Emergency,16276,2013,Mali
-Marshall Islands 2013,Miscellaneous,16394,2013,Marshall Islands
-Mauritania 2013,Miscellaneous,16264,2013,Mauritania
-Mexico 2013,Miscellaneous,16409,2013,Mexico
-Miscellaneous 2013 (funding not earmarked by country or emergency),Miscellaneous,15451,2013,none
-Moldova 2013,Miscellaneous,16454,2013,"Moldova, Republic of"
-Mongolia 2013,Miscellaneous,16406,2013,Mongolia
-Montenegro 2013,Miscellaneous,16346,2013,Montenegro
-Morocco 2013,Miscellaneous,16343,2013,Morocco
-Mozambique 2013,Miscellaneous,16326,2013,Mozambique
-Myanmar 2013,Miscellaneous,16320,2013,Myanmar
-Namibia 2013,Miscellaneous,16368,2013,Namibia
-Nepal 2013,Miscellaneous,16309,2013,Nepal
-Nicaragua 2013,Miscellaneous,16383,2013,Nicaragua
-Niger 2013,Complex Emergency,16278,2013,Niger
-Nigeria 2013,Miscellaneous,16322,2013,Nigeria
-occupied Palestinian territory 2013,Complex Emergency,16262,2013,"Palestinian territory, occupied"
-Pakistan 2013,Complex Emergency,16317,2013,Pakistan
-Papua New Guinea 2013,Miscellaneous,16389,2013,Papua New Guinea
-Paraguay 2013,Miscellaneous,16376,2013,Paraguay
-Peru 2013,Miscellaneous,16347,2013,Peru
-Philippines 2013,Miscellaneous,16277,2013,Philippines
-Republic of Congo 2013,Miscellaneous,16361,2013,"Congo, Republic of"
-Republic of South Sudan 2013,Complex Emergency,16279,2013,South Sudan
-Rwanda 2013,Miscellaneous,16356,2013,Rwanda
-SAHEL- Food insecurity 2013,Natural Disaster,16408,2013,Region
-Saint Vincent and the Grenadines 2013,Miscellaneous,16391,2013,Saint Vincent and the Grenadines
-Samoa 2013,Miscellaneous,16372,2013,Samoa
-Senegal 2013,Miscellaneous,16366,2013,Senegal
-Serbia 2013,Miscellaneous,16384,2013,Serbia
-Seychelles 2013,Miscellaneous,16335,2013,Seychelles
-Sierra Leone 2013,Miscellaneous,16331,2013,Sierra Leone
-Solomon Islands 2013,Miscellaneous,16341,2013,Solomon Islands
-Somalia 2013,Complex Emergency,16269,2013,Somalia
-South Africa 2013,Miscellaneous,16417,2013,South Africa
-Sri Lanka 2013,Miscellaneous,16270,2013,Sri Lanka
-Sudan 2013,Complex Emergency,16267,2013,Sudan
-Swaziland 2013,Miscellaneous,16411,2013,Swaziland
-Syrian Arab Republic - Civil Unrest 2013,Complex Emergency,16303,2013,Syrian Arab Republic
-Tajikistan 2013,Miscellaneous,16396,2013,Tajikistan
-Tanzania (United Republic of) 2013,Miscellaneous,16354,2013,"Tanzania, United Republic of"
-Thailand 2013,Miscellaneous,16340,2013,Thailand
-Togo 2013,Miscellaneous,16318,2013,Togo
-Tunisia 2013,Miscellaneous,16345,2013,Tunisia
-Turkey 2013,Miscellaneous,16378,2013,Turkey
-Uganda 2013,Miscellaneous,16307,2013,Uganda
-Ukraine 2013,Miscellaneous,16386,2013,Ukraine
-Uzbekistan 2013,Miscellaneous,16403,2013,Uzbekistan
-Vanuatu 2013,Miscellaneous,16387,2013,Vanuatu
-Venezuela 2013,Miscellaneous,16377,2013,Venezuela
-Viet Nam 2013,Miscellaneous,16337,2013,Viet Nam
-Yemen 2013,Complex Emergency,16273,2013,Yemen
-Zambia 2013,Miscellaneous,16355,2013,Zambia
-Zimbabwe 2013,Complex Emergency,16275,2013,Zimbabwe
-Afghanistan 2014,Complex Emergency,16422,2014,Afghanistan
-Algeria 2014,Miscellaneous,16441,2014,Algeria
-Bangladesh 2014,Miscellaneous,16442,2014,Bangladesh
-Bolivia 2014,Miscellaneous,16489,2014,Bolivia
-Burkina Faso 2014,Complex Emergency,16423,2014,Burkina Faso
-Burundi 2014,Miscellaneous,16478,2014,Burundi
-Cambodia 2014,Miscellaneous,16486,2014,Cambodia
-Cameroon 2014,Miscellaneous,16443,2014,Cameroon
-Central African Republic 2014,Complex Emergency,16437,2014,Central African Republic
-Chad 2014,Complex Emergency,16424,2014,Chad
-Colombia 2014,Miscellaneous,16444,2014,Colombia
-Cote d'Ivoire 2014,Miscellaneous,16445,2014,Cote d'Ivoire
-Democratic Republic of the Congo 2014,Complex Emergency,16425,2014,"Congo, Democratic Republic of the"
-Djibouti 2014,Complex Emergency,16426,2014,Djibouti
-Ebola Virus Outbreak - WEST AFRICA - April 2014,Natural Disaster,16506,2014,Region
-Ecuador 2014,Miscellaneous,16490,2014,Ecuador
-Egypt 2014,Miscellaneous,16484,2014,Egypt
-Eritrea 2014,Miscellaneous,16476,2014,Eritrea
-Ethiopia 2014,Miscellaneous,16453,2014,Ethiopia
-Gambia 2014,Miscellaneous,16456,2014,Gambia
-Guatemala 2014,Miscellaneous,16513,2014,Guatemala
-Guinea 2014,Miscellaneous,16485,2014,Guinea
-Haiti 2014,Complex Emergency,16427,2014,Haiti
-Honduras 2014,Natural Disaster,16549,2014,Honduras
-India 2014,Miscellaneous,16446,2014,India
-Indonesia 2014,Miscellaneous,16473,2014,Indonesia
-Iran 2014,Miscellaneous,16470,2014,"Iran, Islamic Republic of"
-Iraq 2014,Miscellaneous,16447,2014,Iraq
-Jordan 2014,Miscellaneous,16515,2014,Jordan
-Kenya 2014,Complex Emergency,16428,2014,Kenya
-"Korea, DPR 2014",Miscellaneous,16482,2014,"Korea, Democratic People's Republic of"
-Lebanon 2014,Miscellaneous,16510,2014,Lebanon
-Liberia 2014,Miscellaneous,16479,2014,Liberia
-Libya 2014,Miscellaneous,16488,2014,Libya
-Madagascar 2014,Miscellaneous,16481,2014,Madagascar
-Mali 2014,Complex Emergency,16429,2014,Mali
-Mauritania 2014,Complex Emergency,16430,2014,Mauritania
-Miscellaneous 2014,Miscellaneous,16421,2014,none
-Myanmar 2014,Miscellaneous,16448,2014,Myanmar
-Nepal 2014,Miscellaneous,16449,2014,Nepal
-Niger 2014,Complex Emergency,16431,2014,Niger
-Nigeria 2014,Miscellaneous,16450,2014,Nigeria
-occupied Palestinian territory 2014,Complex Emergency,16432,2014,"Palestinian territory, occupied"
-Pakistan 2014,Miscellaneous,16452,2014,Pakistan
-Papua New Guinea 2014,Miscellaneous,16451,2014,Papua New Guinea
-Philippines 2014,Complex Emergency,16433,2014,Philippines
-PHILIPPINES: Typhoon Hagupit - December 2014,Natural Disaster,16541,2014,Philippines
-Republic of Congo 2014,Miscellaneous,16492,2014,"Congo, Republic of"
-Republic of South Sudan 2014,Complex Emergency,16419,2014,South Sudan
-Rwanda 2014,Miscellaneous,16483,2014,Rwanda
-Sahel 2014,Complex Emergency,16474,2014,Region
-Senegal 2014,Miscellaneous,16457,2014,Senegal
-Sierra Leone 2014,Miscellaneous,16480,2014,Sierra Leone
-Somalia 2014,Complex Emergency,16434,2014,Somalia
-South Sudan Refugee Crisis 2014,Complex Emergency,16507,2014,Region
-Sri Lanka 2014,Miscellaneous,16477,2014,Sri Lanka
-Sudan 2014,Complex Emergency,16435,2014,Sudan
-Syrian Arab Republic - Civil Unrest 2014,Complex Emergency,16440,2014,Syrian Arab Republic
-Thailand 2014,Complex Emergency,16487,2014,Thailand
-Uganda 2014,Miscellaneous,16469,2014,Uganda
-Ukraine-Civil Unrest-2014,Complex Emergency,16514,2014,Ukraine
-Venezuela 2014,Miscellaneous,16491,2014,Venezuela
-Yemen 2014,Complex Emergency,16436,2014,Yemen
-Zambia 2014,Miscellaneous,16475,2014,Zambia
-Zimbabwe 2014,Complex Emergency,16438,2014,Zimbabwe
-Afghanistan 2015,Complex Emergency,16525,2015,Afghanistan
-Algeria 2015,Miscellaneous,16553,2015,Algeria
-Bangladesh 2015,Miscellaneous,16578,2015,Bangladesh
-Bolivia 2015,Miscellaneous,16571,2015,Bolivia
-Burkina Faso 2015,Complex Emergency,16529,2015,Burkina Faso
-Burundi 2015,Miscellaneous,16557,2015,Burundi
-Cameroon 2015,Complex Emergency,16530,2015,Cameroon
-Central African Republic 2015,Complex Emergency,16526,2015,Central African Republic
-Chad 2015,Complex Emergency,16531,2015,Chad
-Chile 2015,Miscellaneous,16587,2015,Chile
-Colombia 2015,Miscellaneous,16555,2015,Colombia
-Democratic Republic of the Congo 2015,Complex Emergency,16522,2015,"Congo, Democratic Republic of the"
-Djibouti 2015,Complex Emergency,16556,2015,Djibouti
-Ebola - WEST AFRICA - July 2015,Complex Emergency,16602,2015,Region
-El Salvador 2015,Natural Disaster,16623,2015,El Salvador
-Eritrea 2015,Miscellaneous,16579,2015,Eritrea
-Ethiopia 2015,Miscellaneous,16471,2015,Ethiopia
-Gambia 2015,Complex Emergency,16532,2015,Gambia
-Guinea 2015,Miscellaneous,16550,2015,Guinea
-Haiti 2015,Complex Emergency,16554,2015,Haiti
-Honduras 2015,Natural Disaster,16543,2015,Honduras
-India 2015,Miscellaneous,16560,2015,India
-Iraq 2015,Complex Emergency,16548,2015,Iraq
-Kenya 2015,Miscellaneous,16547,2015,Kenya
-"Korea, DPR 2015",Miscellaneous,16558,2015,"Korea, Democratic People's Republic of"
-Lebanon 2015,Miscellaneous,16563,2015,Lebanon
-Liberia 2015,Miscellaneous,16562,2015,Liberia
-Libya 2015,Miscellaneous,16544,2015,Libya
-Madagascar 2015,Miscellaneous,16566,2015,Madagascar
-Malawi 2015,Natural Disaster,16627,2015,Malawi
-Mali 2015,Complex Emergency,16533,2015,Mali
-Mauritania 2015,Complex Emergency,16534,2015,Mauritania
-Miscellaneous 2015,Miscellaneous,16527,2015,none
-Mozambique Floods 2015,Natural Disaster,16552,2015,Mozambique
-Myanmar 2015,Miscellaneous,16516,2015,Myanmar
-Nepal 2015,Miscellaneous,16564,2015,Nepal
-Niger 2015,Complex Emergency,16535,2015,Niger
-Nigeria 2015,Complex Emergency,16536,2015,Nigeria
-occupied Palestinian territory 2015,Complex Emergency,16523,2015,"Palestinian territory, occupied"
-Pakistan 2015,Complex Emergency,16540,2015,Pakistan
-Peru 2015,Miscellaneous,16626,2015,Peru
-Philippines 2015,Miscellaneous,16568,2015,Philippines
-Republic of Congo 2015,Miscellaneous,16574,2015,"Congo, Republic of"
-Republic of South Sudan 2015,Complex Emergency,16521,2015,South Sudan
-Rwanda 2015,Miscellaneous,16628,2015,Rwanda
-Sahel 2015,Complex Emergency,16538,2015,Region
-Senegal 2015,Complex Emergency,16537,2015,Senegal
-Somalia 2015,Complex Emergency,16518,2015,Somalia
-"South Sudan refugee crisis 2015 (Kenya, Uganda, Ethiopia)",Complex Emergency,16546,2015,Region
-Sri Lanka 2015,Miscellaneous,16561,2015,Sri Lanka
-Sudan 2015,Complex Emergency,16524,2015,Sudan
-Syrian Arab Republic - Civil Unrest 2015,Complex Emergency,16520,2015,Syrian Arab Republic
-Tanzania (United Republic of) 2015,Miscellaneous,16588,2015,"Tanzania, United Republic of"
-Thailand 2015,Miscellaneous,16559,2015,Thailand
-Uganda 2015,Miscellaneous,16573,2015,Uganda
-Ukraine 2015,Complex Emergency,16528,2015,Ukraine
-Venezuela 2015,Miscellaneous,16572,2015,Venezuela
-Yemen 2015,Complex Emergency,16519,2015,Yemen
-Zimbabwe 2015,Miscellaneous,16565,2015,Zimbabwe
-Afghanistan 2016,Complex Emergency,16612,2016,Afghanistan
-Angola 2016,Complex Emergency,16635,2016,Angola
-Bangladesh 2016,Miscellaneous,17478,2016,Bangladesh
-Burkina Faso 2016,Complex Emergency,16586,2016,Burkina Faso
-Burundi 2016,Complex Emergency,16638,2016,Burundi
-Cameroon 2016,Complex Emergency,16590,2016,Cameroon
-Central African Republic 2016,Complex Emergency,16613,2016,Central African Republic
-Chad 2016,Complex Emergency,16591,2016,Chad
-Colombia 2016,Complex Emergency,16599,2016,Colombia
-Cote d'Ivoire 2016,Miscellaneous,17486,2016,Cote d'Ivoire
-Democratic Republic of the Congo 2016,Complex Emergency,16611,2016,"Congo, Democratic Republic of the"
-Djibouti 2016,Complex Emergency,16603,2016,Djibouti
-Eritrea 2016,Miscellaneous,17480,2016,Eritrea
-Ethiopia 2016,Miscellaneous,16472,2016,Ethiopia
-Gambia 2016,Complex Emergency,16592,2016,Gambia
-Guatemala 2016,Natural Disaster,16609,2016,Guatemala
-Guinea 2016,Miscellaneous,17474,2016,Guinea
-Haiti 2016,Complex Emergency,16605,2016,Haiti
-Honduras 2016,Natural Disaster,16610,2016,Honduras
-Iraq 2016,Complex Emergency,16600,2016,Iraq
-Kenya 2016,Miscellaneous,16641,2016,Kenya
-"Korea, DPR 2016",Miscellaneous,16636,2016,"Korea, Democratic People's Republic of"
-Lao PDR 2016,Miscellaneous,16637,2016,Lao People's Democratic Republic
-Lebanon 2016,Miscellaneous,16614,2016,Lebanon
-Lesotho 2016,Miscellaneous,16645,2016,Lesotho
-Libya 2016,Complex Emergency,16583,2016,Libya
-Madagascar 2016,Miscellaneous,17469,2016,Madagascar
-Malawi 2016,Miscellaneous,17477,2016,Malawi
-Mali 2016,Complex Emergency,16593,2016,Mali
-Mauritania 2016,Complex Emergency,16594,2016,Mauritania
-Miscellaneous 2016,Miscellaneous,16576,2016,none
-Mongolia 2016,Miscellaneous,16640,2016,Mongolia
-Mozambique 2016,Miscellaneous,16648,2016,Mozambique
-Myanmar 2016,Miscellaneous,16624,2016,Myanmar
-Nepal 2016,Miscellaneous,16632,2016,Nepal
-Niger 2016,Complex Emergency,16595,2016,Niger
-Nigeria 2016,Complex Emergency,16596,2016,Nigeria
-occupied Palestinian territory 2016,Complex Emergency,16604,2016,"Palestinian territory, occupied"
-Pakistan 2016,Complex Emergency,16174,2016,Pakistan
-Papua New Guinea 2016,Miscellaneous,16649,2016,Papua New Guinea
-Republic of South Sudan 2016,Complex Emergency,16601,2016,South Sudan
-Rwanda 2016,Miscellaneous,17479,2016,Rwanda
-Sahel 2016,Complex Emergency,16597,2016,Region
-Senegal 2016,Complex Emergency,16598,2016,Senegal
-Somalia 2016,Complex Emergency,16539,2016,Somalia
-"South Sudan refugee crisis 2016 (Kenya, Uganda, Ethiopia)",Complex Emergency,16630,2016,Region
-Sri Lanka 2016,Miscellaneous,17476,2016,Sri Lanka
-Sudan 2016,Complex Emergency,16629,2016,Sudan
-Swaziland 2016,Miscellaneous,16647,2016,Swaziland
-Syrian Arab Republic - Civil Unrest 2016,Complex Emergency,16589,2016,Syrian Arab Republic
-Tanzania (United Republic of) 2016,Miscellaneous,16639,2016,"Tanzania, United Republic of"
-Timor-Leste 2016,Miscellaneous,17481,2016,Timor-Leste
-Uganda 2016,Miscellaneous,16631,2016,Uganda
-Ukraine 2016,Complex Emergency,16606,2016,Ukraine
-Viet Nam 2016,Miscellaneous,17475,2016,Viet Nam
-Yemen 2016,Complex Emergency,16585,2016,Yemen
-Zimbabwe 2016,Complex Emergency,16642,2016,Zimbabwe
+Africa 2005,Miscellaneous,14864,2005,Region
+Albania 2005,Miscellaneous,14856,2005,Albania
+Algeria 2005,Miscellaneous,14848,2005,Algeria
+Angola 2005,Miscellaneous,14811,2005,Angola
+Antigua and Barbuda 2005,Miscellaneous,15098,2005,Antigua and Barbuda
+Armenia 2005,Miscellaneous,14823,2005,Armenia
+Azerbaijan 2005,Miscellaneous,14904,2005,Azerbaijan
+Bahamas 2005,Miscellaneous,15241,2005,Bahamas
+Balkan 2005,Miscellaneous,14921,2005,Region
+Bangladesh 2005,Miscellaneous,14845,2005,Bangladesh
+Belarus 2005,Miscellaneous,14824,2005,Belarus
+Benin 2005,Complex Emergency,14891,2005,Benin
+Bolivia 2005,Miscellaneous,14878,2005,Bolivia
+Bosnia and Herzegovina 2005,Miscellaneous,14841,2005,Bosnia and Herzegovina
+Brazil 2005,Miscellaneous,14826,2005,Brazil
+Bulgaria 2005,Miscellaneous,14868,2005,Bulgaria
+Burundi 2005,Complex Emergency,14768,2005,Burundi
+Cambodia 2005,Miscellaneous,14837,2005,Cambodia
+Cameroon 2005,Miscellaneous,14865,2005,Cameroon
+Caribbean 2005,Miscellaneous,14952,2005,Region
+Caribbean Sub-Regional 2005,Miscellaneous,15008,2005,Region
+Central America 2005,Miscellaneous,14964,2005,Region
+Central America Regional 2005,Miscellaneous,15000,2005,Region
+Central Asia 2005,Miscellaneous,14816,2005,Region
+Chad 2005,Complex Emergency,14766,2005,Chad
+Chile 2005,Miscellaneous,14866,2005,Chile
+China 2005,Miscellaneous,14892,2005,China
+Cote d'Ivoire 2005,Complex Emergency,14758,2005,Cote d'Ivoire
+Croatia 2005,Miscellaneous,14852,2005,Croatia
+Cuba 2005,Miscellaneous,14867,2005,Cuba
+Democratic Republic of the Congo 2005,Complex Emergency,14759,2005,"Congo, Democratic Republic of the"
+Dominican Republic 2005,Miscellaneous,14851,2005,Dominican Republic
+East Africa Regional 2005,Miscellaneous,15084,2005,Region
+East Africa Sub-Regional 2005,Miscellaneous,14916,2005,Region
+East Asia Regional 2005,Miscellaneous,14919,2005,Region
+Ecuador 2005,Miscellaneous,14858,2005,Ecuador
+Egypt 2005,Miscellaneous,15045,2005,Egypt
+El Salvador 2005,Miscellaneous,14935,2005,El Salvador
+Ethiopia 2005,Miscellaneous,14815,2005,Ethiopia
+Georgia 2005,Miscellaneous,14822,2005,Georgia
+Grenada 2005,Miscellaneous,14947,2005,Grenada
+Honduras 2005,Miscellaneous,14879,2005,Honduras
+Horn of Africa 2005,Miscellaneous,14897,2005,Region
+Hungary 2005,Miscellaneous,14873,2005,Hungary
+India 2005,Miscellaneous,14880,2005,India
+Indonesia 2005,Miscellaneous,14928,2005,Indonesia
+Iran 2005,Miscellaneous,14882,2005,"Iran, Islamic Republic of"
+Israel 2005,Miscellaneous,14874,2005,Israel
+Italy 2005,Miscellaneous,15046,2005,Italy
+Jamaica 2005,Miscellaneous,14945,2005,Jamaica
+Jordan 2005,Miscellaneous,14827,2005,Jordan
+Kazakhstan 2005,Miscellaneous,15054,2005,Kazakhstan
+Kenya 2005,Miscellaneous,14804,2005,Kenya
+"Korea, DPR 2005",Miscellaneous,14840,2005,"Korea, Democratic People's Republic of"
+Kyrgyzstan 2005,Miscellaneous,14875,2005,Kyrgyzstan
+Lao PDR 2005,Miscellaneous,14807,2005,Lao People's Democratic Republic
+Latin America 2005,Miscellaneous,14871,2005,Region
+Lebanon 2005,Miscellaneous,14902,2005,Lebanon
+Lesotho 2005,Miscellaneous,14901,2005,Lesotho
+Libya 2005,Miscellaneous,14982,2005,Libya
+Madagascar 2005,Miscellaneous,14853,2005,Madagascar
+Malawi 2005 ,Complex Emergency,14895,2005,Malawi
+Mauritania 2005,Miscellaneous,14924,2005,Mauritania
+Mauritius 2005,Miscellaneous,15071,2005,Mauritius
+Middle East 2005,Miscellaneous,14910,2005,Region
+Miscellaneous 2005 (funding not earmarked by country or emergency),Miscellaneous,14817,2005,none
+Moldova 2005,Miscellaneous,14838,2005,"Moldova, Republic of"
+Mongolia 2005,Miscellaneous,14912,2005,Mongolia
+Morocco 2005,Miscellaneous,14844,2005,Morocco
+Mozambique 2005,Miscellaneous,14896,2005,Mozambique
+Myanmar 2005,Miscellaneous,14788,2005,Myanmar
+Namibia 2005,Miscellaneous,14936,2005,Namibia
+Nicaragua 2005,Miscellaneous,14850,2005,Nicaragua
+Nigeria 2005,Miscellaneous,14915,2005,Nigeria
+OCHA 2005,Miscellaneous,14791,2005,none
+Pacific Regional 2005,Miscellaneous,14918,2005,Region
+Pakistan 2005,Miscellaneous,14839,2005,Pakistan
+Panama 2005,Miscellaneous,15072,2005,Panama
+Papua New Guinea 2005,Miscellaneous,14934,2005,Papua New Guinea
+Peru 2005,Miscellaneous,14849,2005,Peru
+Philippines 2005,Miscellaneous,14946,2005,Philippines
+Portugal 2005,Miscellaneous,14986,2005,Portugal
+Republic of Congo 2005 ,Complex Emergency,14771,2005,"Congo, Republic of"
+Romania 2005,Miscellaneous,14869,2005,Romania
+Sahel 2005,Miscellaneous,14933,2005,Region
+Sao Tome and Principe 2005,Miscellaneous,15086,2005,Sao Tome and Principe
+Senegal 2005,Miscellaneous,14959,2005,Senegal
+Serbia and Montenegro 2005,Miscellaneous,14828,2005,Serbia and Montenegro (until 2006-9)
+South Africa 2005,Miscellaneous,14939,2005,South Africa
+South America 2005,Miscellaneous,14872,2005,Region
+South America Regional 2005,Miscellaneous,15007,2005,Region
+South Asia Regional 2005,Miscellaneous,14913,2005,Region
+South Caucasus 2005,Miscellaneous,14876,2005,Region
+South East Asia Regional 2005,Miscellaneous,14917,2005,Region
+Southern Africa Region 2005,Miscellaneous,14855,2005,Region
+Sri Lanka 2005,Miscellaneous,14900,2005,Sri Lanka
+Sudan 2005,Complex Emergency,14738,2005,Sudan
+Swaziland 2005,Miscellaneous,14899,2005,Swaziland
+Sweden 2005,Miscellaneous,14981,2005,Sweden
+Syrian Arab Republic 2005,Miscellaneous,14995,2005,Syrian Arab Republic
+Taiwan (Province of China) 2005,Miscellaneous,14920,2005,China
+Tajikistan 2005,Miscellaneous,14893,2005,Tajikistan
+Thailand 2005,Miscellaneous,14847,2005,Thailand
+Tunisia 2005,Miscellaneous,14923,2005,Tunisia
+Turkey 2005,Miscellaneous,14825,2005,Turkey
+Turkmenistan 2005,Miscellaneous,15055,2005,Turkmenistan
+Uganda 2005,Complex Emergency,14763,2005,Uganda
+Ukraine 2005,Miscellaneous,14870,2005,Ukraine
+Uzbekistan 2005,Miscellaneous,15176,2005,Uzbekistan
+Venezuela 2005,Miscellaneous,14948,2005,Venezuela
+Viet Nam 2005,Miscellaneous,14812,2005,Viet Nam
+Yemen 2005,Miscellaneous,14884,2005,Yemen
+Zambia 2005,Miscellaneous,14806,2005,Zambia
+Zimbabwe 2005 ,Complex Emergency,14843,2005,Zimbabwe
+Africa 2004,Miscellaneous,14676,2004,Region
+Albania 2004,Miscellaneous,14717,2004,Albania
+Algeria 2004,Miscellaneous,14636,2004,Algeria
+Argentina 2004,Miscellaneous,14802,2004,Argentina
+Armenia 2004,Miscellaneous,14705,2004,Armenia
+Asia 2004,Miscellaneous,14691,2004,Region
+Azerbaijan 2004,Miscellaneous,14655,2004,Azerbaijan
+Bangladesh 2004,Miscellaneous,14643,2004,Bangladesh
+Belarus 2004,Miscellaneous,14669,2004,Belarus
+Benin 2004,Miscellaneous,14710,2004,Benin
+Bosnia and Herzegovina 2004,Miscellaneous,14654,2004,Bosnia and Herzegovina
+Brazil 2004,Miscellaneous,14622,2004,Brazil
+Burundi 2004,Complex Emergency,14579,2004,Burundi
+Cambodia 2004,Miscellaneous,14678,2004,Cambodia
+Cameroon 2004,Miscellaneous,14708,2004,Cameroon
+Cape Verde 2004,Miscellaneous,14778,2004,Cape Verde
+Caribbean Sub-Regional 2004,Miscellaneous,14715,2004,Region
+Central Africa Sub-Regional 2004,Miscellaneous,14720,2004,Region
+Central America 2004,Miscellaneous,14750,2004,Region
+Central America Regional 2004,Miscellaneous,14789,2004,Region
+Central Asia 2004,Miscellaneous,14741,2004,Region
+Chile 2004,Miscellaneous,14729,2004,Chile
+China 2004,Miscellaneous,14702,2004,China
+Cote d'Ivoire + 3 2004,Complex Emergency,14584,2004,Cote d'Ivoire
+Croatia 2004,Miscellaneous,14668,2004,Croatia
+Cuba 2004,Miscellaneous,14680,2004,Cuba
+Democratic Republic of the Congo 2004,Complex Emergency,14581,2004,"Congo, Democratic Republic of the"
+Djibouti 2004,Miscellaneous,14689,2004,Djibouti
+East Africa Sub-Regional 2004,Miscellaneous,14666,2004,Region
+East Asia Regional Programmes 2004,Miscellaneous,14748,2004,Region
+East Europe 2004,Miscellaneous,14813,2004,Region
+East Timor 2004,Miscellaneous,14706,2004,Timor-Leste
+Ecuador 2004,Miscellaneous,14700,2004,Ecuador
+El Salvador 2004,Miscellaneous,14734,2004,El Salvador
+Ethiopia 2004,Miscellaneous,14663,2004,Ethiopia
+Europe & CIS 2004,Miscellaneous,14664,2004,Region
+Europe 2004,Miscellaneous,14623,2004,Region
+Fiji 2004,Miscellaneous,14701,2004,Fiji
+Gabon 2004,Miscellaneous,14714,2004,Gabon
+Gambia 2004,Miscellaneous,14682,2004,Gambia
+Georgia 2004,Miscellaneous,14618,2004,Georgia
+Guatemala 2004,Miscellaneous,15169,2004,Guatemala
+Honduras 2004,Miscellaneous,14661,2004,Honduras
+Horn of Africa 2004,Miscellaneous,14671,2004,Region
+India 2004,Miscellaneous,14681,2004,India
+Israel 2004,Miscellaneous,15606,2004,Israel
+Jordan 2004,Miscellaneous,14730,2004,Jordan
+Kazakhstan 2004,Miscellaneous,14656,2004,Kazakhstan
+Kenya 2004,Miscellaneous,14660,2004,Kenya
+Kyrgyzstan 2004,Miscellaneous,14698,2004,Kyrgyzstan
+Lao PDR 2004,Miscellaneous,14644,2004,Lao People's Democratic Republic
+Latin America 2004,Miscellaneous,14686,2004,Region
+Lebanon 2004,Miscellaneous,14633,2004,Lebanon
+Macedonia 2004,Miscellaneous,14679,2004,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2004,Miscellaneous,14926,2004,Madagascar
+Malaysia 2004,Miscellaneous,14810,2004,Malaysia
+Mauritania 2004,Miscellaneous,14675,2004,Mauritania
+Middle East 2004,Miscellaneous,14677,2004,Region
+Miscellaneous 2004 (funding not earmarked by country or emergency),Miscellaneous,14799,2004,none
+Moldova 2004,Miscellaneous,14659,2004,"Moldova, Republic of"
+Mongolia 2004,Miscellaneous,14638,2004,Mongolia
+Morocco 2004,Miscellaneous,15023,2004,Morocco
+Myanmar 2004,Miscellaneous,14672,2004,Myanmar
+Namibia 2004,Miscellaneous,14721,2004,Namibia
+Nepal 2004,Miscellaneous,14651,2004,Nepal
+Nicaragua 2004,Miscellaneous,14649,2004,Nicaragua
+Niger 2004,Miscellaneous,14722,2004,Niger
+Nigeria Sub-Regional 2004,Miscellaneous,14712,2004,Nigeria
+OCHA 2004,Miscellaneous,14645,2004,none
+Pacific Regional 2004,Miscellaneous,14716,2004,Region
+Pakistan 2004,Miscellaneous,14696,2004,Pakistan
+Panama 2004,Miscellaneous,14747,2004,Panama
+Papua New Guinea 2004,Miscellaneous,14713,2004,Papua New Guinea
+Paraguay 2004,Miscellaneous,14731,2004,Paraguay
+Peru 2004,Miscellaneous,14637,2004,Peru
+Philippines 2004,Miscellaneous,14704,2004,Philippines
+Republic of Congo 2004,Miscellaneous,15167,2004,"Congo, Republic of"
+Romania 2004,Miscellaneous,14632,2004,Romania
+Senegal 2004,Miscellaneous,14693,2004,Senegal
+Serbia and Montenegro 2004,Miscellaneous,14658,2004,Serbia and Montenegro (until 2006-9)
+Slovakia 2004,Miscellaneous,14639,2004,Slovakia
+South Africa 2004,Miscellaneous,14719,2004,South Africa
+South America Regional 2004,Miscellaneous,14835,2004,Region
+South Asia Regional 2004,Miscellaneous,14709,2004,Region
+South Caucasus 2004,Miscellaneous,14774,2004,Region
+South East Asia Regional 2004,Miscellaneous,14707,2004,Region
+Sri Lanka 2004,Miscellaneous,14619,2004,Sri Lanka
+Sudan 2004,Complex Emergency,14578,2004,Sudan
+Swaziland 2004,Miscellaneous,15174,2004,Swaziland
+Syrian Arab Republic 2004,Miscellaneous,14751,2004,Syrian Arab Republic
+Thailand 2004,Miscellaneous,14648,2004,Thailand
+Tunisia 2004,Miscellaneous,14626,2004,Tunisia
+Turkey 2004,Miscellaneous,14662,2004,Turkey
+Uganda 2004,Complex Emergency,14574,2004,Uganda
+Ukraine 2004,Miscellaneous,14692,2004,Ukraine
+Uruguay 2004,Miscellaneous,14756,2004,Uruguay
+Uzbekistan 2004,Miscellaneous,14697,2004,Uzbekistan
+Viet Nam 2004,Miscellaneous,14642,2004,Viet Nam
+Yemen 2004,Miscellaneous,14624,2004,Yemen
+Zimbabwe 2004,Complex Emergency,14773,2004,Zimbabwe
+Africa 2003,Miscellaneous,14489,2003,Region
+Albania 2003,Miscellaneous,14480,2003,Albania
+Algeria 2003,Miscellaneous,14490,2003,Algeria
+Argentina 2003,Miscellaneous,14558,2003,Argentina
+Armenia 2003,Miscellaneous,14546,2003,Armenia
+Aruba 2003,Miscellaneous,14859,2003,Aruba
+Asia / Pacific 2003,Miscellaneous,14476,2003,Region
+Asia 2003,Miscellaneous,14630,2003,Region
+Australia 2003,Miscellaneous,14444,2003,Australia
+Austria 2003,Miscellaneous,14448,2003,Austria
+Azerbaijan 2003,Miscellaneous,14548,2003,Azerbaijan
+Bangladesh 2003,Miscellaneous,14468,2003,Bangladesh
+Belarus 2003,Miscellaneous,14449,2003,Belarus
+Benin 2003,Miscellaneous,14604,2003,Benin
+Bolivia 2003,Miscellaneous,14593,2003,Bolivia
+Bosnia and Herzegovina 2003,Miscellaneous,14469,2003,Bosnia and Herzegovina
+Botswana 2003,Miscellaneous,14565,2003,Botswana
+Brazil 2003,Miscellaneous,14471,2003,Brazil
+Bulgaria 2003,Miscellaneous,14492,2003,Bulgaria
+Burundi 2003,Complex Emergency,14372,2003,Burundi
+Cambodia 2003,Miscellaneous,14529,2003,Cambodia
+Cameroon 2003,Miscellaneous,14611,2003,Cameroon
+Caribbean 2003,Miscellaneous,14860,2003,Region
+Caribbean Sub-Regional 2003,Miscellaneous,14550,2003,Region
+Central Africa Sub-Regional 2003,Miscellaneous,14544,2003,Region
+Central America 2003,Miscellaneous,14610,2003,Region
+Central America Regional 2003,Miscellaneous,14541,2003,Region
+Chad 2003,Miscellaneous,14567,2003,Chad
+Chile 2003,Miscellaneous,14491,2003,Chile
+China 2003,Miscellaneous,14439,2003,China
+Costa Rica 2003 ,Miscellaneous,14777,2003,Costa Rica
+Cote d'Ivoire + 5 2003,Complex Emergency,14496,2003,Cote d'Ivoire
+Cote d'Ivoire and the West Africa Sub-Region 2002-2003 Flash Appeal,Complex Emergency,14400,2003,Cote d'Ivoire
+Croatia 2003,Miscellaneous,14606,2003,Croatia
+Cuba 2003,Miscellaneous,14447,2003,Cuba
+Czech Republic 2003,Miscellaneous,14479,2003,Czech Republic
+Democratic Republic of the Congo 2003,Complex Emergency,14384,2003,"Congo, Democratic Republic of the"
+Djibouti 2003,Miscellaneous,14518,2003,Djibouti
+Dominican Republic 2003,Miscellaneous,14616,2003,Dominican Republic
+East Africa Regional 2003,Miscellaneous,14543,2003,Region
+East Asia and Pacific 2003,Miscellaneous,14475,2003,Region
+East Timor 2003,Miscellaneous,14516,2003,Timor-Leste
+Ecuador 2003,Miscellaneous,14505,2003,Ecuador
+Egypt 2003,Miscellaneous,14553,2003,Egypt
+El Salvador 2003,Miscellaneous,14531,2003,El Salvador
+Ethiopia 2003,Miscellaneous,14461,2003,Ethiopia
+Europe & CIS 2003,Miscellaneous,14454,2003,Region
+Gambia 2003,Miscellaneous,14549,2003,Gambia
+Geneva International Centre for Humanitarian Demining 2003,Miscellaneous,14495,2003,none
+Georgia 2003,Miscellaneous,14450,2003,Georgia
+Germany 2003,Miscellaneous,14499,2003,Germany
+Guatemala 2003,Miscellaneous,14752,2003,Guatemala
+Honduras 2003,Miscellaneous,14628,2003,Honduras
+Horn of Africa 2003,Miscellaneous,14634,2003,Region
+Humanitarian Crisis in Southern Africa - LESOTHO (July 2003 - June 2004),Complex Emergency,14534,2003,Lesotho
+Humanitarian Crisis in Southern Africa - MALAWI (July 2003 - June 2004),Complex Emergency,14535,2003,Malawi
+Humanitarian Crisis in Southern Africa - MOZAMBIQUE (July 2003 - June 2004),Complex Emergency,14537,2003,Mozambique
+Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004),Complex Emergency,14539,2003,Region
+Humanitarian Crisis in Southern Africa - ZAMBIA (July 2003 - June 2004),Complex Emergency,14538,2003,Zambia
+Humanitarian Crisis in Southern Africa - ZIMBABWE (July December 2003) ,Complex Emergency,14545,2003,Zimbabwe
+Hungary 2003,Miscellaneous,14547,2003,Hungary
+India 2003,Miscellaneous,14533,2003,India
+International  Campaign to Ban Landmines 2003,Miscellaneous,14525,2003,none
+"International  Peace Research Institute, Oslo 2003",Miscellaneous,14526,2003,none
+Iran 2003,Miscellaneous,14517,2003,"Iran, Islamic Republic of"
+Ireland 2003,Miscellaneous,14613,2003,Ireland
+Jamaica 2003,Miscellaneous,14627,2003,Jamaica
+Jordan 2003,Miscellaneous,14464,2003,Jordan
+Kazakhstan 2003,Miscellaneous,14435,2003,Kazakhstan
+Kenya 2003,Miscellaneous,14486,2003,Kenya
+Kuwait 2003,Miscellaneous,14569,2003,Kuwait
+Kyrgyzstan 2003,Miscellaneous,14615,2003,Kyrgyzstan
+Lao PDR 2003,Miscellaneous,14528,2003,Lao People's Democratic Republic
+Latin America 2003,Miscellaneous,14555,2003,Region
+Lebanon 2003,Miscellaneous,14485,2003,Lebanon
+Macedonia 2003,Miscellaneous,14498,2003,"Macedonia, The former Yugoslav Republic of"
+Madagascar 2003,Miscellaneous,14515,2003,Madagascar
+Mali 2003,Miscellaneous,14452,2003,Mali
+Mauritania 2003,Miscellaneous,14460,2003,Mauritania
+Mauritius 2003,Miscellaneous,14601,2003,Mauritius
+Middle East 2003,Miscellaneous,14441,2003,Region
+Miscellaneous 2003 (funding not earmarked by country or emergency),Miscellaneous,14797,2003,none
+Moldova 2003,Miscellaneous,14493,2003,"Moldova, Republic of"
+Mongolia 2003,Miscellaneous,14472,2003,Mongolia
+Myanmar 2003,Miscellaneous,14466,2003,Myanmar
+Namibia 2003,Miscellaneous,14564,2003,Namibia
+Nepal 2003,Miscellaneous,14456,2003,Nepal
+Nicaragua 2003,Miscellaneous,14481,2003,Nicaragua
+Nigeria 2003,Miscellaneous,14482,2003,Nigeria
+OCHA 2003,Miscellaneous,14418,2003,none
+Pakistan 2003,Miscellaneous,14437,2003,Pakistan
+Panama 2003,Miscellaneous,14556,2003,Panama
+Papua New Guinea 2003,Miscellaneous,14560,2003,Papua New Guinea
+Peru 2003,Miscellaneous,14592,2003,Peru
+Philippines 2003,Miscellaneous,14530,2003,Philippines
+Republic of Congo 2003,Miscellaneous,14387,2003,"Congo, Republic of"
+Romania 2003,Miscellaneous,14434,2003,Romania
+Russian Federation 2003,Miscellaneous,14455,2003,Russian Federation
+Senegal 2003,Miscellaneous,14514,2003,Senegal
+Serbia and Montenegro 2003,Miscellaneous,14470,2003,Serbia and Montenegro (until 2006-9)
+Slovakia 2003,Miscellaneous,14494,2003,Slovakia
+South Africa 2003,Miscellaneous,14595,2003,South Africa
+South America Regional 2003,Miscellaneous,14596,2003,Region
+South Asia 2003,Miscellaneous,14598,2003,Region
+South Asia Regional 2003,Miscellaneous,14542,2003,Region
+South Caucasus 2003,Miscellaneous,14635,2003,Region
+South East Asia Regional 2003,Miscellaneous,14563,2003,Region
+Southeastern Europe 2003,Miscellaneous,14524,2003,Region
+Sri Lanka 2003,Miscellaneous,14474,2003,Sri Lanka
+Sudan 2003,Complex Emergency,14382,2003,Sudan
+Syrian Arab Republic 2003,Miscellaneous,14451,2003,Syrian Arab Republic
+Taiwan (Province of China) 2003,Miscellaneous,14438,2003,China
+Thailand 2003,Miscellaneous,14497,2003,Thailand
+Turkey 2003,Miscellaneous,14446,2003,Turkey
+Uganda 2003,Complex Emergency,14369,2003,Uganda
+Ukraine 2003,Miscellaneous,14473,2003,Ukraine
+Uruguay 2003,Miscellaneous,14612,2003,Uruguay
+Uzbekistan 2003,Miscellaneous,14605,2003,Uzbekistan
+Venezuela 2003,Miscellaneous,14629,2003,Venezuela
+Viet Nam 2003,Miscellaneous,14483,2003,Viet Nam
+West Sahel Region 2003,Miscellaneous,14506,2003,Region
+Yemen 2003,Miscellaneous,14540,2003,Yemen
+Africa 2002,Miscellaneous,14232,2002,Region
+Algeria 2002,Miscellaneous,14223,2002,Algeria
+Argentina 2002,Miscellaneous,14284,2002,Argentina
+Armenia 2002,Miscellaneous,14208,2002,Armenia
+Asia / Americas 2002,Miscellaneous,14253,2002,Region
+Asia / Pacific 2002,Miscellaneous,14403,2002,Region
+Asia 2002,Miscellaneous,14241,2002,Region
+Australia 2002,Miscellaneous,14426,2002,Australia
+Austria 2002,Miscellaneous,14379,2002,Austria
+Azerbaijan 2002,Miscellaneous,14205,2002,Azerbaijan
+Baltic States 2002,Miscellaneous,14252,2002,Region
+Bangladesh 2002,Miscellaneous,14247,2002,Bangladesh
+Belarus 2002,Miscellaneous,14266,2002,Belarus
+Bolivia 2002,Miscellaneous,14234,2002,Bolivia
+Brazil 2002,Miscellaneous,14202,2002,Brazil
+Bulgaria 2002,Miscellaneous,14248,2002,Bulgaria
+Burkina Faso 2002,Miscellaneous,14237,2002,Burkina Faso
+Burundi 2002,Complex Emergency,14171,2002,Burundi
+Cambodia 2002,Miscellaneous,14217,2002,Cambodia
+Cameroon 2002,Miscellaneous,14323,2002,Cameroon
+Cape Verde 2002,Miscellaneous,14404,2002,Cape Verde
+Central America 2002,Miscellaneous,14354,2002,Region
+Central and South America 2002,Miscellaneous,14242,2002,Region
+Chad 2002,Miscellaneous,14238,2002,Chad
+Chile 2002,Miscellaneous,14233,2002,Chile
+China 2002,Miscellaneous,14427,2002,China
+Costa Rica 2002,Miscellaneous,14348,2002,Costa Rica
+Cuba 2002,Miscellaneous,14269,2002,Cuba
+Czech Republic 2002,Miscellaneous,14413,2002,Czech Republic
+Democratic Republic of the Congo 2002,Complex Emergency,14172,2002,"Congo, Democratic Republic of the"
+Djibouti 2002,Miscellaneous,14428,2002,Djibouti
+East Europe 2002,Miscellaneous,14292,2002,Region
+East Timor 2002,Miscellaneous,14246,2002,Timor-Leste
+Ecuador 2002,Miscellaneous,14325,2002,Ecuador
+El Salvador 2002,Miscellaneous,14327,2002,El Salvador
+Ethiopia 2002,Miscellaneous,14216,2002,Ethiopia
+Europe & CIS 2002,Miscellaneous,14254,2002,Region
+Gabon 2002,Miscellaneous,14214,2002,Gabon
+Georgia 2002,Miscellaneous,14203,2002,Georgia
+Germany 2002,Miscellaneous,14364,2002,Germany
+Ghana 2002,Miscellaneous,14240,2002,Ghana
+Guam 2002,Miscellaneous,14414,2002,Guam (United States)
+Guatemala 2002,Miscellaneous,14349,2002,Guatemala
+Honduras 2002,Miscellaneous,14331,2002,Honduras
+Horn of Africa 2002,Miscellaneous,14286,2002,Region
+Humanitarian Crisis in Southern Africa 2002 - LESOTHO,Complex Emergency,14295,2002,Lesotho
+Humanitarian Crisis in Southern Africa 2002 - MALAWI,Complex Emergency,14288,2002,Malawi
+Humanitarian Crisis in Southern Africa 2002 - REGION,Complex Emergency,14330,2002,Region
+Humanitarian Crisis in Southern Africa 2002 - ZAMBIA,Complex Emergency,14297,2002,Zambia
+Humanitarian Crisis in Southern Africa 2002 - ZIMBABWE,Complex Emergency,14296,2002,Zimbabwe
+ICRC 2002,Miscellaneous,14340,2002,none
+India 2002,Miscellaneous,14279,2002,India
+Iran 2002,Miscellaneous,14341,2002,"Iran, Islamic Republic of"
+Israel 2002,Miscellaneous,14344,2002,Israel
+Joint Appeal - Solutions for East Timorese Refugees,Miscellaneous,14250,2002,Indonesia
+Joint Strategy - Returned IDPs in Sri Lanka 2002,Complex Emergency,14345,2002,Sri Lanka
+Jordan 2002,Miscellaneous,14268,2002,Jordan
+Kuwait 2002,Miscellaneous,14398,2002,Kuwait
+Kyrgyzstan 2002,Miscellaneous,14423,2002,Kyrgyzstan
+Lao PDR 2002,Miscellaneous,14334,2002,Lao People's Democratic Republic
+Latin America 2002,Miscellaneous,14258,2002,Region
+Lebanon 2002,Miscellaneous,14260,2002,Lebanon
+Madagascar 2002,Miscellaneous,14235,2002,Madagascar
+Malawi 2002,Miscellaneous,14218,2002,Malawi
+Mali 2002,Miscellaneous,14335,2002,Mali
+Mauritania 2002,Miscellaneous,14225,2002,Mauritania
+Mauritius 2002,Miscellaneous,14293,2002,Mauritius
+Mexico 2002,Miscellaneous,14350,2002,Mexico
+Middle East  2002,Miscellaneous,14231,2002,Region
+Miscellaneous 2002 (funding not earmarked by country or emergency),Miscellaneous,14798,2002,none
+Moldova 2002,Miscellaneous,14207,2002,"Moldova, Republic of"
+Mongolia 2002,Miscellaneous,14267,2002,Mongolia
+Mozambique 2002,Miscellaneous,14191,2002,Mozambique
+Myanmar 2002,Miscellaneous,14193,2002,Myanmar
+Namibia 2002,Miscellaneous,14287,2002,Namibia
+Nepal 2002,Miscellaneous,14326,2002,Nepal
+Nicaragua 2002,Miscellaneous,14264,2002,Nicaragua
+Niger 2002,Miscellaneous,14227,2002,Niger
+Nigeria 2002,Miscellaneous,14197,2002,Nigeria
+OCHA 2002,Miscellaneous,14215,2002,none
+Pakistan 2002,Miscellaneous,14229,2002,Pakistan
+Palestine 2002,Miscellaneous,14244,2002,"Palestinian territory, occupied"
+Papua New Guinea 2002,Miscellaneous,14462,2002,Papua New Guinea
+Peru 2002,Miscellaneous,14196,2002,Peru
+Philippines 2002,Miscellaneous,14424,2002,Philippines
+Republic of Congo 2002,Miscellaneous,14183,2002,"Congo, Republic of"
+Romania 2002,Miscellaneous,14239,2002,Romania
+Russian Federation 2002,Miscellaneous,14407,2002,Russian Federation
+Senegal 2002,Miscellaneous,14322,2002,Senegal
+Singapore 2002,Miscellaneous,14397,2002,Singapore
+Solomon Islands 2002,Miscellaneous,14417,2002,Solomon Islands
+Southeastern Europe 2002,Complex Emergency,14176,2002,Region
+Sri Lanka 2002,Miscellaneous,14206,2002,Sri Lanka
+Sudan 2002,Complex Emergency,14150,2002,Sudan
+Tanzania (United Republic of) 2002,Miscellaneous,14285,2002,"Tanzania, United Republic of"
+Thailand 2002,Miscellaneous,14222,2002,Thailand
+Tunisia 2002,Miscellaneous,14399,2002,Tunisia
+Turkey 2002,Miscellaneous,14274,2002,Turkey
+Uganda 2002,Complex Emergency,14155,2002,Uganda
+Uzbekistan 2002,Miscellaneous,14336,2002,Uzbekistan
+Venezuela 2002,Miscellaneous,14429,2002,Venezuela
+Viet Nam 2002,Miscellaneous,14277,2002,Viet Nam
+West Bank and Gaza 2002,Miscellaneous,14219,2002,"Palestinian territory, occupied"
+West Bank and Gaza and Lebanon 2002,Miscellaneous,14272,2002,Region
+WFP 2002,Miscellaneous,14298,2002,none
+Yemen 2002,Miscellaneous,14365,2002,Yemen
+Zambia 2002,Miscellaneous,14283,2002,Zambia
+Zimbabwe 2002,Miscellaneous,14209,2002,Zimbabwe
+Africa 2001,Miscellaneous,13634,2001,Region
+Algeria 2001,Complex Emergency,14063,2001,Algeria
+Armenia 2001,Miscellaneous,13628,2001,Armenia
+Australia 2001,Miscellaneous,14188,2001,Australia
+Azerbaijan 2001,Complex Emergency,14061,2001,Azerbaijan
+Baltic States 2001,Miscellaneous,14089,2001,Region
+Bangladesh 2001,Miscellaneous,14146,2001,Bangladesh
+Belarus 2001,Miscellaneous,13633,2001,Belarus
+Benin 2001,Complex Emergency,14065,2001,Benin
+Bielorussia 2001,Miscellaneous,14133,2001,Belarus
+Bolivia 2001,Miscellaneous,13619,2001,Bolivia
+Brazil 2001,Complex Emergency,14084,2001,Brazil
+Bulgaria 2001,Complex Emergency,13572,2001,Bulgaria
+Burkina Faso 2001,Miscellaneous,13611,2001,Burkina Faso
+Burundi 2001,Complex Emergency,13555,2001,Burundi
+Cambodia 2001,Miscellaneous,13608,2001,Cambodia
+Cameroon 2001,Complex Emergency,14066,2001,Cameroon
+Caucasus (Northern) 2001,Complex Emergency,13554,2001,Russian Federation
+Central America 2001,Miscellaneous,14098,2001,Region
+Chad 2001,Miscellaneous,14067,2001,Chad
+Chile 2001,Complex Emergency,14085,2001,Chile
+CHINA - Snowstorm - June 2001,Natural Disaster,14181,2001,China
+China 2001,Miscellaneous,14126,2001,China
+CIS 2001,Miscellaneous,14139,2001,Region
+Cote d'Ivoire 2001,Miscellaneous,14108,2001,Cote d'Ivoire
+Democratic Republic of the Congo 2001,Complex Emergency,13560,2001,"Congo, Democratic Republic of the"
+East Timor 2001,Miscellaneous,14111,2001,Timor-Leste
+Ecuador 2001,Miscellaneous,14200,2001,Ecuador
+Egypt 2001,Miscellaneous,14355,2001,Egypt
+El Salvador 2001,Miscellaneous,14149,2001,El Salvador
+Ethiopia 2001,Complex Emergency,13579,2001,Ethiopia
+Europe 2001,Miscellaneous,13635,2001,Region
+Georgia 2001,Complex Emergency,14058,2001,Georgia
+Ghana 2001,Miscellaneous,13626,2001,Ghana
+Guatemala 2001,Miscellaneous,14104,2001,Guatemala
+Horn of Africa 2001,Complex Emergency,13561,2001,Region
+Hungary Floods 2001,Natural Disaster,13605,2001,Hungary
+ICRC 2001,Miscellaneous,14102,2001,none
+India 2001,Miscellaneous,14352,2001,India
+IOM 2001,Miscellaneous,14096,2001,none
+Iran 2001,Complex Emergency,14064,2001,"Iran, Islamic Republic of"
+Israel 2001,Miscellaneous,14092,2001,Israel
+Jordan 2001,Complex Emergency,14073,2001,Jordan
+Kazakhstan 2001,Miscellaneous,14134,2001,Kazakhstan
+Kuwait 2001,Miscellaneous,14107,2001,Kuwait
+Lao PDR 2001,Miscellaneous,14131,2001,Lao People's Democratic Republic
+Latin America 2001,Miscellaneous,14097,2001,Region
+Lebanon 2001,Miscellaneous,14105,2001,Lebanon
+Madagascar 2001,Complex Emergency,14076,2001,Madagascar
+Malawi 2001,Miscellaneous,14187,2001,Malawi
+Mali 2001,Complex Emergency,14077,2001,Mali
+Mauritania 2001,Complex Emergency,14078,2001,Mauritania
+Middle East  2001,Miscellaneous,13625,2001,Region
+Miscellaneous 2001 (funding not earmarked by country or emergency),Miscellaneous,14795,2001,none
+Moldova 2001,Complex Emergency,14068,2001,"Moldova, Republic of"
+Mongolia 2001,Miscellaneous,14145,2001,Mongolia
+Morocco 2001,Complex Emergency,14079,2001,Morocco
+Mozambique 2001,Miscellaneous,13601,2001,Mozambique
+Myanmar 2001,Complex Emergency,14086,2001,Myanmar
+Namibia 2001,Complex Emergency,14087,2001,Namibia
+Nicaragua 2001,Miscellaneous,13620,2001,Nicaragua
+Niger 2001,Miscellaneous,14114,2001,Niger
+Nigeria 2001,Miscellaneous,14143,2001,Nigeria
+OCHA 2001,Miscellaneous,13607,2001,none
+Pakistan 2001,Miscellaneous,13609,2001,Pakistan
+Palestine 2001,Miscellaneous,13602,2001,"Palestinian territory, occupied"
+Philippines 2001,Complex Emergency,14164,2001,Philippines
+Republic of Congo 2001,Complex Emergency,13562,2001,"Congo, Republic of"
+Romania 2001,Miscellaneous,14351,2001,Romania
+Russian Federation 2001,Miscellaneous,14100,2001,Russian Federation
+Senegal 2001,Complex Emergency,14080,2001,Senegal
+South Africa 2001,Miscellaneous,14144,2001,South Africa
+South Caucasus 2001,Miscellaneous,14110,2001,Region
+Southeastern Europe 2001,Complex Emergency,13568,2001,Region
+Sudan 2001,Complex Emergency,13566,2001,Sudan
+Sweden 2001,Miscellaneous,14140,2001,Sweden
+Syrian Arab Republic 2001,Miscellaneous,14356,2001,Syrian Arab Republic
+Thailand 2001,Complex Emergency,13617,2001,Thailand
+Togo 2001,Complex Emergency,14074,2001,Togo
+Tunisia 2001,Miscellaneous,14106,2001,Tunisia
+Turkey 2001,Miscellaneous,14161,2001,Turkey
+Uganda 2001,Complex Emergency,13564,2001,Uganda
+UNHCR 2001,Miscellaneous,14095,2001,none
+Uzbekistan 2001,Miscellaneous,14109,2001,Uzbekistan
+Venezuela 2001,Miscellaneous,14186,2001,Venezuela
+Viet Nam 2001,Miscellaneous,13569,2001,Viet Nam
+West Bank and Gaza 2001,Complex Emergency,13621,2001,"Palestinian territory, occupied"
+WFP 2001,Miscellaneous,14094,2001,none
+Yemen 2001,Miscellaneous,14141,2001,Yemen
+Zambia 2001,Miscellaneous,13613,2001,Zambia
+Zimbabwe 2001,Miscellaneous,14099,2001,Zimbabwe
+Algeria 2000,Miscellaneous,14357,2000,Algeria
+Armenia 2000,Miscellaneous,14319,2000,Armenia
+Azerbaijan 2000,Miscellaneous,14307,2000,Azerbaijan
+Burundi 2000,Complex Emergency,13574,2000,Burundi
+Democratic Republic of the Congo 2000,Complex Emergency,13576,2000,"Congo, Democratic Republic of the"
+Djibouti 2000,Miscellaneous,14362,2000,Djibouti
+Ethiopia 2000,Miscellaneous,14300,2000,Ethiopia
+Georgia 2000,Miscellaneous,14308,2000,Georgia
+Jordan 2000,Miscellaneous,14361,2000,Jordan
+Kenya 2000,Miscellaneous,14303,2000,Kenya
+Lao PDR 2000,Miscellaneous,14315,2000,Lao People's Democratic Republic
+Miscellaneous 2000 (funding not earmarked by country or emergency),Miscellaneous,14796,2000,none
+Mozambique  2000,Miscellaneous,14312,2000,Mozambique
+Nepal 2000,Miscellaneous,14316,2000,Nepal
+Palestine 2000,Miscellaneous,13618,2000,"Palestinian territory, occupied"
+Republic of  Congo 2000,Complex Emergency,13583,2000,"Congo, Republic of"
+South Africa 2000,Miscellaneous,14359,2000,South Africa
+Southeastern Europe 2000,Complex Emergency,13591,2000,Region
+Sri Lanka  2000,Miscellaneous,14310,2000,Sri Lanka
+Sudan 2000,Complex Emergency,13581,2000,Sudan
+Syrian Arab Republic 2000,Miscellaneous,14360,2000,Syrian Arab Republic
+Thailand 2000,Miscellaneous,14306,2000,Thailand
+Uganda 2000,Complex Emergency,13585,2000,Uganda
+Ukraine 2002,Miscellaneous,14324,2000,Ukraine
+UNRWA 2000,Miscellaneous,14304,2000,Region
+Venezuela 2000,Miscellaneous,14358,2000,Venezuela
+West Timor 2002,Miscellaneous,14311,2000,Indonesia
+Zambia 2000,Miscellaneous,14320,2000,Zambia
+Caucasus (Northern) 1999,Complex Emergency,13598,1999,Russian Federation
+Miscellaneous 1999,Miscellaneous,16743,1999,
+West Timor 1999,Complex Emergency,13592,1999,Indonesia
