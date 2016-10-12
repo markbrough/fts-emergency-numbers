@@ -25,5 +25,5 @@ def download(csv, year):
 with open(CSV_FILENAME, "w") as csv_file:
   csv = unicodecsv.DictWriter(csv_file, fieldnames=HEADERS)
   csv.writeheader()
-  for year in range (1970,2017):
+  for year in range (2016,1998,-1):
     download(csv, year)
