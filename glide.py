@@ -4,7 +4,7 @@ import unicodecsv
 SEARCH_URL = "http://glidenumber.net/glide/public/search/search.jsp"
 URL = "http://glidenumber.net/glide/public/result/report.jsp"
 
-CSV_FILENAME = "output/glide.csv"
+CSV_FILENAME = "output/glide-emergencies.csv"
 HEADERS = ["GLIDE_number", "Event", "Country", "Date"]
 
 def download(csv):

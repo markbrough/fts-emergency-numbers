@@ -3,7 +3,7 @@ from lxml import etree
 import unicodecsv
 URL = "http://fts.unocha.org/api/v1/Emergency/year/{0}.xml"
 
-CSV_FILENAME = "output/emergencies.csv"
+CSV_FILENAME = "output/fts-emergencies.csv"
 HEADERS = ["title", "type", "id", "year", "country"]
 
 def download(csv, year):
