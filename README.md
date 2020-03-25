@@ -1,7 +1,12 @@
-# Emergency-IDs
-Scrape of:
+# Humantarian emergency codelists
 
-- GLIDE numbers from GLIDE website
+This repository contains a scraper which collects reference codelists from the following sources:
+
+- GLIDE numbers from [GLIDE website](https://glidenumber.net/)
 - FTS API to obtain emergency IDs for humanitarian emergencies
 
-NB FTS API scrape excludes FTS emergencies that have an associated GLIDE number -- in those cases, the GLIDE number should be used instead.
+The scraper runs every night and the data is available to download on morph.io (you'll need to create a free account to download the data):
+
+https://morph.io/codeforIATI/humanitarian-emergency-codelists
+
+Alternatively, you can also run this code.
