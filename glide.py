@@ -91,7 +91,7 @@ def download(csv):
     })
 
 
-if __name__ == "main":
+if __name__ == "__main__":
   with open(CSV_FILENAME, "w") as csv_file:
     csv = csv.DictWriter(csv_file, fieldnames=HEADERS)
     csv.writeheader()
