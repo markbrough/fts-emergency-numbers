@@ -1,6 +1,7 @@
 import requests
 from lxml import html
 import csv
+import os
 import datetime
 SEARCH_URL = "https://glidenumber.net/glide/public/search/search.jsp"
 URL = "https://glidenumber.net/glide/public/result/report.jsp"
