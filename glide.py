@@ -92,6 +92,7 @@ def download(csv):
 
 
 if __name__ == "__main__":
+  os.makedirs("output", exist_ok=True)
   with open(CSV_FILENAME, "w") as csv_file:
     csv = csv.DictWriter(csv_file, fieldnames=HEADERS)
     csv.writeheader()
