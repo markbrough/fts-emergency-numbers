@@ -3,11 +3,12 @@ from lxml import html
 import csv
 import os
 import datetime
+BASE_URL = "https://glidenumber.net"
 SEARCH_URL = "https://glidenumber.net/glide/public/search/search.jsp"
 URL = "https://glidenumber.net/glide/public/result/report.jsp"
 
 CSV_FILENAME = "output/glide-emergencies.csv"
-HEADERS = ["GLIDE_number", "Event", "Country", "Date", "Event_Code", "Country_Code", "Glide_Serial", "Comments"]
+HEADERS = ["GLIDE_number", "URL", "Event", "Country", "Date", "Event_Code", "Country_Code", "Glide_Serial", "Comments"]
 
 REQUEST_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1',
@@ -56,7 +57,11 @@ def download(csv):
         ("go.x", "Search")
     ]
     print("Opening GLIDEnumber.net")
-    s.post(SEARCH_URL, data=search_post_data)
+    r = s.post(SEARCH_URL, data=search_post_data)
+    doc = html.fromstring(r.text)
+    urls = [
+        BASE_URL + a.get('href').split('&', 1)[0]
+        for a in doc.xpath('//table')[6].xpath('tr/td[1]/a')]
 
     post_data = [
         ("continueReport", "Continue"),
@@ -74,15 +79,16 @@ def download(csv):
     print("Requesting list of GLIDE numbers, this may take a moment...")
     r = s.post(URL, data=post_data)
     doc = html.fromstring(r.text)
-    rows = doc.xpath("//table[3]")[0].xpath("tr/td/table[2]/tr")
+    rows = doc.xpath("//table")[2].xpath("tr/td/table[2]/tr")
     print("Found {} entries".format(len(rows)))
-    for row in rows:
+    for row, url in zip(rows, urls):
         # if not row.xpath("tr/td[@class='bfS']"): continue
         if (len(row.xpath("td")) != 8):
             print("Irregular column width, skipping")
             continue
         csv.writerow({
             "GLIDE_number": get_t(row, 0),
+            "URL": url,
             "Event": get_t(row, 1),
             "Country": get_t(row, 2),
             "Date": make_date(get_t(row, 3)),
